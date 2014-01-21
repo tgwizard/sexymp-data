@@ -1,0 +1,1406 @@
+Starting processing
+Will not download new data from http://sexymp.co.uk
+Run './lib/download_sexymp_html.js' to do that
+==== Wed Jan 22 00:46:52 CET 2014
+Parsing data from sexymp.co.uk HTML...
+Data for 648 MPs found
+==== Wed Jan 22 00:46:52 CET 2014
+Parsing life expectancy data...
+Dataset 'life_exp_birth_male' contains 346 items
+Dataset 'life_exp_birth_female' contains 346 items
+Dataset 'life_exp_65_male' contains 346 items
+Dataset 'life_exp_65_female' contains 346 items
+Data for 346 areas found
+==== Wed Jan 22 00:46:55 CET 2014
+Parsing death data...
+Data found for 457 areas
+==== Wed Jan 22 00:46:56 CET 2014
+Enriching data for MPs with area info from mapit.mysociety.org...
+Data for 648 MPs enriched
+==== Wed Jan 22 00:47:11 CET 2014
+Enriching life expectancy data with area info from mapit.mysociety.org...
+(this can take a while...)
+Data for 346 areas enriched
+==== Wed Jan 22 00:47:42 CET 2014
+Enriching deaths and rates data with area info from mapit.mysociety.org...
+(this can take a while...)
+Area types used during lookup: EUR,UTA,DIS,LGD,CTY,MTD,LBO
+** Ignoring 'united kingdom'. It doesn't make sense, or is a too general area.
+** Ignoring 'england and wales2'. It doesn't make sense, or is a too general area.
+** Ignoring 'england'. It doesn't make sense, or is a too general area.
+** Ignoring 'north east'. It doesn't make sense, or is a too general area.
+** Ignoring 'north west'. It doesn't make sense, or is a too general area.
+** Ignoring 'greater manchester'. It doesn't make sense, or is a too general area.
+** Ignoring 'east midlands'. It doesn't make sense, or is a too general area.
+** Ignoring 'west midlands'. It doesn't make sense, or is a too general area.
+** Ignoring 'west midlands'. It doesn't make sense, or is a too general area.
+** Ignoring 'east'. It doesn't make sense, or is a too general area.
+** Ignoring 'london'. It doesn't make sense, or is a too general area.
+** Ignoring 'inner london'. It doesn't make sense, or is a too general area.
+** Ignoring 'hackney and city of london3'. It doesn't make sense, or is a too general area.
+** Ignoring 'outer london'. It doesn't make sense, or is a too general area.
+** Ignoring 'south east'. It doesn't make sense, or is a too general area.
+** Ignoring 'south west'. It doesn't make sense, or is a too general area.
+** Ignoring 'wales'. It doesn't make sense, or is a too general area.
+** Ignoring 'outside england and wales'. It doesn't make sense, or is a too general area.
+** Ignoring 'council areas'. It doesn't make sense, or is a too general area.
+** Ignoring 'northern ireland1'. It doesn't make sense, or is a too general area.
+** Ignoring 'local government district'. It doesn't make sense, or is a too general area.
+-- No result for 'tyne and wear'. Skipping it. Url: http://mapit.mysociety.org/areas/tyne and wear?type=EUR,UTA,DIS,LGD,CTY,MTD,LBO
+-- No result for 'merseyside'. Skipping it. Url: http://mapit.mysociety.org/areas/merseyside?type=EUR,UTA,DIS,LGD,CTY,MTD,LBO
+-- No result for 'south yorkshire'. Skipping it. Url: http://mapit.mysociety.org/areas/south yorkshire?type=EUR,UTA,DIS,LGD,CTY,MTD,LBO
+-- No result for 'west yorkshire'. Skipping it. Url: http://mapit.mysociety.org/areas/west yorkshire?type=EUR,UTA,DIS,LGD,CTY,MTD,LBO
+>> Failed to fetch covered areas for 'argyll and bute'. Url: http://mapit.mysociety.org/area/2647/covers?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+>> Failed to fetch covered areas for 'highland'. Url: http://mapit.mysociety.org/area/2643/covers?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+>> Failed to fetch covered areas for 'orkney islands'. Url: http://mapit.mysociety.org/area/2645/covers?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+>> Failed to fetch covered areas for 'comhairle nan eilean siar'. Url: http://mapit.mysociety.org/area/2646/covers?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+>> Failed to fetch covered areas for 'shetland islands'. Url: http://mapit.mysociety.org/area/2653/covers?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+>> Failed to fetch overlapped areas for 'argyll and bute'. Url: http://mapit.mysociety.org/area/2647/overlaps?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+>> Failed to fetch overlapped areas for 'orkney islands'. Url: http://mapit.mysociety.org/area/2645/overlaps?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+>> Failed to fetch overlapped areas for 'highland'. Url: http://mapit.mysociety.org/area/2643/overlaps?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+>> Failed to fetch covered areas for 'scotland'. Url: http://mapit.mysociety.org/area/11808/covers?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+>> Failed to fetch overlapped areas for 'comhairle nan eilean siar'. Url: http://mapit.mysociety.org/area/2646/overlaps?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+>> Failed to fetch overlapped areas for 'shetland islands'. Url: http://mapit.mysociety.org/area/2653/overlaps?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+>> Failed to fetch overlapped areas for 'scotland'. Url: http://mapit.mysociety.org/area/11808/overlaps?type=WMC. Response: {"code": 500, "error": "That query was taking too long to compute - try restricting to a specific type, if you weren't already doing so."}
+Enriched areas: 432
+Failed areas: 4
+Ignored areas: 21
+Data for 457 areas enriched
+==== Wed Jan 22 00:49:29 CET 2014
+Mapping MPs with life expectancy data...
+++ Could find match for Owen Patterson, North Shropshire, E14000849. Type: covered_by
+++ Could find match for Nicola Blackwood, Oxford West and Abingdon, E14000874. Type: overlapped_by (calculated average)
+++ Could find match for Charlotte Leslie, Bristol North West, E14000600. Type: covered_by
+++ Could find match for Claire Perry, Devizes, E14000665. Type: covered_by
+++ Could find match for Esther Mcvey, Wirral West, E14001044. Type: covered_by
+++ Could find match for Penny Mordaunt, Portsmouth North, E14000883. Type: covered_by
+++ Could find match for Mary Macleod, Brentford and Isleworth, E14000593. Type: covered_by
+++ Could find match for Caroline Nokes, Romsey and Southampton North, E14000901. Type: overlapped_by (calculated average)
+++ Could find match for Sarah Wollaston, Totnes, E14001001. Type: overlapped_by (calculated average)
+++ Could find match for Rebecca Harris, Castle Point, E14000622. Type: covered_by
+++ Could find match for Caroline Dinenage, Gosport, E14000713. Type: overlapped_by (calculated average)
+++ Could find match for Richard Drax, South Dorset, E14000936. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Eilidh Whiteford, Banff and Buchan, S14000007
+++ Could find match for Amber Rudd, Hastings and Rye, E14000735. Type: overlapped_by (calculated average)
+++ Could find match for Maria Miller, Basingstoke, E14000545. Type: covered_by
+++ Could find match for Anna Soubry, Broxtowe, E14000607. Type: covered_by
+++ Could find match for Theresa Villiers, Chipping Barnet, E14000636. Type: covered_by
+++ Could find match for Elizabeth Truss, South West Norfolk, E14000952. Type: overlapped_by (calculated average)
+++ Could find match for Priti Patel, Witham, E14001045. Type: overlapped_by (calculated average)
+++ Could find match for Nadine Dorries, Mid Bedfordshire, E14000813. Type: overlapped_by (calculated average)
+++ Could find match for Harriet Baldwin, West Worcestershire, E14001035. Type: overlapped_by (calculated average)
+++ Could find match for Nicky Morgan, Loughborough, E14000797. Type: covered_by
+++ Could find match for Chloe Smith, Norwich North, E14000863. Type: covered_by
+++ Could find match for Anne Maine, St Albans, E14000960. Type: overlapped_by (calculated average)
+++ Could find match for Caroline Spelman, Meriden, E14000812. Type: covered_by
+++ Could find match for Justine Greening, Putney, E14000887. Type: covered_by
+++ Could find match for Louise Bagshawe, Corby, E14000648. Type: overlapped_by (calculated average)
+++ Could find match for Damian hinds, East Hampshire, E14000680. Type: covered_by
+++ Could find match for Karl McCartney, Lincoln, E14000792. Type: overlapped_by (calculated average)
+++ Could find match for Craig Whittacker, Calder Valley, E14000614. Type: covered_by
+++ Could find match for Adam Holloway, Gravesham, E14000715. Type: covered_by
+++ Could find match for David Ruffley, Bury St Edmunds, E14000613. Type: overlapped_by (calculated average)
+++ Could find match for Mark Harper, Forest of Dean, E14000705. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Jones, Harrogate and Knaresborough, E14000730. Type: covered_by
+++ Could find match for Anne Marie Morris, Newton Abbot, E14000835. Type: covered_by
+++ Could find match for Karen Bradley, Staffordshire Moorlands, E14000966. Type: overlapped_by (calculated average)
+++ Could find match for Jonathan Djanogly, Huntingdon, E14000757. Type: covered_by
+++ Could find match for Michael Dugher, Barnsley East, E14000542. Type: covered_by
+++ Could find match for Jamie Reed, Copeland, E14000647. Type: overlapped_by (calculated average)
+++ Could find match for Sarah Teather, Brent Central, E14000591. Type: covered_by
+++ Could find match for Stuart Andrew, Pudsey, E14000886. Type: covered_by
+++ Could find match for Jesse Norman, Hereford and South Herefordshire, E14000743. Type: covered_by
+== Data unavailable for Scotland Brian Donohoe, Central Ayrshire, S14000010
+++ Could find match for Eleanor Laing, Epping Forest, E14000693. Type: covered_by
+++ Could find match for Rob Wilson, Reading East, E14000889. Type: overlapped_by (calculated average)
+++ Could find match for Christopher Pincher, Tamworth, E14000986. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Gwynne, Denton and Reddish, E14000661. Type: overlapped_by (calculated average)
+++ Could find match for Smith Henry, Crawley, E14000652. Type: covered_by
+++ Could find match for Rehman Chishti, Gillingham and Rainham, E14000711. Type: covered_by
+++ Could find match for George Eustice, Camborne and Redruth, E14000616. Type: covered_by
+++ Could find match for Graham Evans, Weaver Vale, E14001024. Type: overlapped_by (calculated average)
+++ Could find match for Jake Berry, Rossendale and Darwen, E14000902. Type: overlapped_by (calculated average)
+++ Could find match for Chris Skidmore, Kingswood, E14000774. Type: covered_by
+++ Could find match for Mark Garnier, Wyre Forest, E14001058. Type: covered_by
+++ Could find match for David Laws, Yeovil, E14001060. Type: covered_by
+++ Could find match for James Wharton, Stockton South, E14000971. Type: covered_by
+++ Could find match for Tracey Crouch, Chatham and Aylesford, E14000626. Type: overlapped_by (calculated average)
+++ Could find match for Jon Ashworth, Leicester South, E14000783. Type: covered_by
+++ Could find match for Daniel Kawczynski, Shrewsbury and Atcham, E14000926. Type: covered_by
+++ Could find match for Jessica Lee, Erewash, E14000695. Type: covered_by
+++ Could find match for David Cameron, Witney, E14001046. Type: covered_by
+++ Could find match for Tobias Ellwood, Bournemouth East, E14000584. Type: covered_by
+== Data unavailable for Scotland Ian Murray, Edinburgh South, S14000024
+++ Could find match for Eric Ollerenshaw, Lancaster and Fleetwood, E14000776. Type: overlapped_by (calculated average)
+++ Could find match for Sam Gyimah, East Surrey, E14000681. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Douglas Alexander, Paisley and Renfrewshire South, S14000053
+++ Could find match for Philip Dunne, Ludlow, E14000799. Type: covered_by
+++ Could find match for Helen Grant, Maidstone and The Weald, E14000804. Type: overlapped_by (calculated average)
+++ Could find match for Matthew Offord, Hendon, E14000741. Type: covered_by
+++ Could find match for Robin Walker, Worcester, E14001052. Type: covered_by
+++ Could find match for James Duddridge, Rochford and Southend East, E14000899. Type: overlapped_by (calculated average)
+++ Could find match for Greg Hands, Chelsea and Fulham, E14000629. Type: overlapped_by (calculated average)
+++ Could find match for David Mowat, Warrington South, E14001018. Type: covered_by
+++ Could find match for Nigel Evans, Ribble Valley, E14000894. Type: overlapped_by (calculated average)
+++ Could find match for Justin Tomlinson, North Swindon, E14000851. Type: covered_by
+++ Could find match for John Mann, Bassetlaw, E14000546. Type: covered_by
+++ Could find match for Clive Efford, Eltham, E14000690. Type: covered_by
+++ Could find match for Stephen Barclay, North East Cambridgeshire, E14000842. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Bridgen, North West Leicestershire, E14000858. Type: covered_by
+++ Could find match for Gordon Marsden, Blackpool South, E14000573. Type: covered_by
+++ Could find match for Chris White, Warwick and Leamington, E14001019. Type: covered_by
+++ Could find match for Malcom Wicks, Croydon North, E14000655. Type: covered_by
+++ Could find match for Robert Buckland, South Swindon, E14000947. Type: covered_by
+++ Could find match for Barry Gardiner, Brent North, E14000592. Type: covered_by
+++ Could find match for William Hague, Richmond (Yorks), E14000895. Type: overlapped_by (calculated average)
+++ Could find match for Dai Harvard, Merthyr Tydfil and Rhymney, W07000071. Type: overlapped_by (calculated average)
+++ Could find match for Jeremy Hunt, South West Surrey, E14000953. Type: covered_by
+++ Could find match for Andrew Rosindell, Romford, E14000900. Type: covered_by
+++ Could find match for David Ruttley, Macclesfield, E14000802. Type: covered_by
+++ Could find match for Stephen Dorrell, Charnwood, E14000625. Type: overlapped_by (calculated average)
+++ Could find match for Richard Fuller, Bedford, E14000552. Type: covered_by
+++ Could find match for Mel Stride, Central Devon, E14000623. Type: overlapped_by (calculated average)
+++ Could find match for Julian Sturdy, York Outer, E14001062. Type: covered_by
+++ Could find match for Zac Goldsmith, Richmond Park, E14000896. Type: overlapped_by (calculated average)
+++ Could find match for Chris Huhne, Eastleigh, E14000685. Type: covered_by
+++ Could find match for Alan Keen, Feltham and Heston, E14000701. Type: covered_by
+++ Could find match for David Lidington, Aylesbury, E14000538. Type: overlapped_by (calculated average)
+++ Could find match for Julian Brazier, Canterbury, E14000619. Type: covered_by
+++ Could find match for Kevin Brennan, Cardiff West, W07000079. Type: overlapped_by (calculated average)
+++ Could find match for Stephen Crabb, Preseli Pembrokeshire, W07000065. Type: covered_by
+++ Could find match for Robert Flello, Stoke-on-Trent South, E14000974. Type: covered_by
+== Data unavailable for Scotland Jim Murphy, East Renfrewshire, S14000021
+++ Could find match for David Burrowes, Enfield, Southgate, E14000692. Type: covered_by
+== Data unavailable for Northern Ireland Jeffrey Donaldson, Lagan Valley, N06000009
+++ Could find match for Francis Maude, Horsham, E14000753. Type: overlapped_by (calculated average)
+++ Could find match for Jacob Rees-Mogg, North East Somerset, E14000846. Type: covered_by
+++ Could find match for Stephen Twigg, Liverpool, West Derby, E14000796. Type: covered_by
+++ Could find match for Chris Evans, Islwyn, W07000077. Type: covered_by
+++ Could find match for Michael Fallon, Sevenoaks, E14000918. Type: covered_by
+++ Could find match for Liam Fox, North Somerset, E14000850. Type: covered_by
+++ Could find match for Kris Hopkins, Keighley, E14000766. Type: covered_by
+++ Could find match for Nick Hurd, Ruislip, Northwood and Pinner, E14000906. Type: overlapped_by (calculated average)
+++ Could find match for John Leech, Manchester, Withington, E14000809. Type: covered_by
+++ Could find match for Nigel Adams, Selby and Ainsty, E14000917. Type: overlapped_by (calculated average)
+++ Could find match for Mark Simmonds, Boston and Skegness, E14000582. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Stephenson, Pendle, E14000875. Type: covered_by
+++ Could find match for Steve Brine, Winchester, E14001041. Type: overlapped_by (calculated average)
+++ Could find match for Alan Campbell, Tynemouth, E14001006. Type: covered_by
+++ Could find match for Frank Field, Birkenhead, E14000559. Type: covered_by
+++ Could find match for Bernard Jenkin, Harwich and North Essex, E14000734. Type: overlapped_by (calculated average)
+++ Could find match for Graham Jones, Hyndburn, E14000758. Type: overlapped_by (calculated average)
+++ Could find match for Brandon Lewis, Great Yarmouth, E14000717. Type: covered_by
+++ Could find match for Aiden Burley, Cannock Chase, E14000618. Type: covered_by
+++ Could find match for Ben Gummer, Ipswich, E14000761. Type: covered_by
+++ Could find match for Robert Halfon, Harlow, E14000729. Type: overlapped_by (calculated average)
+++ Could find match for Oliver Heald, North East Hertfordshire, E14000845. Type: overlapped_by (calculated average)
+++ Could find match for David Davies, Monmouth, W07000054. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland David Hamilton, Midlothian, S14000045
+++ Could find match for David Nuttal, Bury North, E14000611. Type: covered_by
+++ Could find match for Peter Bone, Wellingborough, E14001025. Type: overlapped_by (calculated average)
+++ Could find match for Douglas Carswell, Clacton, E14000642. Type: covered_by
+++ Could find match for Mark Francois, Rayleigh and Wickford, E14000888. Type: overlapped_by (calculated average)
+++ Could find match for Crispin Blunt, Reigate, E14000893. Type: covered_by
+++ Could find match for Charlie Elphicke, Dover, E14000670. Type: covered_by
+++ Could find match for Simon Hart, Carmarthen West and South Pembrokeshire, W07000066. Type: covered_by
+++ Could find match for Hugh Bayley, York Central, E14001061. Type: covered_by
+== Data unavailable for Scotland Anas Sarwar, Glasgow Central, S14000029
+++ Could find match for Greg Clark, Tunbridge Wells, E14001004. Type: covered_by
+++ Could find match for Andrew Griffiths, Burton, E14000610. Type: covered_by
+++ Could find match for Daniel Poulter, Central Suffolk and North Ipswich, E14000624. Type: overlapped_by (calculated average)
+++ Could find match for Charles Walker, Broxbourne, E14000606. Type: overlapped_by (calculated average)
+++ Could find match for Michael Elliss, Northampton North, E14000861. Type: covered_by
+== Data unavailable for Scotland Eric Joyce, Falkirk, S14000028
+++ Could find match for Gavin Shuker, Luton South, E14000801. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Russell Brown, Dumfries and Galloway, S14000013
+++ Could find match for Andy Burnham, Leigh, E14000785. Type: covered_by
+++ Could find match for Kelvin Hopkins, Luton North, E14000800. Type: covered_by
+++ Could find match for Hilary Benn, Leeds Central, E14000777. Type: covered_by
+++ Could find match for Mike Wood, Batley and Spen, E14000548. Type: covered_by
+++ Could find match for Ben Walker, Wyre and Preston North, E14001057. Type: overlapped_by (calculated average)
+++ Could find match for Tony Lloyd, Manchester Central, E14000807. Type: covered_by
+++ Could find match for Andrew Selous, South West Bedfordshire, E14000949. Type: covered_by
+++ Could find match for Graham Brady, Altrincham and Sale West, E14000532. Type: covered_by
+++ Could find match for Mark Lancaster, Milton Keynes North, E14000821. Type: covered_by
+++ Could find match for Richard Benyon, Newbury, E14000830. Type: covered_by
+++ Could find match for Neil Parish, Tiverton and Honiton, E14000996. Type: overlapped_by (calculated average)
+++ Could find match for David Lammy, Tottenham, E14001002. Type: covered_by
+== Data unavailable for Scotland Michael Moore, Berwickshire, Roxburgh and Selkirk, S14000008
+++ Could find match for Sheryll Murray, South East Cornwall, E14000938. Type: covered_by
+++ Could find match for Nick Boles, Grantham and Stamford, E14000714. Type: covered_by
+++ Could find match for Bill Wiggin, North Herefordshire, E14000847. Type: covered_by
+== Data unavailable for Northern Ireland Gregory Campbell, East Londonderry, N06000006
+++ Could find match for John Hayes, South Holland and The Deepings, E14000939. Type: overlapped_by (calculated average)
+++ Could find match for Peter Bottomley, Worthing West, E14001055. Type: overlapped_by (calculated average)
+++ Could find match for Dan Byles, North Warwickshire, E14000854. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Percy, Brigg and Goole, E14000596. Type: overlapped_by (calculated average)
+++ Could find match for Edward Timson, Crewe and Nantwich, E14000653. Type: covered_by
+++ Could find match for John Woodcock, Barrow and Furness, E14000543. Type: overlapped_by (calculated average)
+++ Could find match for Phillip Lee, Bracknell, E14000586. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Angus MacNiel, Na h-Eileanan an Iar, S14000027
+++ Could find match for Khalid Mahmood, Birmingham, Perry Barr, E14000566. Type: covered_by
+++ Could find match for Hugh Robertson, Faversham and Mid Kent, E14000700. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Smith, Oxford East, E14000873. Type: covered_by
+++ Could find match for Nick Smith, Blaenau Gwent, W07000072. Type: covered_by
+++ Could find match for Steve Baker, Wycombe, E14001056. Type: covered_by
+++ Could find match for James Morris, Halesowen and Rowley Regis, E14000722. Type: overlapped_by (calculated average)
+++ Could find match for George Hollinberry, Meon Valley, E14000811. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Malcom Bruce, Gordon, S14000037
+++ Could find match for Mark Field, Cities of London and Westminster, E14000639. Type: overlapped_by (calculated average)
+++ Could find match for George Freeman, Mid Norfolk, E14000816. Type: overlapped_by (calculated average)
+++ Could find match for Mark Pritchard, The Wrekin, E14000992. Type: overlapped_by (calculated average)
+++ Could find match for Jackie Doyle-Price, Thurrock, E14000995. Type: covered_by
+++ Could find match for Alan Johnson, Kingston upon Hull West and Hessle, E14000773. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland David Mundell, Dumfriesshire, Clydesdale and Tweeddale, S14000014
+++ Could find match for Mark Prisk, Hertford and Stortford, E14000744. Type: covered_by
+++ Could find match for Julian Smith, Skipton and Ripon, E14000928. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Pete Wishart, Perth and North Perthshire, S14000054
+++ Could find match for Jeremy Browne, Taunton Deane, E14000988. Type: covered_by
+++ Could find match for Mike Freer, Finchley and Golders Green, E14000703. Type: covered_by
+++ Could find match for John Baron, Basildon and Billericay, E14000544. Type: covered_by
+++ Could find match for Stephen Phillips, Sleaford and North Hykeham, E14000929. Type: overlapped_by (calculated average)
+++ Could find match for John Redwood, Wokingham, E14001048. Type: overlapped_by (calculated average)
+++ Could find match for Neil Carmichael, Stroud, E14000980. Type: covered_by
+++ Could find match for Margot James, Stourbridge, E14000976. Type: covered_by
+++ Could find match for Jeremy Lefroy, Stafford, E14000965. Type: overlapped_by (calculated average)
+++ Could find match for Tami Mark, Alyn and Deeside, W07000043. Type: covered_by
+++ Could find match for John Glen, Salisbury, E14000912. Type: covered_by
+++ Could find match for Nick Herbert, Arundel and South Downs, E14000534. Type: overlapped_by (calculated average)
+++ Could find match for Derek Twigg, Halton, E14000725. Type: covered_by
+++ Could find match for Desmond Swayne, New Forest West, E14000828. Type: covered_by
+++ Could find match for Gavin Williamson, South Staffordshire, E14000945. Type: covered_by
+++ Could find match for Alun Cairns, Vale of Glamorgan, W07000078. Type: overlapped_by (calculated average)
+++ Could find match for Nick de Bois, Enfield North, E14000691. Type: covered_by
+++ Could find match for Tony Baldry, Banbury, E14000539. Type: covered_by
+++ Could find match for Sajid Javid, Bromsgrove, E14000605. Type: covered_by
+++ Could find match for Paul Beresford, Mole Valley, E14000824. Type: overlapped_by (calculated average)
+++ Could find match for George Osborne, Tatton, E14000987. Type: overlapped_by (calculated average)
+++ Could find match for Dominic Raab, Esher and Walton, E14000697. Type: covered_by
+++ Could find match for Simon Wright, Norwich South, E14000864. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Frank Doran, Aberdeen North, S14000001
+++ Could find match for Chris Kelly, Dudley South, E14000672. Type: covered_by
+++ Could find match for Andrew Lansley, South Cambridgeshire, E14000934. Type: overlapped_by (calculated average)
+++ Could find match for John McDonnell, Hayes and Harlington, E14000737. Type: covered_by
+++ Could find match for Toby Perkins, Chesterfield, E14000632. Type: covered_by
+++ Could find match for Iain Wright, Hartlepool, E14000733. Type: covered_by
+++ Could find match for Jeremy Corbyn, Islington North, E14000763. Type: covered_by
+++ Could find match for Cheryl Gillan, Chesham and Amersham, E14000631. Type: overlapped_by (calculated average)
+++ Could find match for Philip Hammond, Runnymede and Weybridge, E14000907. Type: overlapped_by (calculated average)
+++ Could find match for Iain Stewart, Milton Keynes South, E14000822. Type: covered_by
+++ Could find match for Jack Straw, Blackburn, E14000570. Type: covered_by
+++ Could find match for Nick Clegg, Sheffield, Hallam, E14000922. Type: covered_by
+++ Could find match for Richard Graham, Gloucester, E14000712. Type: covered_by
+== Data unavailable for Scotland Stewart Hosie, Dundee East, S14000015
+++ Could find match for Brooks Newmark, Braintree, E14000590. Type: covered_by
+++ Could find match for James Clappison, Hertsmere, E14000745. Type: covered_by
+++ Could find match for Jason McCartney, Colne Valley, E14000645. Type: covered_by
+++ Could find match for Alec Shelbrooke, Elmet and Rothwell, E14000689. Type: covered_by
+++ Could find match for Jim Fitzpatrick, Poplar and Limehouse, E14000882. Type: covered_by
+++ Could find match for Huw Irranca-Davies, Ogmore, W07000074. Type: overlapped_by (calculated average)
+++ Could find match for Peter Lilley, Hitchin and Harpenden, E14000749. Type: overlapped_by (calculated average)
+++ Could find match for Dennis Skinner, Bolsover, E14000577. Type: overlapped_by (calculated average)
+++ Could find match for Jon Cruddas, Dagenham and Rainham, E14000657. Type: overlapped_by (calculated average)
+++ Could find match for Jonathan Lord, Woking, E14001047. Type: overlapped_by (calculated average)
+++ Could find match for Guy Opperman, Hexham, E14000746. Type: overlapped_by (calculated average)
+++ Could find match for Graham Stuart, Beverley and Holderness, E14000556. Type: covered_by
+++ Could find match for Jim Cunningham, Coventry South, E14000651. Type: covered_by
+++ Could find match for Edward Garnier, Harborough, E14000728. Type: overlapped_by (calculated average)
+++ Could find match for Robert Syms, Poole, E14000881. Type: covered_by
+++ Could find match for Nadhim Zawahi, Stratford-on-Avon, E14000977. Type: covered_by
+++ Could find match for Simon Danczuk, Rochdale, E14000897. Type: covered_by
+++ Could find match for Chris Grayling, Epsom and Ewell, E14000694. Type: overlapped_by (calculated average)
+++ Could find match for David Morris, Morecambe and Lunesdale, E14000825. Type: covered_by
+++ Could find match for Chris Heaton-Harris, Daventry, E14000660. Type: overlapped_by (calculated average)
+++ Could find match for Joseph Johnson, Orpington, E14000872. Type: covered_by
+++ Could find match for Mark Menzies, Fylde, E14000706. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Mitchell, Sutton Coldfield, E14000985. Type: covered_by
+++ Could find match for Fabian Hamilton, Leeds North East, E14000779. Type: covered_by
+++ Could find match for Tim Laughton, East Worthing and Shoreham, E14000682. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Alistair Darling, Edinburgh South West, S14000025
+++ Could find match for Stephen OBrien, Eddisbury, E14000686. Type: overlapped_by (calculated average)
+++ Could find match for John Penrose, Weston-Super-Mare, E14001038. Type: covered_by
+++ Could find match for Philip Davies, Shipley, E14000925. Type: covered_by
+== Data unavailable for Northern Ireland Ian Paisley, North Antrim, N06000012
+++ Could find match for Christopher Chope, Christchurch, E14000638. Type: overlapped_by (calculated average)
+++ Could find match for Simon Kirby, Brighton, Kemptown, E14000597. Type: overlapped_by (calculated average)
+++ Could find match for David Davis, Haltemprice and Howden, E14000724. Type: covered_by
+++ Could find match for Dominic Greive, Beaconsfield, E14000550. Type: overlapped_by (calculated average)
+++ Could find match for Matthew Hancock, West Suffolk, E14001034. Type: overlapped_by (calculated average)
+++ Could find match for Kwasi Kwarteng, Spelthorne, E14000959. Type: covered_by
+++ Could find match for Chris Leslie, Nottingham East, E14000865. Type: covered_by
+++ Could find match for Peter Luff, Mid Worcestershire, E14000818. Type: covered_by
+++ Could find match for Jack Lopresti, Filton and Bradley Stoke, E14000702. Type: covered_by
+++ Could find match for Theresa May, Maidenhead, E14000803. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Tom Greatrix, Rutherglen and Hamilton West, S14000056
+== Data unavailable for Scotland Jim McGovern, Dundee West, S14000016
+== Data unavailable for Scotland Michael McCann, East Kilbride, Strathaven and Lesmahagow, S14000019
+++ Could find match for Alan Duncan, Rutland and Melton, E14000909. Type: overlapped_by (calculated average)
+++ Could find match for James Paice, South East Cambridgeshire, E14000937. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Mick Crockart, Edinburgh West, S14000026
+++ Could find match for Kevan Jones, North Durham, E14000840. Type: covered_by
+++ Could find match for Owen Smith, Pontypridd, W07000075. Type: overlapped_by (calculated average)
+++ Could find match for Gareth Johnson, Dartford, E14000659. Type: overlapped_by (calculated average)
+++ Could find match for Marcus Jones, Nuneaton, E14000868. Type: overlapped_by (calculated average)
+++ Could find match for Karl Turner, Kingston upon Hull East, E14000771. Type: covered_by
+++ Could find match for David Ward, Bradford East, E14000587. Type: covered_by
+== Data unavailable for Scotland Thomas Docherty, Dunfermline and West Fife, S14000017
+++ Could find match for David Gauke, South West Hertfordshire, E14000951. Type: overlapped_by (calculated average)
+++ Could find match for Stephen Metcalfe, South Basildon and East Thurrock, E14000933. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Murrison, South West Wiltshire, E14000954. Type: covered_by
+++ Could find match for Jonathan Reynolds, Stalybridge and Hyde, E14000967. Type: covered_by
+++ Could find match for Andy Slaughter, Hammersmith, E14000726. Type: covered_by
+++ Could find match for Edward Vaisey, Wantage, E14001015. Type: overlapped_by (calculated average)
+++ Could find match for Martin Vickers, Cleethorpes, E14000643. Type: overlapped_by (calculated average)
+++ Could find match for Angela Watkinson, Hornchurch and Upminster, E14000751. Type: overlapped_by (calculated average)
+++ Could find match for Robert Goodwill, Scarborough and Whitby, E14000913. Type: covered_by
+++ Could find match for Adam Afriyie, Windsor, E14001042. Type: overlapped_by (calculated average)
+++ Could find match for Gareth Thomas, Harrow West, E14000732. Type: covered_by
+++ Could find match for Damian Collins, Folkestone and Hythe, E14000704. Type: overlapped_by (calculated average)
+++ Could find match for Geoffrey Cox, Torridge and West Devon, E14001000. Type: covered_by
+++ Could find match for Dan Jarvis, Barnsley Central, E14000541. Type: covered_by
+++ Could find match for Robert Walter, North Dorset, E14000839. Type: overlapped_by (calculated average)
+++ Could find match for Susan Jones, Clwyd South, W07000062. Type: overlapped_by (calculated average)
+++ Could find match for Ivan Lewis, Bury South, E14000612. Type: covered_by
+++ Could find match for Luciana Berger, Liverpool, Wavertree, E14000795. Type: covered_by
+++ Could find match for Laurence Robertson, Tewkesbury, E14000990. Type: overlapped_by (calculated average)
+++ Could find match for John Cryer, Leyton and Wanstead, E14000790. Type: overlapped_by (calculated average)
+++ Could find match for John Stevenson, Carlisle, E14000620. Type: covered_by
+++ Could find match for Tom Brake, Carshalton and Wallington, E14000621. Type: covered_by
+++ Could find match for Nic Dakin, Scunthorpe, E14000914. Type: covered_by
+++ Could find match for Martin Horwood, Cheltenham, E14000630. Type: covered_by
+++ Could find match for Rory Stewart, Penrith and The Border, E14000877. Type: overlapped_by (calculated average)
+++ Could find match for Hugo Swire, East Devon, E14000678. Type: overlapped_by (calculated average)
+++ Could find match for Duncan Hames, Chippenham, E14000635. Type: covered_by
+++ Could find match for Gavin Barwell, Croydon Central, E14000654. Type: covered_by
+== Data unavailable for Scotland Charles Kennedy, Ross, Skye and Lochaber, S14000055
+== Data unavailable for Scotland Graeme Morris, Livingston, S14000044
+++ Could find match for Bridget Phillipson, Houghton and Sunderland South, E14000754. Type: covered_by
+++ Could find match for Barry Sheerman, Huddersfield, E14000756. Type: covered_by
+++ Could find match for David Jones, Clwyd West, W07000059. Type: overlapped_by (calculated average)
+++ Could find match for Gloria de Piero, Ashfield, E14000535. Type: overlapped_by (calculated average)
+++ Could find match for Mark Hoban, Fareham, E14000699. Type: covered_by
+++ Could find match for Andrew Robathan, South Leicestershire, E14000940. Type: overlapped_by (calculated average)
+++ Could find match for Geoffrey Robinson, Coventry North West, E14000650. Type: covered_by
+++ Could find match for Iain Duncan Smith, Chingford and Woodford Green, E14000634. Type: overlapped_by (calculated average)
+++ Could find match for Mark Reckless, Rochester and Strood, E14000898. Type: covered_by
+++ Could find match for Albert Owen, Ynys Môn, W07000041. Type: covered_by
+== Data unavailable for Scotland Jo Swinson, East Dunbartonshire, S14000018
+++ Could find match for Ian Austin, Dudley North, E14000671. Type: covered_by
+++ Could find match for Stephen Gilbert, St Austell and Newquay, E14000961. Type: covered_by
+== Data unavailable for Scotland Gregg McClymont, Cumbernauld, Kilsyth and Kirkintilloch East, S14000012
+++ Could find match for David Anderson, Blaydon, E14000574. Type: overlapped_by (calculated average)
+++ Could find match for Paul Farrelly, Newcastle-under-Lyme, E14000834. Type: covered_by
+++ Could find match for John Spellar, Warley, E14001016. Type: overlapped_by (calculated average)
+++ Could find match for Lynne Featherstone, Hornsey and Wood Green, E14000752. Type: covered_by
+++ Could find match for Greg Mulholland, Leeds North West, E14000780. Type: covered_by
+++ Could find match for John Whittingdale, Maldon, E14000806. Type: overlapped_by (calculated average)
+++ Could find match for Simon Burns, Chelmsford, E14000628. Type: covered_by
+++ Could find match for Stephen Williams, Bristol West, E14000602. Type: covered_by
+++ Could find match for Paul Maynard, Blackpool North and Cleveleys, E14000572. Type: overlapped_by (calculated average)
+++ Could find match for David Miliband, South Shields, E14000944. Type: covered_by
+++ Could find match for John Denham, Southampton, Itchen, E14000955. Type: covered_by
+++ Could find match for Jonathan Edwards, Carmarthen East and Dinefwr, W07000067. Type: covered_by
+++ Could find match for Tristram Hunt, Stoke-on-Trent Central, E14000972. Type: covered_by
+++ Could find match for Caroline Flint, Don Valley, E14000667. Type: covered_by
+++ Could find match for Chuka Umunna, Streatham, E14000978. Type: covered_by
+++ Could find match for Clive Betts, Sheffield South East, E14000920. Type: covered_by
+++ Could find match for Jerem Wright, Kenilworth and Southam, E14000767. Type: overlapped_by (calculated average)
+++ Could find match for Edward Davey, Kingston and Surbiton, E14000770. Type: overlapped_by (calculated average)
+++ Could find match for Peter Aldous, Waveney, E14001022. Type: covered_by
+++ Could find match for Roger Gale, North Thanet, E14000852. Type: overlapped_by (calculated average)
+++ Could find match for Tim Yeo, South Suffolk, E14000946. Type: overlapped_by (calculated average)
+++ Could find match for Damian Green, Ashford, E14000536. Type: covered_by
+++ Could find match for Grant Shapps, Welwyn Hatfield, E14001027. Type: overlapped_by (calculated average)
+++ Could find match for Liz Kendall, Leicester West, E14000784. Type: covered_by
+++ Could find match for Tom Blenkinsop, Middlesbrough South and East Cleveland, E14000820. Type: overlapped_by (calculated average)
+++ Could find match for Mike Weatherley, Hove, E14000755. Type: covered_by
+++ Could find match for Jane Ellison, Battersea, E14000549. Type: covered_by
+++ Could find match for Emily Thornberry, Islington South and Finsbury, E14000764. Type: covered_by
+++ Could find match for Peter Hain, Neath, W07000069. Type: overlapped_by (calculated average)
+++ Could find match for Edward Leigh, Gainsborough, E14000707. Type: overlapped_by (calculated average)
+++ Could find match for Ben Bradshaw, Exeter, E14000698. Type: covered_by
+++ Could find match for Simon Reevell, Dewsbury, E14000666. Type: covered_by
+++ Could find match for Bob Stewart, Beckenham, E14000551. Type: covered_by
+++ Could find match for Jenny Willot, Cardiff Central, W07000050. Type: covered_by
+++ Could find match for James Gray, North Wiltshire, E14000860. Type: covered_by
+++ Could find match for Rachel Reeves, Leeds West, E14000781. Type: covered_by
+++ Could find match for Conor Burns, Bournemouth West, E14000585. Type: overlapped_by (calculated average)
+++ Could find match for Ian Liddell-Grainger, Bridgwater and West Somerset, E14000595. Type: overlapped_by (calculated average)
+++ Could find match for Sadiq Khan, Tooting, E14000998. Type: covered_by
+++ Could find match for Mark Williams, Ceredigion, W07000064. Type: covered_by
+++ Could find match for Charles Hendry, Wealden, E14001023. Type: covered_by
+++ Could find match for Stephen McPartland, Stevenage, E14000968. Type: overlapped_by (calculated average)
+++ Could find match for Steve Rotherham, Liverpool, Walton, E14000794. Type: covered_by
+== Data unavailable for Scotland Danny Alexander, Inverness, Nairn, Badenoch and Strathspey, S14000039
+++ Could find match for Lilian Greenwood, Nottingham South, E14000867. Type: covered_by
+++ Could find match for Debbie Abrahams, Oldham East and Saddleworth, E14000870. Type: covered_by
+++ Could find match for Simon Hughes, Bermondsey and Old Southwark, E14000553. Type: covered_by
+++ Could find match for Nick Gibb, Bognor Regis and Littlehampton, E14000576. Type: covered_by
+++ Could find match for Andrew Turner, Isle of Wight, E14000762. Type: covered_by
+++ Could find match for Kevin Barron, Rother Valley, E14000903. Type: covered_by
+++ Could find match for Pauline Latham, Mid Derbyshire, E14000814. Type: overlapped_by (calculated average)
+++ Could find match for Mark Spencer, Sherwood, E14000924. Type: overlapped_by (calculated average)
+++ Could find match for Stella Creasy, Walthamstow, E14001013. Type: covered_by
+++ Could find match for Lisa Nandy, Wigan, E14001039. Type: covered_by
+++ Could find match for Michael Gove, Surrey Heath, E14000983. Type: overlapped_by (calculated average)
+++ Could find match for Natascha Engel, North East Derbyshire, E14000843. Type: overlapped_by (calculated average)
+++ Could find match for Alok Sharma, Reading West, E14000890. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Pamela Nash, Airdrie and Shotts, S14000003
+++ Could find match for Adrian Bailey, West Bromwich West, E14001030. Type: covered_by
+++ Could find match for Andrew George, St Ives, E14000964. Type: covered_by
+++ Could find match for Paul Murphy, Torfaen, W07000053. Type: covered_by
+++ Could find match for Philip Hollobone, Kettering, E14000769. Type: covered_by
+++ Could find match for Andrew Bingham, High Peak, E14000748. Type: covered_by
+++ Could find match for Stewart Jackson, Peterborough, E14000878. Type: overlapped_by (calculated average)
+++ Could find match for Shabana Mahmood, Birmingham, Ladywood, E14000564. Type: covered_by
+== Data unavailable for Northern Ireland Sylvia Hermon, North Down, N06000013
+++ Could find match for John Howell, Henley, E14000742. Type: overlapped_by (calculated average)
+++ Could find match for Jessica Morden, Newport East, W07000055. Type: covered_by
+== Data unavailable for Scotland Katy Clark, North Ayrshire and Arran, S14000048
+++ Could find match for Alison McGovern, Wirral South, E14001043. Type: covered_by
+++ Could find match for Anne McIntosh, Thirsk and Malton, E14000993. Type: overlapped_by (calculated average)
+++ Could find match for Chris Bryant, Rhondda, W07000052. Type: covered_by
+++ Could find match for Kenneth Clarke, Rushcliffe, E14000908. Type: covered_by
+++ Could find match for Lorely Burt, Solihull, E14000931. Type: covered_by
+++ Could find match for Paul Blomfield, Sheffield Central, E14000919. Type: covered_by
+++ Could find match for Siobhain McDonagh, Mitcham and Morden, E14000823. Type: covered_by
+++ Could find match for Joan Ruddock, Lewisham, Deptford, E14000789. Type: covered_by
+++ Could find match for Karen Lumley, Redditch, E14000892. Type: overlapped_by (calculated average)
+++ Could find match for Andrea Leadsom, South Northamptonshire, E14000942. Type: overlapped_by (calculated average)
+++ Could find match for Emma Reynolds, Wolverhampton North East, E14001049. Type: covered_by
+++ Could find match for Greg Knight, East Yorkshire, E14000683. Type: covered_by
+== Data unavailable for Scotland Tom Harris, Glasgow South, S14000034
+++ Could find match for Kate Hoey, Vauxhall, E14001008. Type: covered_by
+++ Could find match for Rushanara Ali, Bethnal Green and Bow, E14000555. Type: covered_by
+++ Could find match for Bob Ainsworth, Coventry North East, E14000649. Type: covered_by
+++ Could find match for Valerie Vaz, Walsall South, E14001012. Type: covered_by
+++ Could find match for Yvette Cooper, Normanton, Pontefract and Castleford, E14000836. Type: covered_by
+++ Could find match for Dawn Primarolo, Bristol South, E14000601. Type: covered_by
+== Data unavailable for Northern Ireland Mark Durkan, Foyle, N06000008
+++ Could find match for Rosie Winterton, Doncaster Central, E14000668. Type: covered_by
+++ Could find match for Jenny Chapman, Darlington, E14000658. Type: covered_by
+++ Could find match for Catherin McKinnell, Newcastle upon Tyne North, E14000833. Type: covered_by
+++ Could find match for Mark Pawsey, Rugby, E14000905. Type: overlapped_by (calculated average)
+++ Could find match for Austin Mitchell, Great Grimsby, E14000716. Type: covered_by
+++ Could find match for Glyn Davies, Montgomeryshire, W07000063. Type: covered_by
+++ Could find match for Louise Ellman, Liverpool, Riverside, E14000793. Type: covered_by
+++ Could find match for Barbara Keeley, Worsley and Eccles South, E14001054. Type: covered_by
+++ Could find match for Loraine Fullbrook, South Ribble, E14000943. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Fiona ODonnell, East Lothian, S14000020
+++ Could find match for Teresa Pearse, Erith and Thamesmead, E14000696. Type: overlapped_by (calculated average)
+++ Could find match for Mike Penning, Hemel Hempstead, E14000739. Type: covered_by
+++ Could find match for John Randall, Uxbridge and South Ruislip, E14001007. Type: covered_by
+++ Could find match for James Brokenshire, Old Bexley and Sidcup, E14000869. Type: covered_by
+++ Could find match for Julie Elliot, Sunderland Central, E14000982. Type: covered_by
+++ Could find match for Diana Johnson, Kingston upon Hull North, E14000772. Type: covered_by
+++ Could find match for Lindsay Hoyle, Chorley, E14000637. Type: covered_by
+== Data unavailable for Scotland Alistair Carmichael, Orkney and Shetland, S14000051
+++ Could find match for Tessa Munt, Wells, E14001026. Type: overlapped_by (calculated average)
+++ Could find match for Heidi Alexander, Lewisham East, E14000787. Type: covered_by
+++ Could find match for Kerry McCarthey, Bristol East, E14000599. Type: covered_by
+++ Could find match for Yasmin Qureshi, Bolton South East, E14000579. Type: covered_by
+++ Could find match for Alex Cunningham, Stockton North, E14000970. Type: covered_by
+== Data unavailable for Northern Ireland Nigel Dodds, Belfast North, N06000002
+== Data unavailable for Scotland Gemma Doyle, West Dunbartonshire, S14000059
+++ Could find match for Anne Milton, Guildford, E14000719. Type: overlapped_by (calculated average)
+++ Could find match for Fiona Bruce, Congleton, E14000646. Type: covered_by
+++ Could find match for Paul Goggins, Wythenshawe and Sale East, E14001059. Type: overlapped_by (calculated average)
+++ Could find match for Th!!r!!se Coffey, Suffolk Coastal, E14000981. Type: overlapped_by (calculated average)
+++ Could find match for John Hemmings, Birmingham, Yardley, E14000568. Type: covered_by
+++ Could find match for Alison Seabeck, Plymouth, Moor View, E14000879. Type: covered_by
+== Data unavailable for Northern Ireland David Simpson, Upper Bann, N06000017
+++ Could find match for Hazel Blears, Salford and Eccles, E14000911. Type: covered_by
+++ Could find match for Stephen Lloyd, Eastbourne, E14000684. Type: overlapped_by (calculated average)
+++ Could find match for Joe Benton, Bootle, E14000581. Type: covered_by
+++ Could find match for Sarah Newton, Truro and Falmouth, E14001003. Type: covered_by
+== Data unavailable for Scotland Margaret Curran, Glasgow East, S14000030
+++ Could find match for Robert Neill, Bromley and Chislehurst, E14000604. Type: covered_by
+++ Could find match for Roberta Blackman-Woods, City of Durham, E14000641. Type: covered_by
+== Data unavailable for Northern Ireland William McCrea, South Antrim, N06000014
+++ Could find match for Jon Trickett, Hemsworth, E14000740. Type: covered_by
+++ Could find match for David Hanson, Delyn, W07000042. Type: covered_by
+++ Could find match for Gary Streeter, South West Devon, E14000950. Type: covered_by
+++ Could find match for Stephen Mosley, City of Chester, E14000640. Type: covered_by
+++ Could find match for Meg Hillier, Hackney South and Shoreditch, E14000721. Type: covered_by
+++ Could find match for Laura Sandys, South Thanet, E14000948. Type: overlapped_by (calculated average)
+++ Could find match for Mary Glendon, North Tyneside, E14000853. Type: covered_by
+== Data unavailable for Scotland Jim Sheridan, Paisley and Renfrewshire North, S14000052
+== Data unavailable for Scotland Tom Clarke, Coatbridge, Chryston and Bellshill, S14000011
+++ Could find match for Dave Watts, St Helens North, E14000962. Type: covered_by
+++ Could find match for Gerald Kaufman, Manchester, Gorton, E14000808. Type: covered_by
+== Data unavailable for Scotland William Bain, Glasgow North East, S14000032
+++ Could find match for Margaret Hodge, Barking, E14000540. Type: covered_by
+++ Could find match for Phil Wilson, Sedgefield, E14000915. Type: overlapped_by (calculated average)
+++ Could find match for Stephen Hepburn, Jarrow, E14000765. Type: overlapped_by (calculated average)
+== Data unavailable for Northern Ireland Margaret Ritchie, South Down, N06000015
+++ Could find match for Diane Abbott, Hackney North and Stoke Newington, E14000720. Type: covered_by
+++ Could find match for Gisela Stuart, Birmingham, Edgbaston, E14000560. Type: covered_by
+++ Could find match for Harriet Harman, Camberwell and Peckham, E14000615. Type: covered_by
+++ Could find match for Ian Lavery, Wansbeck, E14001014. Type: covered_by
+++ Could find match for Graham Allen, Nottingham North, E14000866. Type: covered_by
+== Data unavailable for Northern Ireland Michelle Gildernew, Fermanagh and South Tyrone, N06000007
+++ Could find match for Helen Jones, Warrington North, E14001017. Type: covered_by
+++ Could find match for Frank Dobson, Holborn and St Pancras, E14000750. Type: covered_by
+++ Could find match for Henry Bellingham, North West Norfolk, E14000859. Type: covered_by
+== Data unavailable for Northern Ireland Alisdair McDonnell, Belfast South, N06000003
+++ Could find match for Edward Miliband, Doncaster North, E14000669. Type: covered_by
+++ Could find match for Shaun Woodward, St Helens South and Whiston, E14000963. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Jim Hood, Lanark and Hamilton East, S14000042
+++ Could find match for Si!!n James, Swansea East, W07000048. Type: covered_by
+++ Could find match for Lee Scott, Ilford North, E14000759. Type: covered_by
+== Data unavailable for Scotland John Thurso, Caithness, Sutherland and Easter Ross, S14000009
+++ Could find match for Andrew Tyrie, Chichester, E14000633. Type: covered_by
+++ Could find match for Gregory Barker, Bexhill and Battle, E14000557. Type: overlapped_by (calculated average)
+++ Could find match for George Mudie, Leeds East, E14000778. Type: covered_by
+++ Could find match for Gerry Sutcliffe, Bradford South, E14000588. Type: covered_by
+++ Could find match for Mary Creagh, Wakefield, E14001009. Type: covered_by
+++ Could find match for Pat Glass, North West Durham, E14000856. Type: covered_by
+++ Could find match for Ed Balls, Morley and Outwood, E14000826. Type: overlapped_by (calculated average)
+++ Could find match for Mark Hendrick, Preston, E14000885. Type: covered_by
+++ Could find match for David Crausby, Bolton North East, E14000578. Type: covered_by
+++ Could find match for Kate Green, Stretford and Urmston, E14000979. Type: covered_by
+++ Could find match for Linda Riordin, Halifax, E14000723. Type: covered_by
+++ Could find match for Graham Stringer, Blackley and Broughton, E14000571. Type: overlapped_by (calculated average)
+++ Could find match for Lyn Brown, West Ham, E14001032. Type: covered_by
+++ Could find match for Oliver Colville, Plymouth, Sutton and Devonport, E14000880. Type: covered_by
+++ Could find match for Geraint Davies, Swansea West, W07000047. Type: covered_by
+++ Could find match for Patrick McClaughlin, Derbyshire Dales, E14000664. Type: overlapped_by (calculated average)
+++ Could find match for Chi Onwurah, Newcastle upon Tyne Central, E14000831. Type: covered_by
+++ Could find match for Tim Farron, Westmorland and Lonsdale, E14001037. Type: covered_by
+++ Could find match for Nicholas Soames, Mid Sussex, E14000817. Type: covered_by
+++ Could find match for Nicholas Brown, Newcastle upon Tyne East, E14000832. Type: covered_by
+++ Could find match for David Amess, Southend West, E14000957. Type: covered_by
+== Data unavailable for Scotland Ian Davidson, Glasgow South West, S14000035
+++ Could find match for Yvonne Fovargue, Makerfield, E14000805. Type: covered_by
+++ Could find match for David Heath, Somerton and Frome, E14000932. Type: overlapped_by (calculated average)
+++ Could find match for Sharon Hodgeson, Washington and Sunderland West, E14001020. Type: covered_by
+++ Could find match for Stuart Bell, Middlesbrough, E14000819. Type: covered_by
+++ Could find match for Peter Tapsel, Louth and Horncastle, E14000798. Type: covered_by
+++ Could find match for Tessa Jowell, Dulwich and West Norwood, E14000673. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Cathy Jamieson, Kilmarnock and Loudoun, S14000040
+++ Could find match for David Blunkett, Sheffield, Brightside and Hillsborough, E14000921. Type: covered_by
+++ Could find match for Mike Hancock, Portsmouth South, E14000884. Type: covered_by
+++ Could find match for Jonathan Evans, Cardiff North, W07000051. Type: covered_by
+++ Could find match for Angela Eagle, Wallasey, E14001010. Type: covered_by
+++ Could find match for Maria Eagle, Garston and Halewood, E14000708. Type: overlapped_by (calculated average)
+++ Could find match for Gerald Howarth, Aldershot, E14000530. Type: overlapped_by (calculated average)
+++ Could find match for Angela Smith, Penistone and Stocksbridge, E14000876. Type: overlapped_by (calculated average)
+++ Could find match for Chris Williamson, Derby North, E14000662. Type: covered_by
+++ Could find match for David Wright, Telford, E14000989. Type: covered_by
+++ Could find match for Brian Binley, Northampton South, E14000862. Type: covered_by
+== Data unavailable for Northern Ireland Martin McGuinness, Mid Ulster, N06000010
+++ Could find match for Angie Bray, Ealing Central and Acton, E14000674. Type: covered_by
+++ Could find match for Pat McFadden, Wolverhampton South East, E14001050. Type: overlapped_by (calculated average)
+++ Could find match for Alan Haselhurst, Saffron Walden, E14000910. Type: overlapped_by (calculated average)
+++ Could find match for Mark Hunter, Cheadle, E14000627. Type: covered_by
+++ Could find match for Ann Coffey, Stockport, E14000969. Type: covered_by
+++ Could find match for Ann Clwyd, Cynon Valley, W07000070. Type: overlapped_by (calculated average)
+++ Could find match for Vernon Coaker, Gedling, E14000710. Type: covered_by
+++ Could find match for Julian Lewis, New Forest East, E14000827. Type: covered_by
+++ Could find match for Elfyn Llwyd, Dwyfor Meirionnydd, W07000061. Type: covered_by
+++ Could find match for Richard Burden, Birmingham, Northfield, E14000565. Type: covered_by
+++ Could find match for Andrew Love, Edmonton, E14000687. Type: covered_by
+++ Could find match for Geoffrey Clifton-Brown, The Cotswolds, E14000991. Type: overlapped_by (calculated average)
+++ Could find match for Stephen Timms, East Ham, E14000679. Type: covered_by
+== Data unavailable for Scotland Mike Weir, Angus, S14000004
+++ Could find match for John Bercow, Buckingham, E14000608. Type: overlapped_by (calculated average)
+++ Could find match for Virendra Sharma, Ealing, Southall, E14000676. Type: covered_by
+++ Could find match for Paul Uppal, Wolverhampton South West, E14001051. Type: covered_by
+++ Could find match for David Evennett, Bexleyheath and Crayford, E14000558. Type: covered_by
+++ Could find match for Norman Lamb, North Norfolk, E14000848. Type: covered_by
+++ Could find match for Paul Flynn, Newport West, W07000056. Type: overlapped_by (calculated average)
+++ Could find match for Richard Harrington, Watford, E14001021. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Frank Roy, Motherwell and Wishaw, S14000047
+== Data unavailable for Scotland Gordon Brown, Kirkcaldy and Cowdenbeath, S14000041
+++ Could find match for Wayne David, Caerphilly, W07000076. Type: covered_by
+++ Could find match for Guto Bebb, Aberconwy, W07000058. Type: covered_by
+++ Could find match for Jim Dobbin, Heywood and Middleton, E14000747. Type: covered_by
+++ Could find match for Keith Vaz, Leicester East, E14000782. Type: covered_by
+++ Could find match for Eric Pickles, Brentwood and Ongar, E14000594. Type: overlapped_by (calculated average)
+++ Could find match for Steve Webb, Thornbury and Yate, E14000994. Type: covered_by
+++ Could find match for Karen Buck, Westminster North, E14001036. Type: covered_by
+++ Could find match for Nia Griffith, Llanelli, W07000045. Type: covered_by
+++ Could find match for Caroline Lucas, Brighton, Pavilion, E14000598. Type: covered_by
+++ Could find match for Nick Raynsford, Greenwich and Woolwich, E14000718. Type: covered_by
+++ Could find match for Jim Dowd, Lewisham West and Penge, E14000788. Type: overlapped_by (calculated average)
+++ Could find match for Heather Wheeler, South Derbyshire, E14000935. Type: covered_by
+== Data unavailable for Scotland Ann McKechin, Glasgow North, S14000031
+++ Could find match for Alan Meale, Mansfield, E14000810. Type: covered_by
+++ Could find match for Madeleine Moon, Bridgend, W07000073. Type: overlapped_by (calculated average)
+++ Could find match for Richard Shepherd, Aldridge-Brownhills, E14000531. Type: covered_by
+++ Could find match for Dan Rogerson, North Cornwall, E14000837. Type: covered_by
+++ Could find match for David Tredinnick, Bosworth, E14000583. Type: covered_by
+== Data unavailable for Northern Ireland Sammy Wilson, East Antrim, N06000005
+++ Could find match for Martin Caton, Gower, W07000046. Type: overlapped_by (calculated average)
+++ Could find match for Ian Mearns, Gateshead, E14000709. Type: covered_by
+++ Could find match for Tony Cunningham, Workington, E14001053. Type: covered_by
+== Data unavailable for Northern Ireland Jim Shannon, Strangford, N06000016
+++ Could find match for Joan Walley, Stoke-on-Trent North, E14000973. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Miller, Ellesmere Port and Neston, E14000688. Type: covered_by
+++ Could find match for Chris Ruane, Vale of Clwyd, W07000060. Type: covered_by
+++ Could find match for Marsha Singh, Bradford West, E14000589. Type: covered_by
+== Data unavailable for Northern Ireland Naomi Long, Belfast East, N06000001
+++ Could find match for Michael Meacher, Oldham West and Royton, E14000871. Type: covered_by
+== Data unavailable for Scotland Gordon Banks, Ochil and South Perthshire, S14000050
+++ Could find match for Alan Whitehead, Southampton, Test, E14000956. Type: covered_by
+++ Could find match for Denis MackShane, Rotherham, E14000904. Type: covered_by
+++ Could find match for Nigel Mills, Amber Valley, E14000533. Type: covered_by
+++ Could find match for Meg Munn, Sheffield, Heeley, E14000923. Type: covered_by
+++ Could find match for George Howarth, Knowsley, E14000775. Type: covered_by
+++ Could find match for Stephen Pound, Ealing North, E14000675. Type: covered_by
+++ Could find match for Adrian Sanders, Torbay, E14000999. Type: covered_by
+++ Could find match for David Heyes, Ashton-under-Lyne, E14000537. Type: overlapped_by (calculated average)
+++ Could find match for Grahame Morris, Easington, E14000677. Type: covered_by
+== Data unavailable for Scotland Mark Lazarowicz, Edinburgh North and Leith, S14000023
+== Data unavailable for Scotland Menzies Campbell, North East Fife, S14000049
+++ Could find match for Malcom Rifkind, Kensington, E14000768. Type: covered_by
+++ Could find match for Bill Esterson, Sefton Central, E14000916. Type: covered_by
+++ Could find match for Bob Blackman, Harrow East, E14000731. Type: covered_by
+++ Could find match for George Young, North West Hampshire, E14000857. Type: overlapped_by (calculated average)
+++ Could find match for Gordon Henderson, Sittingbourne and Sheppey, E14000927. Type: covered_by
+++ Could find match for Hywel Francis, Aberavon, W07000049. Type: covered_by
+++ Could find match for Patrick Mercer, Newark, E14000829. Type: overlapped_by (calculated average)
+++ Could find match for Alistair Burt, North East Bedfordshire, E14000841. Type: overlapped_by (calculated average)
+++ Could find match for Michael Fabricant, Lichfield, E14000791. Type: overlapped_by (calculated average)
+++ Could find match for Ian Lucas, Wrexham, W07000044. Type: covered_by
+== Data unavailable for Scotland John Robertson, Glasgow North West, S14000033
+++ Could find match for Richard Bacon, South Norfolk, E14000941. Type: covered_by
+++ Could find match for Roger Godsiff, Birmingham, Hall Green, E14000562. Type: covered_by
+++ Could find match for Nick Harvey, North Devon, E14000838. Type: covered_by
+++ Could find match for Alan Beith, Berwick-upon-Tweed, E14000554. Type: covered_by
+++ Could find match for William Cash, Stone, E14000975. Type: overlapped_by (calculated average)
+++ Could find match for Jack Dromey, Birmingham, Erdington, E14000561. Type: covered_by
+++ Could find match for John Stanley, Tonbridge and Malling, E14000997. Type: overlapped_by (calculated average)
+++ Could find match for Vince Cable, Twickenham, E14001005. Type: covered_by
+++ Could find match for Stephem Hammond, Wimbledon, E14001040. Type: covered_by
+++ Could find match for Liam Byrne, Birmingham, Hodge Hill, E14000563. Type: covered_by
+++ Could find match for Keith Simpson, Broadland, E14000603. Type: overlapped_by (calculated average)
+++ Could find match for Rosie Cooper, West Lancashire, E14001033. Type: covered_by
+++ Could find match for Bob Russell, Colchester, E14000644. Type: covered_by
+++ Could find match for Helen Goodman, Bishop Auckland, E14000569. Type: covered_by
+++ Could find match for Julie Hilling, Bolton West, E14000580. Type: overlapped_by (calculated average)
+++ Could find match for John Pugh, Southport, E14000958. Type: covered_by
+++ Could find match for Andrew Stunel, Hazel Grove, E14000738. Type: covered_by
+++ Could find match for Mike Gapes, Ilford South, E14000760. Type: covered_by
+++ Could find match for Richard Ottaway, Croydon South, E14000656. Type: covered_by
+== Data unavailable for Scotland Anne McGuire, Stirling, S14000057
+++ Could find match for Hywell Williams, Arfon, W07000057. Type: covered_by
+++ Could find match for David Willetts, Havant, E14000736. Type: covered_by
+== Data unavailable for Scotland Anne Begg, Aberdeen South, S14000002
+== Data unavailable for Scotland Robert Smith, West Aberdeenshire and Kincardine, S14000058
+++ Could find match for Ian Swales, Redcar, E14000891. Type: overlapped_by (calculated average)
+++ Could find match for Fiona MacTaggart, Slough, E14000930. Type: covered_by
+== Data unavailable for Northern Ireland Conor Murphy, Newry and Armagh, N06000011
+++ Could find match for Tom Watson, West Bromwich East, E14001029. Type: covered_by
+++ Could find match for James Arbuthnot, North East Hampshire, E14000844. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Alan Reid, Argyll and Bute, S14000005
+++ Could find match for Glanda Jackson, Hampstead and Kilburn, E14000727. Type: overlapped_by (calculated average)
+++ Could find match for Gordon Birtwistle, Burnley, E14000609. Type: covered_by
+++ Could find match for Oliver Letwin, West Dorset, E14001031. Type: covered_by
+++ Could find match for Shailesh Vara, North West Cambridgeshire, E14000855. Type: overlapped_by (calculated average)
+++ Could find match for David Winnick, Walsall North, E14001011. Type: covered_by
+== Data unavailable for Scotland Sandra Osborne, Ayr, Carrick and Cumnock, S14000006
+++ Could find match for John Healey, Wentworth and Dearne, E14001028. Type: overlapped_by (calculated average)
+++ Could find match for Margaret Beckett, Derby South, E14000663. Type: covered_by
+== Data unavailable for Scotland Lindsay Roy, Glenrothes, S14000036
+++ Could find match for Norman Baker, Lewes, E14000786. Type: overlapped_by (calculated average)
+++ Could find match for Julian Huppart, Cambridge, E14000617. Type: covered_by
+++ Could find match for Ronnie Campbell, Blyth Valley, E14000575. Type: covered_by
+== Data unavailable for Northern Ireland Pat Doherty, West Tyrone, N06000018
+== Data unavailable for Scotland Michael Connarty, Linlithgow and East Falkirk, S14000043
+++ Could find match for Don Foster, Bath, E14000547. Type: covered_by
+++ Could find match for Annette Brooke, Mid Dorset and North Poole, E14000815. Type: overlapped_by (calculated average)
+++ Could find match for Alun Michael, Cardiff South and Penarth, W07000080. Type: covered_by
+++ Could find match for Paul Burstow, Sutton and Cheam, E14000984. Type: covered_by
+++ Could find match for Roger Williams, Brecon and Radnorshire, W07000068. Type: overlapped_by (calculated average)
+== Data unavailable for Scotland Sheila Gilmore, Edinburgh East, S14000022
+== Data unavailable for Scotland Angus Robertson, Moray, S14000046
+++ Could find match for Steve McCabe, Birmingham, Selly Oak, E14000567. Type: covered_by
+Ok: 648
+Fail: 0
+Data for 648 MPs mapped
+==== Wed Jan 22 00:49:29 CET 2014
+Mapping MPs with deaths and rates data...
+>> Manually adding perfect match for 'S14000005' to 'S12000035'. Mapit fails to gather this for us. (Argyll & Bute)
+{ area_name: 'Argyll & Bute',
+  population_total: 89600,
+  population_male: 44600,
+  population_female: 45000,
+  deaths_num_total: 1047,
+  deaths_num_male: 521,
+  deaths_num_female: 526,
+  deaths_num_infant: 0,
+  deaths_num_neonatal: 0,
+  deaths_num_perinatal: 2,
+  deaths_rate_crude: 11.7,
+  deaths_rate_agestd_total: 588,
+  deaths_rate_agestd_male: 701.6,
+  deaths_rate_agestd_female: 503.8,
+  deaths_rate_infant: 0,
+  deaths_rate_neonatal: 0,
+  deaths_rate_perinatal: 0,
+  code: 'S12000035',
+  area_id: 2647,
+  area_mapit_name: 'Argyll and Bute Council',
+  area_type: 'UTA',
+  area_covers: [],
+  area_overlaps: [] }
+>> Manually adding covered_by match for 'S14000027' to 'S12000013'. Mapit fails to gather this for us. (Na h-Eileanan an Iar (Eilan Siar)
+>> Manually adding covered_by match for 'S14000039' to 'S15000001'. Mapit fails to gather this for us. (Inverness... < Scotland)
+>> Manually adding covered_by match for 'S14000055' to 'S15000001'. Mapit fails to gather this for us. (Ross, Skye and Lochaber < Scotland)
+>> Manually adding covered_by match for 'S14000009' to 'S15000001'. Mapit fails to gather this for us. (Caithness, Sutherland and Easter Ross < Scotland)
+>> Manually adding covered_by match for 'S14000051' to 'S12000023,S12000027'. Mapit fails to gather this for us. ('Orkney and Shetland' is covered by Orkney Islands and Shetland Islands)
+++ Could find match for Owen Patterson, North Shropshire, E14000849. Type: covered_by
+++ Could find match for Nicola Blackwood, Oxford West and Abingdon, E14000874. Type: covered_by
+++ Could find match for Charlotte Leslie, Bristol North West, E14000600. Type: covered_by
+++ Could find match for Claire Perry, Devizes, E14000665. Type: covered_by
+++ Could find match for Esther Mcvey, Wirral West, E14001044. Type: covered_by
+++ Could find match for Penny Mordaunt, Portsmouth North, E14000883. Type: covered_by
+++ Could find match for Mary Macleod, Brentford and Isleworth, E14000593. Type: covered_by
+++ Could find match for Caroline Nokes, Romsey and Southampton North, E14000901. Type: overlapped_by (calculated average)
+++ Could find match for Sarah Wollaston, Totnes, E14001001. Type: overlapped_by (calculated average)
+++ Could find match for Rebecca Harris, Castle Point, E14000622. Type: covered_by
+++ Could find match for Caroline Dinenage, Gosport, E14000713. Type: covered_by
+++ Could find match for Richard Drax, South Dorset, E14000936. Type: covered_by
+++ Could find match for Eilidh Whiteford, Banff and Buchan, S14000007. Type: covered_by
+++ Could find match for Amber Rudd, Hastings and Rye, E14000735. Type: covered_by
+++ Could find match for Maria Miller, Basingstoke, E14000545. Type: covered_by
+++ Could find match for Anna Soubry, Broxtowe, E14000607. Type: covered_by
+++ Could find match for Theresa Villiers, Chipping Barnet, E14000636. Type: covered_by
+++ Could find match for Elizabeth Truss, South West Norfolk, E14000952. Type: covered_by
+++ Could find match for Priti Patel, Witham, E14001045. Type: covered_by
+++ Could find match for Nadine Dorries, Mid Bedfordshire, E14000813. Type: overlapped_by (calculated average)
+++ Could find match for Harriet Baldwin, West Worcestershire, E14001035. Type: covered_by
+++ Could find match for Nicky Morgan, Loughborough, E14000797. Type: covered_by
+++ Could find match for Chloe Smith, Norwich North, E14000863. Type: covered_by
+++ Could find match for Anne Maine, St Albans, E14000960. Type: covered_by
+++ Could find match for Caroline Spelman, Meriden, E14000812. Type: covered_by
+++ Could find match for Justine Greening, Putney, E14000887. Type: covered_by
+++ Could find match for Louise Bagshawe, Corby, E14000648. Type: covered_by
+++ Could find match for Damian hinds, East Hampshire, E14000680. Type: covered_by
+++ Could find match for Karl McCartney, Lincoln, E14000792. Type: covered_by
+++ Could find match for Craig Whittacker, Calder Valley, E14000614. Type: covered_by
+++ Could find match for Adam Holloway, Gravesham, E14000715. Type: covered_by
+++ Could find match for David Ruffley, Bury St Edmunds, E14000613. Type: covered_by
+++ Could find match for Mark Harper, Forest of Dean, E14000705. Type: covered_by
+++ Could find match for Andrew Jones, Harrogate and Knaresborough, E14000730. Type: covered_by
+++ Could find match for Anne Marie Morris, Newton Abbot, E14000835. Type: covered_by
+++ Could find match for Karen Bradley, Staffordshire Moorlands, E14000966. Type: covered_by
+++ Could find match for Jonathan Djanogly, Huntingdon, E14000757. Type: covered_by
+++ Could find match for Michael Dugher, Barnsley East, E14000542. Type: covered_by
+++ Could find match for Jamie Reed, Copeland, E14000647. Type: covered_by
+++ Could find match for Sarah Teather, Brent Central, E14000591. Type: covered_by
+++ Could find match for Stuart Andrew, Pudsey, E14000886. Type: covered_by
+++ Could find match for Jesse Norman, Hereford and South Herefordshire, E14000743. Type: covered_by
+++ Could find match for Brian Donohoe, Central Ayrshire, S14000010. Type: covered_by
+++ Could find match for Eleanor Laing, Epping Forest, E14000693. Type: covered_by
+++ Could find match for Rob Wilson, Reading East, E14000889. Type: overlapped_by (calculated average)
+++ Could find match for Christopher Pincher, Tamworth, E14000986. Type: covered_by
+++ Could find match for Andrew Gwynne, Denton and Reddish, E14000661. Type: overlapped_by (calculated average)
+++ Could find match for Smith Henry, Crawley, E14000652. Type: covered_by
+++ Could find match for Rehman Chishti, Gillingham and Rainham, E14000711. Type: covered_by
+++ Could find match for George Eustice, Camborne and Redruth, E14000616. Type: covered_by
+++ Could find match for Graham Evans, Weaver Vale, E14001024. Type: overlapped_by (calculated average)
+++ Could find match for Jake Berry, Rossendale and Darwen, E14000902. Type: overlapped_by (calculated average)
+++ Could find match for Chris Skidmore, Kingswood, E14000774. Type: covered_by
+++ Could find match for Mark Garnier, Wyre Forest, E14001058. Type: covered_by
+++ Could find match for David Laws, Yeovil, E14001060. Type: covered_by
+++ Could find match for James Wharton, Stockton South, E14000971. Type: covered_by
+++ Could find match for Tracey Crouch, Chatham and Aylesford, E14000626. Type: overlapped_by (calculated average)
+++ Could find match for Jon Ashworth, Leicester South, E14000783. Type: covered_by
+++ Could find match for Daniel Kawczynski, Shrewsbury and Atcham, E14000926. Type: covered_by
+++ Could find match for Jessica Lee, Erewash, E14000695. Type: covered_by
+++ Could find match for David Cameron, Witney, E14001046. Type: covered_by
+++ Could find match for Tobias Ellwood, Bournemouth East, E14000584. Type: covered_by
+++ Could find match for Ian Murray, Edinburgh South, S14000024. Type: covered_by
+++ Could find match for Eric Ollerenshaw, Lancaster and Fleetwood, E14000776. Type: covered_by
+++ Could find match for Sam Gyimah, East Surrey, E14000681. Type: covered_by
+++ Could find match for Douglas Alexander, Paisley and Renfrewshire South, S14000053. Type: covered_by
+++ Could find match for Philip Dunne, Ludlow, E14000799. Type: covered_by
+++ Could find match for Helen Grant, Maidstone and The Weald, E14000804. Type: covered_by
+++ Could find match for Matthew Offord, Hendon, E14000741. Type: covered_by
+++ Could find match for Robin Walker, Worcester, E14001052. Type: covered_by
+++ Could find match for James Duddridge, Rochford and Southend East, E14000899. Type: overlapped_by (calculated average)
+++ Could find match for Greg Hands, Chelsea and Fulham, E14000629. Type: overlapped_by (calculated average)
+++ Could find match for David Mowat, Warrington South, E14001018. Type: covered_by
+++ Could find match for Nigel Evans, Ribble Valley, E14000894. Type: covered_by
+++ Could find match for Justin Tomlinson, North Swindon, E14000851. Type: covered_by
+++ Could find match for John Mann, Bassetlaw, E14000546. Type: covered_by
+++ Could find match for Clive Efford, Eltham, E14000690. Type: covered_by
+++ Could find match for Stephen Barclay, North East Cambridgeshire, E14000842. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Bridgen, North West Leicestershire, E14000858. Type: covered_by
+++ Could find match for Gordon Marsden, Blackpool South, E14000573. Type: covered_by
+++ Could find match for Chris White, Warwick and Leamington, E14001019. Type: covered_by
+++ Could find match for Malcom Wicks, Croydon North, E14000655. Type: covered_by
+++ Could find match for Robert Buckland, South Swindon, E14000947. Type: covered_by
+++ Could find match for Barry Gardiner, Brent North, E14000592. Type: covered_by
+++ Could find match for William Hague, Richmond (Yorks), E14000895. Type: covered_by
+++ Could find match for Dai Harvard, Merthyr Tydfil and Rhymney, W07000071. Type: overlapped_by (calculated average)
+++ Could find match for Jeremy Hunt, South West Surrey, E14000953. Type: covered_by
+++ Could find match for Andrew Rosindell, Romford, E14000900. Type: covered_by
+++ Could find match for David Ruttley, Macclesfield, E14000802. Type: covered_by
+++ Could find match for Stephen Dorrell, Charnwood, E14000625. Type: covered_by
+++ Could find match for Richard Fuller, Bedford, E14000552. Type: covered_by
+++ Could find match for Mel Stride, Central Devon, E14000623. Type: covered_by
+++ Could find match for Julian Sturdy, York Outer, E14001062. Type: covered_by
+++ Could find match for Zac Goldsmith, Richmond Park, E14000896. Type: overlapped_by (calculated average)
+++ Could find match for Chris Huhne, Eastleigh, E14000685. Type: covered_by
+++ Could find match for Alan Keen, Feltham and Heston, E14000701. Type: covered_by
+++ Could find match for David Lidington, Aylesbury, E14000538. Type: covered_by
+++ Could find match for Julian Brazier, Canterbury, E14000619. Type: covered_by
+++ Could find match for Kevin Brennan, Cardiff West, W07000079. Type: overlapped_by (calculated average)
+++ Could find match for Stephen Crabb, Preseli Pembrokeshire, W07000065. Type: covered_by
+++ Could find match for Robert Flello, Stoke-on-Trent South, E14000974. Type: covered_by
+++ Could find match for Jim Murphy, East Renfrewshire, S14000021. Type: covered_by
+++ Could find match for David Burrowes, Enfield, Southgate, E14000692. Type: covered_by
+== Data unavailable for Jeffrey Donaldson, Lagan Valley, N06000009. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Francis Maude, Horsham, E14000753. Type: covered_by
+++ Could find match for Jacob Rees-Mogg, North East Somerset, E14000846. Type: covered_by
+++ Could find match for Stephen Twigg, Liverpool, West Derby, E14000796. Type: covered_by
+++ Could find match for Chris Evans, Islwyn, W07000077. Type: covered_by
+++ Could find match for Michael Fallon, Sevenoaks, E14000918. Type: covered_by
+++ Could find match for Liam Fox, North Somerset, E14000850. Type: covered_by
+++ Could find match for Kris Hopkins, Keighley, E14000766. Type: covered_by
+++ Could find match for Nick Hurd, Ruislip, Northwood and Pinner, E14000906. Type: overlapped_by (calculated average)
+++ Could find match for John Leech, Manchester, Withington, E14000809. Type: covered_by
+++ Could find match for Nigel Adams, Selby and Ainsty, E14000917. Type: covered_by
+++ Could find match for Mark Simmonds, Boston and Skegness, E14000582. Type: covered_by
+++ Could find match for Andrew Stephenson, Pendle, E14000875. Type: covered_by
+++ Could find match for Steve Brine, Winchester, E14001041. Type: covered_by
+++ Could find match for Alan Campbell, Tynemouth, E14001006. Type: covered_by
+++ Could find match for Frank Field, Birkenhead, E14000559. Type: covered_by
+++ Could find match for Bernard Jenkin, Harwich and North Essex, E14000734. Type: covered_by
+++ Could find match for Graham Jones, Hyndburn, E14000758. Type: covered_by
+++ Could find match for Brandon Lewis, Great Yarmouth, E14000717. Type: covered_by
+++ Could find match for Aiden Burley, Cannock Chase, E14000618. Type: covered_by
+++ Could find match for Ben Gummer, Ipswich, E14000761. Type: covered_by
+++ Could find match for Robert Halfon, Harlow, E14000729. Type: covered_by
+++ Could find match for Oliver Heald, North East Hertfordshire, E14000845. Type: covered_by
+++ Could find match for David Davies, Monmouth, W07000054. Type: overlapped_by (calculated average)
+++ Could find match for David Hamilton, Midlothian, S14000045. Type: covered_by
+++ Could find match for David Nuttal, Bury North, E14000611. Type: covered_by
+++ Could find match for Peter Bone, Wellingborough, E14001025. Type: covered_by
+++ Could find match for Douglas Carswell, Clacton, E14000642. Type: covered_by
+++ Could find match for Mark Francois, Rayleigh and Wickford, E14000888. Type: covered_by
+++ Could find match for Crispin Blunt, Reigate, E14000893. Type: covered_by
+++ Could find match for Charlie Elphicke, Dover, E14000670. Type: covered_by
+++ Could find match for Simon Hart, Carmarthen West and South Pembrokeshire, W07000066. Type: covered_by
+++ Could find match for Hugh Bayley, York Central, E14001061. Type: covered_by
+++ Could find match for Anas Sarwar, Glasgow Central, S14000029. Type: covered_by
+++ Could find match for Greg Clark, Tunbridge Wells, E14001004. Type: covered_by
+++ Could find match for Andrew Griffiths, Burton, E14000610. Type: covered_by
+++ Could find match for Daniel Poulter, Central Suffolk and North Ipswich, E14000624. Type: covered_by
+++ Could find match for Charles Walker, Broxbourne, E14000606. Type: covered_by
+++ Could find match for Michael Elliss, Northampton North, E14000861. Type: covered_by
+++ Could find match for Eric Joyce, Falkirk, S14000028. Type: covered_by
+++ Could find match for Gavin Shuker, Luton South, E14000801. Type: overlapped_by (calculated average)
+++ Could find match for Russell Brown, Dumfries and Galloway, S14000013. Type: covered_by
+++ Could find match for Andy Burnham, Leigh, E14000785. Type: covered_by
+++ Could find match for Kelvin Hopkins, Luton North, E14000800. Type: covered_by
+++ Could find match for Hilary Benn, Leeds Central, E14000777. Type: covered_by
+++ Could find match for Mike Wood, Batley and Spen, E14000548. Type: covered_by
+++ Could find match for Ben Walker, Wyre and Preston North, E14001057. Type: covered_by
+++ Could find match for Tony Lloyd, Manchester Central, E14000807. Type: covered_by
+++ Could find match for Andrew Selous, South West Bedfordshire, E14000949. Type: covered_by
+++ Could find match for Graham Brady, Altrincham and Sale West, E14000532. Type: covered_by
+++ Could find match for Mark Lancaster, Milton Keynes North, E14000821. Type: covered_by
+++ Could find match for Richard Benyon, Newbury, E14000830. Type: covered_by
+++ Could find match for Neil Parish, Tiverton and Honiton, E14000996. Type: covered_by
+++ Could find match for David Lammy, Tottenham, E14001002. Type: covered_by
+++ Could find match for Michael Moore, Berwickshire, Roxburgh and Selkirk, S14000008. Type: covered_by
+++ Could find match for Sheryll Murray, South East Cornwall, E14000938. Type: covered_by
+++ Could find match for Nick Boles, Grantham and Stamford, E14000714. Type: covered_by
+++ Could find match for Bill Wiggin, North Herefordshire, E14000847. Type: covered_by
+== Data unavailable for Gregory Campbell, East Londonderry, N06000006. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for John Hayes, South Holland and The Deepings, E14000939. Type: covered_by
+++ Could find match for Peter Bottomley, Worthing West, E14001055. Type: covered_by
+++ Could find match for Dan Byles, North Warwickshire, E14000854. Type: covered_by
+++ Could find match for Andrew Percy, Brigg and Goole, E14000596. Type: covered_by
+++ Could find match for Edward Timson, Crewe and Nantwich, E14000653. Type: covered_by
+++ Could find match for John Woodcock, Barrow and Furness, E14000543. Type: covered_by
+++ Could find match for Phillip Lee, Bracknell, E14000586. Type: overlapped_by (calculated average)
+++ Could find match for Angus MacNiel, Na h-Eileanan an Iar, S14000027. Type: covered_by
+++ Could find match for Khalid Mahmood, Birmingham, Perry Barr, E14000566. Type: covered_by
+++ Could find match for Hugh Robertson, Faversham and Mid Kent, E14000700. Type: covered_by
+++ Could find match for Andrew Smith, Oxford East, E14000873. Type: covered_by
+++ Could find match for Nick Smith, Blaenau Gwent, W07000072. Type: covered_by
+++ Could find match for Steve Baker, Wycombe, E14001056. Type: covered_by
+++ Could find match for James Morris, Halesowen and Rowley Regis, E14000722. Type: overlapped_by (calculated average)
+++ Could find match for George Hollinberry, Meon Valley, E14000811. Type: covered_by
+++ Could find match for Malcom Bruce, Gordon, S14000037. Type: covered_by
+++ Could find match for Mark Field, Cities of London and Westminster, E14000639. Type: overlapped_by (calculated average)
+++ Could find match for George Freeman, Mid Norfolk, E14000816. Type: covered_by
+++ Could find match for Mark Pritchard, The Wrekin, E14000992. Type: overlapped_by (calculated average)
+++ Could find match for Jackie Doyle-Price, Thurrock, E14000995. Type: covered_by
+++ Could find match for Alan Johnson, Kingston upon Hull West and Hessle, E14000773. Type: covered_by
+++ Could find match for David Mundell, Dumfriesshire, Clydesdale and Tweeddale, S14000014. Type: overlapped_by (calculated average)
+++ Could find match for Mark Prisk, Hertford and Stortford, E14000744. Type: covered_by
+++ Could find match for Julian Smith, Skipton and Ripon, E14000928. Type: covered_by
+++ Could find match for Pete Wishart, Perth and North Perthshire, S14000054. Type: covered_by
+++ Could find match for Jeremy Browne, Taunton Deane, E14000988. Type: covered_by
+++ Could find match for Mike Freer, Finchley and Golders Green, E14000703. Type: covered_by
+++ Could find match for John Baron, Basildon and Billericay, E14000544. Type: covered_by
+++ Could find match for Stephen Phillips, Sleaford and North Hykeham, E14000929. Type: covered_by
+++ Could find match for John Redwood, Wokingham, E14001048. Type: overlapped_by (calculated average)
+++ Could find match for Neil Carmichael, Stroud, E14000980. Type: covered_by
+++ Could find match for Margot James, Stourbridge, E14000976. Type: covered_by
+++ Could find match for Jeremy Lefroy, Stafford, E14000965. Type: covered_by
+++ Could find match for Tami Mark, Alyn and Deeside, W07000043. Type: covered_by
+++ Could find match for John Glen, Salisbury, E14000912. Type: covered_by
+++ Could find match for Nick Herbert, Arundel and South Downs, E14000534. Type: covered_by
+++ Could find match for Derek Twigg, Halton, E14000725. Type: covered_by
+++ Could find match for Desmond Swayne, New Forest West, E14000828. Type: covered_by
+++ Could find match for Gavin Williamson, South Staffordshire, E14000945. Type: covered_by
+++ Could find match for Alun Cairns, Vale of Glamorgan, W07000078. Type: overlapped_by (calculated average)
+++ Could find match for Nick de Bois, Enfield North, E14000691. Type: covered_by
+++ Could find match for Tony Baldry, Banbury, E14000539. Type: covered_by
+++ Could find match for Sajid Javid, Bromsgrove, E14000605. Type: covered_by
+++ Could find match for Paul Beresford, Mole Valley, E14000824. Type: covered_by
+++ Could find match for George Osborne, Tatton, E14000987. Type: overlapped_by (calculated average)
+++ Could find match for Dominic Raab, Esher and Walton, E14000697. Type: covered_by
+++ Could find match for Simon Wright, Norwich South, E14000864. Type: covered_by
+++ Could find match for Frank Doran, Aberdeen North, S14000001. Type: covered_by
+++ Could find match for Chris Kelly, Dudley South, E14000672. Type: covered_by
+++ Could find match for Andrew Lansley, South Cambridgeshire, E14000934. Type: covered_by
+++ Could find match for John McDonnell, Hayes and Harlington, E14000737. Type: covered_by
+++ Could find match for Toby Perkins, Chesterfield, E14000632. Type: covered_by
+++ Could find match for Iain Wright, Hartlepool, E14000733. Type: covered_by
+++ Could find match for Jeremy Corbyn, Islington North, E14000763. Type: covered_by
+++ Could find match for Cheryl Gillan, Chesham and Amersham, E14000631. Type: covered_by
+++ Could find match for Philip Hammond, Runnymede and Weybridge, E14000907. Type: covered_by
+++ Could find match for Iain Stewart, Milton Keynes South, E14000822. Type: covered_by
+++ Could find match for Jack Straw, Blackburn, E14000570. Type: covered_by
+++ Could find match for Nick Clegg, Sheffield, Hallam, E14000922. Type: covered_by
+++ Could find match for Richard Graham, Gloucester, E14000712. Type: covered_by
+++ Could find match for Stewart Hosie, Dundee East, S14000015. Type: overlapped_by (calculated average)
+++ Could find match for Brooks Newmark, Braintree, E14000590. Type: covered_by
+++ Could find match for James Clappison, Hertsmere, E14000745. Type: covered_by
+++ Could find match for Jason McCartney, Colne Valley, E14000645. Type: covered_by
+++ Could find match for Alec Shelbrooke, Elmet and Rothwell, E14000689. Type: covered_by
+++ Could find match for Jim Fitzpatrick, Poplar and Limehouse, E14000882. Type: covered_by
+++ Could find match for Huw Irranca-Davies, Ogmore, W07000074. Type: overlapped_by (calculated average)
+++ Could find match for Peter Lilley, Hitchin and Harpenden, E14000749. Type: covered_by
+++ Could find match for Dennis Skinner, Bolsover, E14000577. Type: covered_by
+++ Could find match for Jon Cruddas, Dagenham and Rainham, E14000657. Type: overlapped_by (calculated average)
+++ Could find match for Jonathan Lord, Woking, E14001047. Type: covered_by
+++ Could find match for Guy Opperman, Hexham, E14000746. Type: overlapped_by (calculated average)
+++ Could find match for Graham Stuart, Beverley and Holderness, E14000556. Type: covered_by
+++ Could find match for Jim Cunningham, Coventry South, E14000651. Type: covered_by
+++ Could find match for Edward Garnier, Harborough, E14000728. Type: covered_by
+++ Could find match for Robert Syms, Poole, E14000881. Type: covered_by
+++ Could find match for Nadhim Zawahi, Stratford-on-Avon, E14000977. Type: covered_by
+++ Could find match for Simon Danczuk, Rochdale, E14000897. Type: covered_by
+++ Could find match for Chris Grayling, Epsom and Ewell, E14000694. Type: covered_by
+++ Could find match for David Morris, Morecambe and Lunesdale, E14000825. Type: covered_by
+++ Could find match for Chris Heaton-Harris, Daventry, E14000660. Type: covered_by
+++ Could find match for Joseph Johnson, Orpington, E14000872. Type: covered_by
+++ Could find match for Mark Menzies, Fylde, E14000706. Type: covered_by
+++ Could find match for Andrew Mitchell, Sutton Coldfield, E14000985. Type: covered_by
+++ Could find match for Fabian Hamilton, Leeds North East, E14000779. Type: covered_by
+++ Could find match for Tim Laughton, East Worthing and Shoreham, E14000682. Type: covered_by
+++ Could find match for Alistair Darling, Edinburgh South West, S14000025. Type: covered_by
+++ Could find match for Stephen OBrien, Eddisbury, E14000686. Type: overlapped_by (calculated average)
+++ Could find match for John Penrose, Weston-Super-Mare, E14001038. Type: covered_by
+++ Could find match for Philip Davies, Shipley, E14000925. Type: covered_by
+== Data unavailable for Ian Paisley, North Antrim, N06000012. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Christopher Chope, Christchurch, E14000638. Type: covered_by
+++ Could find match for Simon Kirby, Brighton, Kemptown, E14000597. Type: overlapped_by (calculated average)
+++ Could find match for David Davis, Haltemprice and Howden, E14000724. Type: covered_by
+++ Could find match for Dominic Greive, Beaconsfield, E14000550. Type: covered_by
+++ Could find match for Matthew Hancock, West Suffolk, E14001034. Type: covered_by
+++ Could find match for Kwasi Kwarteng, Spelthorne, E14000959. Type: covered_by
+++ Could find match for Chris Leslie, Nottingham East, E14000865. Type: covered_by
+++ Could find match for Peter Luff, Mid Worcestershire, E14000818. Type: covered_by
+++ Could find match for Jack Lopresti, Filton and Bradley Stoke, E14000702. Type: covered_by
+++ Could find match for Theresa May, Maidenhead, E14000803. Type: overlapped_by (calculated average)
+++ Could find match for Tom Greatrix, Rutherglen and Hamilton West, S14000056. Type: covered_by
+++ Could find match for Jim McGovern, Dundee West, S14000016. Type: overlapped_by (calculated average)
+++ Could find match for Michael McCann, East Kilbride, Strathaven and Lesmahagow, S14000019. Type: covered_by
+++ Could find match for Alan Duncan, Rutland and Melton, E14000909. Type: overlapped_by (calculated average)
+++ Could find match for James Paice, South East Cambridgeshire, E14000937. Type: covered_by
+++ Could find match for Mick Crockart, Edinburgh West, S14000026. Type: covered_by
+++ Could find match for Kevan Jones, North Durham, E14000840. Type: covered_by
+++ Could find match for Owen Smith, Pontypridd, W07000075. Type: overlapped_by (calculated average)
+++ Could find match for Gareth Johnson, Dartford, E14000659. Type: covered_by
+++ Could find match for Marcus Jones, Nuneaton, E14000868. Type: covered_by
+++ Could find match for Karl Turner, Kingston upon Hull East, E14000771. Type: covered_by
+++ Could find match for David Ward, Bradford East, E14000587. Type: covered_by
+++ Could find match for Thomas Docherty, Dunfermline and West Fife, S14000017. Type: covered_by
+++ Could find match for David Gauke, South West Hertfordshire, E14000951. Type: covered_by
+++ Could find match for Stephen Metcalfe, South Basildon and East Thurrock, E14000933. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Murrison, South West Wiltshire, E14000954. Type: covered_by
+++ Could find match for Jonathan Reynolds, Stalybridge and Hyde, E14000967. Type: covered_by
+++ Could find match for Andy Slaughter, Hammersmith, E14000726. Type: covered_by
+++ Could find match for Edward Vaisey, Wantage, E14001015. Type: covered_by
+++ Could find match for Martin Vickers, Cleethorpes, E14000643. Type: covered_by
+++ Could find match for Angela Watkinson, Hornchurch and Upminster, E14000751. Type: overlapped_by (calculated average)
+++ Could find match for Robert Goodwill, Scarborough and Whitby, E14000913. Type: covered_by
+++ Could find match for Adam Afriyie, Windsor, E14001042. Type: overlapped_by (calculated average)
+++ Could find match for Gareth Thomas, Harrow West, E14000732. Type: covered_by
+++ Could find match for Damian Collins, Folkestone and Hythe, E14000704. Type: covered_by
+++ Could find match for Geoffrey Cox, Torridge and West Devon, E14001000. Type: covered_by
+++ Could find match for Dan Jarvis, Barnsley Central, E14000541. Type: covered_by
+++ Could find match for Robert Walter, North Dorset, E14000839. Type: covered_by
+++ Could find match for Susan Jones, Clwyd South, W07000062. Type: overlapped_by (calculated average)
+++ Could find match for Ivan Lewis, Bury South, E14000612. Type: covered_by
+++ Could find match for Luciana Berger, Liverpool, Wavertree, E14000795. Type: covered_by
+++ Could find match for Laurence Robertson, Tewkesbury, E14000990. Type: covered_by
+++ Could find match for John Cryer, Leyton and Wanstead, E14000790. Type: overlapped_by (calculated average)
+++ Could find match for John Stevenson, Carlisle, E14000620. Type: covered_by
+++ Could find match for Tom Brake, Carshalton and Wallington, E14000621. Type: covered_by
+++ Could find match for Nic Dakin, Scunthorpe, E14000914. Type: covered_by
+++ Could find match for Martin Horwood, Cheltenham, E14000630. Type: covered_by
+++ Could find match for Rory Stewart, Penrith and The Border, E14000877. Type: covered_by
+++ Could find match for Hugo Swire, East Devon, E14000678. Type: covered_by
+++ Could find match for Duncan Hames, Chippenham, E14000635. Type: covered_by
+++ Could find match for Gavin Barwell, Croydon Central, E14000654. Type: covered_by
+++ Could find match for Charles Kennedy, Ross, Skye and Lochaber, S14000055. Type: covered_by
+++ Could find match for Graeme Morris, Livingston, S14000044. Type: covered_by
+++ Could find match for Bridget Phillipson, Houghton and Sunderland South, E14000754. Type: covered_by
+++ Could find match for Barry Sheerman, Huddersfield, E14000756. Type: covered_by
+++ Could find match for David Jones, Clwyd West, W07000059. Type: overlapped_by (calculated average)
+++ Could find match for Gloria de Piero, Ashfield, E14000535. Type: covered_by
+++ Could find match for Mark Hoban, Fareham, E14000699. Type: covered_by
+++ Could find match for Andrew Robathan, South Leicestershire, E14000940. Type: covered_by
+++ Could find match for Geoffrey Robinson, Coventry North West, E14000650. Type: covered_by
+++ Could find match for Iain Duncan Smith, Chingford and Woodford Green, E14000634. Type: overlapped_by (calculated average)
+++ Could find match for Mark Reckless, Rochester and Strood, E14000898. Type: covered_by
+++ Could find match for Albert Owen, Ynys Môn, W07000041. Type: covered_by
+++ Could find match for Jo Swinson, East Dunbartonshire, S14000018. Type: overlapped_by (calculated average)
+++ Could find match for Ian Austin, Dudley North, E14000671. Type: covered_by
+++ Could find match for Stephen Gilbert, St Austell and Newquay, E14000961. Type: covered_by
+++ Could find match for Gregg McClymont, Cumbernauld, Kilsyth and Kirkintilloch East, S14000012. Type: overlapped_by (calculated average)
+++ Could find match for David Anderson, Blaydon, E14000574. Type: overlapped_by (calculated average)
+++ Could find match for Paul Farrelly, Newcastle-under-Lyme, E14000834. Type: covered_by
+++ Could find match for John Spellar, Warley, E14001016. Type: overlapped_by (calculated average)
+++ Could find match for Lynne Featherstone, Hornsey and Wood Green, E14000752. Type: covered_by
+++ Could find match for Greg Mulholland, Leeds North West, E14000780. Type: covered_by
+++ Could find match for John Whittingdale, Maldon, E14000806. Type: covered_by
+++ Could find match for Simon Burns, Chelmsford, E14000628. Type: covered_by
+++ Could find match for Stephen Williams, Bristol West, E14000602. Type: covered_by
+++ Could find match for Paul Maynard, Blackpool North and Cleveleys, E14000572. Type: overlapped_by (calculated average)
+++ Could find match for David Miliband, South Shields, E14000944. Type: covered_by
+++ Could find match for John Denham, Southampton, Itchen, E14000955. Type: covered_by
+++ Could find match for Jonathan Edwards, Carmarthen East and Dinefwr, W07000067. Type: covered_by
+++ Could find match for Tristram Hunt, Stoke-on-Trent Central, E14000972. Type: covered_by
+++ Could find match for Caroline Flint, Don Valley, E14000667. Type: covered_by
+++ Could find match for Chuka Umunna, Streatham, E14000978. Type: covered_by
+++ Could find match for Clive Betts, Sheffield South East, E14000920. Type: covered_by
+++ Could find match for Jerem Wright, Kenilworth and Southam, E14000767. Type: covered_by
+++ Could find match for Edward Davey, Kingston and Surbiton, E14000770. Type: overlapped_by (calculated average)
+++ Could find match for Peter Aldous, Waveney, E14001022. Type: covered_by
+++ Could find match for Roger Gale, North Thanet, E14000852. Type: covered_by
+++ Could find match for Tim Yeo, South Suffolk, E14000946. Type: covered_by
+++ Could find match for Damian Green, Ashford, E14000536. Type: covered_by
+++ Could find match for Grant Shapps, Welwyn Hatfield, E14001027. Type: covered_by
+++ Could find match for Liz Kendall, Leicester West, E14000784. Type: covered_by
+++ Could find match for Tom Blenkinsop, Middlesbrough South and East Cleveland, E14000820. Type: overlapped_by (calculated average)
+++ Could find match for Mike Weatherley, Hove, E14000755. Type: covered_by
+++ Could find match for Jane Ellison, Battersea, E14000549. Type: covered_by
+++ Could find match for Emily Thornberry, Islington South and Finsbury, E14000764. Type: covered_by
+++ Could find match for Peter Hain, Neath, W07000069. Type: overlapped_by (calculated average)
+++ Could find match for Edward Leigh, Gainsborough, E14000707. Type: covered_by
+++ Could find match for Ben Bradshaw, Exeter, E14000698. Type: covered_by
+++ Could find match for Simon Reevell, Dewsbury, E14000666. Type: covered_by
+++ Could find match for Bob Stewart, Beckenham, E14000551. Type: covered_by
+++ Could find match for Jenny Willot, Cardiff Central, W07000050. Type: covered_by
+++ Could find match for James Gray, North Wiltshire, E14000860. Type: covered_by
+++ Could find match for Rachel Reeves, Leeds West, E14000781. Type: covered_by
+++ Could find match for Conor Burns, Bournemouth West, E14000585. Type: overlapped_by (calculated average)
+++ Could find match for Ian Liddell-Grainger, Bridgwater and West Somerset, E14000595. Type: covered_by
+++ Could find match for Sadiq Khan, Tooting, E14000998. Type: covered_by
+++ Could find match for Mark Williams, Ceredigion, W07000064. Type: covered_by
+++ Could find match for Charles Hendry, Wealden, E14001023. Type: covered_by
+++ Could find match for Stephen McPartland, Stevenage, E14000968. Type: covered_by
+++ Could find match for Steve Rotherham, Liverpool, Walton, E14000794. Type: covered_by
+++ Could find match for Danny Alexander, Inverness, Nairn, Badenoch and Strathspey, S14000039. Type: covered_by
+++ Could find match for Lilian Greenwood, Nottingham South, E14000867. Type: covered_by
+++ Could find match for Debbie Abrahams, Oldham East and Saddleworth, E14000870. Type: covered_by
+++ Could find match for Simon Hughes, Bermondsey and Old Southwark, E14000553. Type: covered_by
+++ Could find match for Nick Gibb, Bognor Regis and Littlehampton, E14000576. Type: covered_by
+++ Could find match for Andrew Turner, Isle of Wight, E14000762. Type: covered_by
+++ Could find match for Kevin Barron, Rother Valley, E14000903. Type: covered_by
+++ Could find match for Pauline Latham, Mid Derbyshire, E14000814. Type: overlapped_by (calculated average)
+++ Could find match for Mark Spencer, Sherwood, E14000924. Type: covered_by
+++ Could find match for Stella Creasy, Walthamstow, E14001013. Type: covered_by
+++ Could find match for Lisa Nandy, Wigan, E14001039. Type: covered_by
+++ Could find match for Michael Gove, Surrey Heath, E14000983. Type: covered_by
+++ Could find match for Natascha Engel, North East Derbyshire, E14000843. Type: covered_by
+++ Could find match for Alok Sharma, Reading West, E14000890. Type: overlapped_by (calculated average)
+++ Could find match for Pamela Nash, Airdrie and Shotts, S14000003. Type: covered_by
+++ Could find match for Adrian Bailey, West Bromwich West, E14001030. Type: covered_by
+++ Could find match for Andrew George, St Ives, E14000964. Type: covered_by
+++ Could find match for Paul Murphy, Torfaen, W07000053. Type: covered_by
+++ Could find match for Philip Hollobone, Kettering, E14000769. Type: covered_by
+++ Could find match for Andrew Bingham, High Peak, E14000748. Type: covered_by
+++ Could find match for Stewart Jackson, Peterborough, E14000878. Type: overlapped_by (calculated average)
+++ Could find match for Shabana Mahmood, Birmingham, Ladywood, E14000564. Type: covered_by
+== Data unavailable for Sylvia Hermon, North Down, N06000013. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for John Howell, Henley, E14000742. Type: covered_by
+++ Could find match for Jessica Morden, Newport East, W07000055. Type: covered_by
+++ Could find match for Katy Clark, North Ayrshire and Arran, S14000048. Type: covered_by
+++ Could find match for Alison McGovern, Wirral South, E14001043. Type: covered_by
+++ Could find match for Anne McIntosh, Thirsk and Malton, E14000993. Type: covered_by
+++ Could find match for Chris Bryant, Rhondda, W07000052. Type: covered_by
+++ Could find match for Kenneth Clarke, Rushcliffe, E14000908. Type: covered_by
+++ Could find match for Lorely Burt, Solihull, E14000931. Type: covered_by
+++ Could find match for Paul Blomfield, Sheffield Central, E14000919. Type: covered_by
+++ Could find match for Siobhain McDonagh, Mitcham and Morden, E14000823. Type: covered_by
+++ Could find match for Joan Ruddock, Lewisham, Deptford, E14000789. Type: covered_by
+++ Could find match for Karen Lumley, Redditch, E14000892. Type: covered_by
+++ Could find match for Andrea Leadsom, South Northamptonshire, E14000942. Type: covered_by
+++ Could find match for Emma Reynolds, Wolverhampton North East, E14001049. Type: covered_by
+++ Could find match for Greg Knight, East Yorkshire, E14000683. Type: covered_by
+++ Could find match for Tom Harris, Glasgow South, S14000034. Type: covered_by
+++ Could find match for Kate Hoey, Vauxhall, E14001008. Type: covered_by
+++ Could find match for Rushanara Ali, Bethnal Green and Bow, E14000555. Type: covered_by
+++ Could find match for Bob Ainsworth, Coventry North East, E14000649. Type: covered_by
+++ Could find match for Valerie Vaz, Walsall South, E14001012. Type: covered_by
+++ Could find match for Yvette Cooper, Normanton, Pontefract and Castleford, E14000836. Type: covered_by
+++ Could find match for Dawn Primarolo, Bristol South, E14000601. Type: covered_by
+== Data unavailable for Mark Durkan, Foyle, N06000008. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Rosie Winterton, Doncaster Central, E14000668. Type: covered_by
+++ Could find match for Jenny Chapman, Darlington, E14000658. Type: covered_by
+++ Could find match for Catherin McKinnell, Newcastle upon Tyne North, E14000833. Type: covered_by
+++ Could find match for Mark Pawsey, Rugby, E14000905. Type: covered_by
+++ Could find match for Austin Mitchell, Great Grimsby, E14000716. Type: covered_by
+++ Could find match for Glyn Davies, Montgomeryshire, W07000063. Type: covered_by
+++ Could find match for Louise Ellman, Liverpool, Riverside, E14000793. Type: covered_by
+++ Could find match for Barbara Keeley, Worsley and Eccles South, E14001054. Type: covered_by
+++ Could find match for Loraine Fullbrook, South Ribble, E14000943. Type: covered_by
+++ Could find match for Fiona ODonnell, East Lothian, S14000020. Type: covered_by
+++ Could find match for Teresa Pearse, Erith and Thamesmead, E14000696. Type: overlapped_by (calculated average)
+++ Could find match for Mike Penning, Hemel Hempstead, E14000739. Type: covered_by
+++ Could find match for John Randall, Uxbridge and South Ruislip, E14001007. Type: covered_by
+++ Could find match for James Brokenshire, Old Bexley and Sidcup, E14000869. Type: covered_by
+++ Could find match for Julie Elliot, Sunderland Central, E14000982. Type: covered_by
+++ Could find match for Diana Johnson, Kingston upon Hull North, E14000772. Type: covered_by
+++ Could find match for Lindsay Hoyle, Chorley, E14000637. Type: covered_by
+++ Could find match for Alistair Carmichael, Orkney and Shetland, S14000051. Type: covered_by
+++ Could find match for Tessa Munt, Wells, E14001026. Type: covered_by
+++ Could find match for Heidi Alexander, Lewisham East, E14000787. Type: covered_by
+++ Could find match for Kerry McCarthey, Bristol East, E14000599. Type: covered_by
+++ Could find match for Yasmin Qureshi, Bolton South East, E14000579. Type: covered_by
+++ Could find match for Alex Cunningham, Stockton North, E14000970. Type: covered_by
+== Data unavailable for Nigel Dodds, Belfast North, N06000002. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Gemma Doyle, West Dunbartonshire, S14000059. Type: covered_by
+++ Could find match for Anne Milton, Guildford, E14000719. Type: covered_by
+++ Could find match for Fiona Bruce, Congleton, E14000646. Type: covered_by
+++ Could find match for Paul Goggins, Wythenshawe and Sale East, E14001059. Type: overlapped_by (calculated average)
+++ Could find match for Th!!r!!se Coffey, Suffolk Coastal, E14000981. Type: covered_by
+++ Could find match for John Hemmings, Birmingham, Yardley, E14000568. Type: covered_by
+++ Could find match for Alison Seabeck, Plymouth, Moor View, E14000879. Type: covered_by
+== Data unavailable for David Simpson, Upper Bann, N06000017. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Hazel Blears, Salford and Eccles, E14000911. Type: covered_by
+++ Could find match for Stephen Lloyd, Eastbourne, E14000684. Type: covered_by
+++ Could find match for Joe Benton, Bootle, E14000581. Type: covered_by
+++ Could find match for Sarah Newton, Truro and Falmouth, E14001003. Type: covered_by
+++ Could find match for Margaret Curran, Glasgow East, S14000030. Type: overlapped_by (calculated average)
+++ Could find match for Robert Neill, Bromley and Chislehurst, E14000604. Type: covered_by
+++ Could find match for Roberta Blackman-Woods, City of Durham, E14000641. Type: covered_by
+== Data unavailable for William McCrea, South Antrim, N06000014. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Jon Trickett, Hemsworth, E14000740. Type: covered_by
+++ Could find match for David Hanson, Delyn, W07000042. Type: covered_by
+++ Could find match for Gary Streeter, South West Devon, E14000950. Type: covered_by
+++ Could find match for Stephen Mosley, City of Chester, E14000640. Type: covered_by
+-- Could not find match for Meg Hillier, Hackney South and Shoreditch, E14000721
+++ Could find match for Laura Sandys, South Thanet, E14000948. Type: covered_by
+++ Could find match for Mary Glendon, North Tyneside, E14000853. Type: covered_by
+++ Could find match for Jim Sheridan, Paisley and Renfrewshire North, S14000052. Type: covered_by
+++ Could find match for Tom Clarke, Coatbridge, Chryston and Bellshill, S14000011. Type: covered_by
+++ Could find match for Dave Watts, St Helens North, E14000962. Type: covered_by
+++ Could find match for Gerald Kaufman, Manchester, Gorton, E14000808. Type: covered_by
+++ Could find match for William Bain, Glasgow North East, S14000032. Type: overlapped_by (calculated average)
+++ Could find match for Margaret Hodge, Barking, E14000540. Type: covered_by
+++ Could find match for Phil Wilson, Sedgefield, E14000915. Type: overlapped_by (calculated average)
+++ Could find match for Stephen Hepburn, Jarrow, E14000765. Type: overlapped_by (calculated average)
+== Data unavailable for Margaret Ritchie, South Down, N06000015. Her/his area has no polygons on mapit.mysociety.org.
+-- Could not find match for Diane Abbott, Hackney North and Stoke Newington, E14000720
+++ Could find match for Gisela Stuart, Birmingham, Edgbaston, E14000560. Type: covered_by
+++ Could find match for Harriet Harman, Camberwell and Peckham, E14000615. Type: covered_by
+++ Could find match for Ian Lavery, Wansbeck, E14001014. Type: covered_by
+++ Could find match for Graham Allen, Nottingham North, E14000866. Type: covered_by
+== Data unavailable for Michelle Gildernew, Fermanagh and South Tyrone, N06000007. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Helen Jones, Warrington North, E14001017. Type: covered_by
+++ Could find match for Frank Dobson, Holborn and St Pancras, E14000750. Type: covered_by
+++ Could find match for Henry Bellingham, North West Norfolk, E14000859. Type: covered_by
+== Data unavailable for Alisdair McDonnell, Belfast South, N06000003. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Edward Miliband, Doncaster North, E14000669. Type: covered_by
+++ Could find match for Shaun Woodward, St Helens South and Whiston, E14000963. Type: overlapped_by (calculated average)
+++ Could find match for Jim Hood, Lanark and Hamilton East, S14000042. Type: covered_by
+++ Could find match for Si!!n James, Swansea East, W07000048. Type: covered_by
+++ Could find match for Lee Scott, Ilford North, E14000759. Type: covered_by
+++ Could find match for John Thurso, Caithness, Sutherland and Easter Ross, S14000009. Type: covered_by
+++ Could find match for Andrew Tyrie, Chichester, E14000633. Type: covered_by
+++ Could find match for Gregory Barker, Bexhill and Battle, E14000557. Type: covered_by
+++ Could find match for George Mudie, Leeds East, E14000778. Type: covered_by
+++ Could find match for Gerry Sutcliffe, Bradford South, E14000588. Type: covered_by
+++ Could find match for Mary Creagh, Wakefield, E14001009. Type: covered_by
+++ Could find match for Pat Glass, North West Durham, E14000856. Type: covered_by
+++ Could find match for Ed Balls, Morley and Outwood, E14000826. Type: covered_by
+++ Could find match for Mark Hendrick, Preston, E14000885. Type: covered_by
+++ Could find match for David Crausby, Bolton North East, E14000578. Type: covered_by
+++ Could find match for Kate Green, Stretford and Urmston, E14000979. Type: covered_by
+++ Could find match for Linda Riordin, Halifax, E14000723. Type: covered_by
+++ Could find match for Graham Stringer, Blackley and Broughton, E14000571. Type: overlapped_by (calculated average)
+++ Could find match for Lyn Brown, West Ham, E14001032. Type: covered_by
+++ Could find match for Oliver Colville, Plymouth, Sutton and Devonport, E14000880. Type: covered_by
+++ Could find match for Geraint Davies, Swansea West, W07000047. Type: covered_by
+++ Could find match for Patrick McClaughlin, Derbyshire Dales, E14000664. Type: covered_by
+++ Could find match for Chi Onwurah, Newcastle upon Tyne Central, E14000831. Type: covered_by
+++ Could find match for Tim Farron, Westmorland and Lonsdale, E14001037. Type: covered_by
+++ Could find match for Nicholas Soames, Mid Sussex, E14000817. Type: covered_by
+++ Could find match for Nicholas Brown, Newcastle upon Tyne East, E14000832. Type: covered_by
+++ Could find match for David Amess, Southend West, E14000957. Type: covered_by
+++ Could find match for Ian Davidson, Glasgow South West, S14000035. Type: covered_by
+++ Could find match for Yvonne Fovargue, Makerfield, E14000805. Type: covered_by
+++ Could find match for David Heath, Somerton and Frome, E14000932. Type: covered_by
+++ Could find match for Sharon Hodgeson, Washington and Sunderland West, E14001020. Type: covered_by
+++ Could find match for Stuart Bell, Middlesbrough, E14000819. Type: covered_by
+++ Could find match for Peter Tapsel, Louth and Horncastle, E14000798. Type: covered_by
+++ Could find match for Tessa Jowell, Dulwich and West Norwood, E14000673. Type: overlapped_by (calculated average)
+++ Could find match for Cathy Jamieson, Kilmarnock and Loudoun, S14000040. Type: covered_by
+++ Could find match for David Blunkett, Sheffield, Brightside and Hillsborough, E14000921. Type: covered_by
+++ Could find match for Mike Hancock, Portsmouth South, E14000884. Type: covered_by
+++ Could find match for Jonathan Evans, Cardiff North, W07000051. Type: covered_by
+++ Could find match for Angela Eagle, Wallasey, E14001010. Type: covered_by
+++ Could find match for Maria Eagle, Garston and Halewood, E14000708. Type: overlapped_by (calculated average)
+++ Could find match for Gerald Howarth, Aldershot, E14000530. Type: covered_by
+++ Could find match for Angela Smith, Penistone and Stocksbridge, E14000876. Type: covered_by
+++ Could find match for Chris Williamson, Derby North, E14000662. Type: covered_by
+++ Could find match for David Wright, Telford, E14000989. Type: covered_by
+++ Could find match for Brian Binley, Northampton South, E14000862. Type: covered_by
+== Data unavailable for Martin McGuinness, Mid Ulster, N06000010. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Angie Bray, Ealing Central and Acton, E14000674. Type: covered_by
+++ Could find match for Pat McFadden, Wolverhampton South East, E14001050. Type: overlapped_by (calculated average)
+++ Could find match for Alan Haselhurst, Saffron Walden, E14000910. Type: covered_by
+++ Could find match for Mark Hunter, Cheadle, E14000627. Type: covered_by
+++ Could find match for Ann Coffey, Stockport, E14000969. Type: covered_by
+++ Could find match for Ann Clwyd, Cynon Valley, W07000070. Type: overlapped_by (calculated average)
+++ Could find match for Vernon Coaker, Gedling, E14000710. Type: covered_by
+++ Could find match for Julian Lewis, New Forest East, E14000827. Type: covered_by
+++ Could find match for Elfyn Llwyd, Dwyfor Meirionnydd, W07000061. Type: covered_by
+++ Could find match for Richard Burden, Birmingham, Northfield, E14000565. Type: covered_by
+++ Could find match for Andrew Love, Edmonton, E14000687. Type: covered_by
+++ Could find match for Geoffrey Clifton-Brown, The Cotswolds, E14000991. Type: covered_by
+++ Could find match for Stephen Timms, East Ham, E14000679. Type: covered_by
+++ Could find match for Mike Weir, Angus, S14000004. Type: covered_by
+++ Could find match for John Bercow, Buckingham, E14000608. Type: covered_by
+++ Could find match for Virendra Sharma, Ealing, Southall, E14000676. Type: covered_by
+++ Could find match for Paul Uppal, Wolverhampton South West, E14001051. Type: covered_by
+++ Could find match for David Evennett, Bexleyheath and Crayford, E14000558. Type: covered_by
+++ Could find match for Norman Lamb, North Norfolk, E14000848. Type: covered_by
+++ Could find match for Paul Flynn, Newport West, W07000056. Type: overlapped_by (calculated average)
+++ Could find match for Richard Harrington, Watford, E14001021. Type: covered_by
+++ Could find match for Frank Roy, Motherwell and Wishaw, S14000047. Type: covered_by
+++ Could find match for Gordon Brown, Kirkcaldy and Cowdenbeath, S14000041. Type: covered_by
+++ Could find match for Wayne David, Caerphilly, W07000076. Type: covered_by
+++ Could find match for Guto Bebb, Aberconwy, W07000058. Type: covered_by
+++ Could find match for Jim Dobbin, Heywood and Middleton, E14000747. Type: covered_by
+++ Could find match for Keith Vaz, Leicester East, E14000782. Type: covered_by
+++ Could find match for Eric Pickles, Brentwood and Ongar, E14000594. Type: covered_by
+++ Could find match for Steve Webb, Thornbury and Yate, E14000994. Type: covered_by
+++ Could find match for Karen Buck, Westminster North, E14001036. Type: covered_by
+++ Could find match for Nia Griffith, Llanelli, W07000045. Type: covered_by
+++ Could find match for Caroline Lucas, Brighton, Pavilion, E14000598. Type: covered_by
+++ Could find match for Nick Raynsford, Greenwich and Woolwich, E14000718. Type: covered_by
+++ Could find match for Jim Dowd, Lewisham West and Penge, E14000788. Type: overlapped_by (calculated average)
+++ Could find match for Heather Wheeler, South Derbyshire, E14000935. Type: covered_by
+++ Could find match for Ann McKechin, Glasgow North, S14000031. Type: covered_by
+++ Could find match for Alan Meale, Mansfield, E14000810. Type: covered_by
+++ Could find match for Madeleine Moon, Bridgend, W07000073. Type: overlapped_by (calculated average)
+++ Could find match for Richard Shepherd, Aldridge-Brownhills, E14000531. Type: covered_by
+++ Could find match for Dan Rogerson, North Cornwall, E14000837. Type: covered_by
+++ Could find match for David Tredinnick, Bosworth, E14000583. Type: covered_by
+== Data unavailable for Sammy Wilson, East Antrim, N06000005. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Martin Caton, Gower, W07000046. Type: overlapped_by (calculated average)
+++ Could find match for Ian Mearns, Gateshead, E14000709. Type: covered_by
+++ Could find match for Tony Cunningham, Workington, E14001053. Type: covered_by
+== Data unavailable for Jim Shannon, Strangford, N06000016. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Joan Walley, Stoke-on-Trent North, E14000973. Type: overlapped_by (calculated average)
+++ Could find match for Andrew Miller, Ellesmere Port and Neston, E14000688. Type: covered_by
+++ Could find match for Chris Ruane, Vale of Clwyd, W07000060. Type: covered_by
+++ Could find match for Marsha Singh, Bradford West, E14000589. Type: covered_by
+== Data unavailable for Naomi Long, Belfast East, N06000001. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Michael Meacher, Oldham West and Royton, E14000871. Type: covered_by
+++ Could find match for Gordon Banks, Ochil and South Perthshire, S14000050. Type: overlapped_by (calculated average)
+++ Could find match for Alan Whitehead, Southampton, Test, E14000956. Type: covered_by
+++ Could find match for Denis MackShane, Rotherham, E14000904. Type: covered_by
+++ Could find match for Nigel Mills, Amber Valley, E14000533. Type: covered_by
+++ Could find match for Meg Munn, Sheffield, Heeley, E14000923. Type: covered_by
+++ Could find match for George Howarth, Knowsley, E14000775. Type: covered_by
+++ Could find match for Stephen Pound, Ealing North, E14000675. Type: covered_by
+++ Could find match for Adrian Sanders, Torbay, E14000999. Type: covered_by
+++ Could find match for David Heyes, Ashton-under-Lyne, E14000537. Type: overlapped_by (calculated average)
+++ Could find match for Grahame Morris, Easington, E14000677. Type: covered_by
+++ Could find match for Mark Lazarowicz, Edinburgh North and Leith, S14000023. Type: covered_by
+++ Could find match for Menzies Campbell, North East Fife, S14000049. Type: covered_by
+++ Could find match for Malcom Rifkind, Kensington, E14000768. Type: covered_by
+++ Could find match for Bill Esterson, Sefton Central, E14000916. Type: covered_by
+++ Could find match for Bob Blackman, Harrow East, E14000731. Type: covered_by
+++ Could find match for George Young, North West Hampshire, E14000857. Type: covered_by
+++ Could find match for Gordon Henderson, Sittingbourne and Sheppey, E14000927. Type: covered_by
+++ Could find match for Hywel Francis, Aberavon, W07000049. Type: covered_by
+++ Could find match for Patrick Mercer, Newark, E14000829. Type: covered_by
+++ Could find match for Alistair Burt, North East Bedfordshire, E14000841. Type: overlapped_by (calculated average)
+++ Could find match for Michael Fabricant, Lichfield, E14000791. Type: covered_by
+++ Could find match for Ian Lucas, Wrexham, W07000044. Type: covered_by
+++ Could find match for John Robertson, Glasgow North West, S14000033. Type: covered_by
+++ Could find match for Richard Bacon, South Norfolk, E14000941. Type: covered_by
+++ Could find match for Roger Godsiff, Birmingham, Hall Green, E14000562. Type: covered_by
+++ Could find match for Nick Harvey, North Devon, E14000838. Type: covered_by
+++ Could find match for Alan Beith, Berwick-upon-Tweed, E14000554. Type: covered_by
+++ Could find match for William Cash, Stone, E14000975. Type: covered_by
+++ Could find match for Jack Dromey, Birmingham, Erdington, E14000561. Type: covered_by
+++ Could find match for John Stanley, Tonbridge and Malling, E14000997. Type: covered_by
+++ Could find match for Vince Cable, Twickenham, E14001005. Type: covered_by
+++ Could find match for Stephem Hammond, Wimbledon, E14001040. Type: covered_by
+++ Could find match for Liam Byrne, Birmingham, Hodge Hill, E14000563. Type: covered_by
+++ Could find match for Keith Simpson, Broadland, E14000603. Type: covered_by
+++ Could find match for Rosie Cooper, West Lancashire, E14001033. Type: covered_by
+++ Could find match for Bob Russell, Colchester, E14000644. Type: covered_by
+++ Could find match for Helen Goodman, Bishop Auckland, E14000569. Type: covered_by
+++ Could find match for Julie Hilling, Bolton West, E14000580. Type: overlapped_by (calculated average)
+++ Could find match for John Pugh, Southport, E14000958. Type: covered_by
+++ Could find match for Andrew Stunel, Hazel Grove, E14000738. Type: covered_by
+++ Could find match for Mike Gapes, Ilford South, E14000760. Type: covered_by
+++ Could find match for Richard Ottaway, Croydon South, E14000656. Type: covered_by
+++ Could find match for Anne McGuire, Stirling, S14000057. Type: covered_by
+++ Could find match for Hywell Williams, Arfon, W07000057. Type: covered_by
+++ Could find match for David Willetts, Havant, E14000736. Type: covered_by
+++ Could find match for Anne Begg, Aberdeen South, S14000002. Type: covered_by
+++ Could find match for Robert Smith, West Aberdeenshire and Kincardine, S14000058. Type: covered_by
+++ Could find match for Ian Swales, Redcar, E14000891. Type: overlapped_by (calculated average)
+++ Could find match for Fiona MacTaggart, Slough, E14000930. Type: covered_by
+== Data unavailable for Conor Murphy, Newry and Armagh, N06000011. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Tom Watson, West Bromwich East, E14001029. Type: covered_by
+++ Could find match for James Arbuthnot, North East Hampshire, E14000844. Type: covered_by
+++ Could find match for Alan Reid, Argyll and Bute, S14000005. Type: perfect
+++ Could find match for Glanda Jackson, Hampstead and Kilburn, E14000727. Type: overlapped_by (calculated average)
+++ Could find match for Gordon Birtwistle, Burnley, E14000609. Type: covered_by
+++ Could find match for Oliver Letwin, West Dorset, E14001031. Type: covered_by
+++ Could find match for Shailesh Vara, North West Cambridgeshire, E14000855. Type: overlapped_by (calculated average)
+++ Could find match for David Winnick, Walsall North, E14001011. Type: covered_by
+++ Could find match for Sandra Osborne, Ayr, Carrick and Cumnock, S14000006. Type: covered_by
+++ Could find match for John Healey, Wentworth and Dearne, E14001028. Type: covered_by
+++ Could find match for Margaret Beckett, Derby South, E14000663. Type: covered_by
+++ Could find match for Lindsay Roy, Glenrothes, S14000036. Type: covered_by
+++ Could find match for Norman Baker, Lewes, E14000786. Type: covered_by
+++ Could find match for Julian Huppart, Cambridge, E14000617. Type: covered_by
+++ Could find match for Ronnie Campbell, Blyth Valley, E14000575. Type: covered_by
+== Data unavailable for Pat Doherty, West Tyrone, N06000018. Her/his area has no polygons on mapit.mysociety.org.
+++ Could find match for Michael Connarty, Linlithgow and East Falkirk, S14000043. Type: overlapped_by (calculated average)
+++ Could find match for Don Foster, Bath, E14000547. Type: covered_by
+++ Could find match for Annette Brooke, Mid Dorset and North Poole, E14000815. Type: overlapped_by (calculated average)
+++ Could find match for Alun Michael, Cardiff South and Penarth, W07000080. Type: covered_by
+++ Could find match for Paul Burstow, Sutton and Cheam, E14000984. Type: covered_by
+++ Could find match for Roger Williams, Brecon and Radnorshire, W07000068. Type: overlapped_by (calculated average)
+++ Could find match for Sheila Gilmore, Edinburgh East, S14000022. Type: covered_by
+++ Could find match for Angus Robertson, Moray, S14000046. Type: covered_by
+++ Could find match for Steve McCabe, Birmingham, Selly Oak, E14000567. Type: covered_by
+== Ok: 646
+== Fail: 2
+Data for 648 MPs mapped
+==== Wed Jan 22 00:49:29 CET 2014
+Done processing at Wed Jan 22 00:49:29 CET 2014
+See files (CSV and JSON) in ./data/processed/
