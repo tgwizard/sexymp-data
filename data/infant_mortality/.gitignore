@@ -1,0 +1,5 @@
+# These files unfortunately require permission we don't have to puclicize
+*.csv
+*.xlsx
+*.xls
+*.json
