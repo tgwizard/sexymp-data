@@ -1,0 +1,7106 @@
+[
+  {
+    "area_name": "County Durham UA",
+    "code": "E06000047",
+    "life_exp_birth_male_years": 77.9,
+    "life_exp_birth_male_rank": 280,
+    "life_exp_birth_female_years": 81.5,
+    "life_exp_birth_female_rank": 306,
+    "life_exp_65_male_years": 17.7,
+    "life_exp_65_male_rank": 289,
+    "life_exp_65_female_years": 19.9,
+    "life_exp_65_female_rank": 318,
+    "area_id": 2223,
+    "area_mapit_name": "Durham County Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000840",
+      "E14000569",
+      "E14000677",
+      "E14000856",
+      "E14000641"
+    ],
+    "area_overlaps": [
+      "E14000915"
+    ]
+  },
+  {
+    "area_name": "Darlington UA",
+    "code": "E06000005",
+    "life_exp_birth_male_years": 78.7,
+    "life_exp_birth_male_rank": 234,
+    "life_exp_birth_female_years": 82.7,
+    "life_exp_birth_female_rank": 231,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 257,
+    "life_exp_65_female_years": 20.7,
+    "life_exp_65_female_rank": 248,
+    "area_id": 2572,
+    "area_mapit_name": "Darlington Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000658"
+    ],
+    "area_overlaps": [
+      "E14000915"
+    ]
+  },
+  {
+    "area_name": "Hartlepool UA",
+    "code": "E06000001",
+    "life_exp_birth_male_years": 77.4,
+    "life_exp_birth_male_rank": 315,
+    "life_exp_birth_female_years": 81.5,
+    "life_exp_birth_female_rank": 308,
+    "life_exp_65_male_years": 17.3,
+    "life_exp_65_male_rank": 318,
+    "life_exp_65_female_years": 20,
+    "life_exp_65_female_rank": 310,
+    "area_id": 2581,
+    "area_mapit_name": "Hartlepool Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000733"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Middlesbrough UA",
+    "code": "E06000002",
+    "life_exp_birth_male_years": 76.3,
+    "life_exp_birth_male_rank": 340,
+    "life_exp_birth_female_years": 80.2,
+    "life_exp_birth_female_rank": 342,
+    "life_exp_65_male_years": 16.7,
+    "life_exp_65_male_rank": 342,
+    "life_exp_65_female_years": 18.9,
+    "life_exp_65_female_rank": 343,
+    "area_id": 2586,
+    "area_mapit_name": "Middlesbrough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000819"
+    ],
+    "area_overlaps": [
+      "E14000820",
+      "E14000891"
+    ]
+  },
+  {
+    "area_name": "Northumberland UA",
+    "code": "E06000048",
+    "life_exp_birth_male_years": 78.8,
+    "life_exp_birth_male_rank": 224,
+    "life_exp_birth_female_years": 82.5,
+    "life_exp_birth_female_rank": 246,
+    "life_exp_65_male_years": 18.4,
+    "life_exp_65_male_rank": 210,
+    "life_exp_65_female_years": 20.5,
+    "life_exp_65_female_rank": 262,
+    "area_id": 144312,
+    "area_mapit_name": "Northumberland Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14001014",
+      "E14000554",
+      "E14000575"
+    ],
+    "area_overlaps": [
+      "E14000574",
+      "E14000746"
+    ]
+  },
+  {
+    "area_name": "Redcar and Cleveland UA",
+    "code": "E06000003",
+    "life_exp_birth_male_years": 78.7,
+    "life_exp_birth_male_rank": 236,
+    "life_exp_birth_female_years": 82,
+    "life_exp_birth_female_rank": 279,
+    "life_exp_65_male_years": 18.2,
+    "life_exp_65_male_rank": 229,
+    "life_exp_65_female_years": 20.4,
+    "life_exp_65_female_rank": 273,
+    "area_id": 2597,
+    "area_mapit_name": "Redcar and Cleveland Borough Council",
+    "area_type": "UTA",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000820",
+      "E14000891"
+    ]
+  },
+  {
+    "area_name": "Stockton-on-Tees UA",
+    "code": "E06000004",
+    "life_exp_birth_male_years": 78.3,
+    "life_exp_birth_male_rank": 254,
+    "life_exp_birth_female_years": 82.3,
+    "life_exp_birth_female_rank": 254,
+    "life_exp_65_male_years": 17.8,
+    "life_exp_65_male_rank": 278,
+    "life_exp_65_female_years": 20.7,
+    "life_exp_65_female_rank": 251,
+    "area_id": 2611,
+    "area_mapit_name": "Stockton-on-Tees Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000970",
+      "E14000971"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Gateshead",
+    "code": "E08000020",
+    "life_exp_birth_male_years": 77.2,
+    "life_exp_birth_male_rank": 320,
+    "life_exp_birth_female_years": 81.3,
+    "life_exp_birth_female_rank": 316,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 296,
+    "life_exp_65_female_years": 19.5,
+    "life_exp_65_female_rank": 329,
+    "area_id": 144311,
+    "area_mapit_name": "Gateshead Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000709"
+    ],
+    "area_overlaps": [
+      "E14000574",
+      "E14000746",
+      "E14000765"
+    ]
+  },
+  {
+    "area_name": "Newcastle upon Tyne",
+    "code": "E08000021",
+    "life_exp_birth_male_years": 77.5,
+    "life_exp_birth_male_rank": 307,
+    "life_exp_birth_female_years": 81.4,
+    "life_exp_birth_female_rank": 315,
+    "life_exp_65_male_years": 17.3,
+    "life_exp_65_male_rank": 321,
+    "life_exp_65_female_years": 19.9,
+    "life_exp_65_female_rank": 311,
+    "area_id": 2529,
+    "area_mapit_name": "Newcastle upon Tyne City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000832",
+      "E14000833",
+      "E14000831"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "North Tyneside",
+    "code": "E08000022",
+    "life_exp_birth_male_years": 78.1,
+    "life_exp_birth_male_rank": 267,
+    "life_exp_birth_female_years": 82,
+    "life_exp_birth_female_rank": 278,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 306,
+    "life_exp_65_female_years": 20.5,
+    "life_exp_65_female_rank": 265,
+    "area_id": 2530,
+    "area_mapit_name": "North Tyneside Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000853",
+      "E14001006"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "South Tyneside",
+    "code": "E08000023",
+    "life_exp_birth_male_years": 76.8,
+    "life_exp_birth_male_rank": 331,
+    "life_exp_birth_female_years": 81.2,
+    "life_exp_birth_female_rank": 320,
+    "life_exp_65_male_years": 16.8,
+    "life_exp_65_male_rank": 339,
+    "life_exp_65_female_years": 19.9,
+    "life_exp_65_female_rank": 315,
+    "area_id": 2539,
+    "area_mapit_name": "South Tyneside Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000944"
+    ],
+    "area_overlaps": [
+      "E14000765"
+    ]
+  },
+  {
+    "area_name": "Sunderland",
+    "code": "E08000024",
+    "life_exp_birth_male_years": 77,
+    "life_exp_birth_male_rank": 325,
+    "life_exp_birth_female_years": 80.7,
+    "life_exp_birth_female_rank": 332,
+    "life_exp_65_male_years": 17.3,
+    "life_exp_65_male_rank": 322,
+    "life_exp_65_female_years": 19.3,
+    "life_exp_65_female_rank": 338,
+    "area_id": 2542,
+    "area_mapit_name": "Sunderland City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000982",
+      "E14000754",
+      "E14001020"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Blackburn with Darwen UA",
+    "code": "E06000008",
+    "life_exp_birth_male_years": 76.5,
+    "life_exp_birth_male_rank": 337,
+    "life_exp_birth_female_years": 80.9,
+    "life_exp_birth_female_rank": 329,
+    "life_exp_65_male_years": 17.4,
+    "life_exp_65_male_rank": 317,
+    "life_exp_65_female_years": 19.4,
+    "life_exp_65_female_rank": 332,
+    "area_id": 2552,
+    "area_mapit_name": "Blackburn with Darwen Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000570"
+    ],
+    "area_overlaps": [
+      "E14000902"
+    ]
+  },
+  {
+    "area_name": "Blackpool UA",
+    "code": "E06000009",
+    "life_exp_birth_male_years": 74,
+    "life_exp_birth_male_rank": 346,
+    "life_exp_birth_female_years": 80,
+    "life_exp_birth_female_rank": 344,
+    "life_exp_65_male_years": 16.5,
+    "life_exp_65_male_rank": 344,
+    "life_exp_65_female_years": 19.3,
+    "life_exp_65_female_rank": 335,
+    "area_id": 2553,
+    "area_mapit_name": "Blackpool Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000573"
+    ],
+    "area_overlaps": [
+      "E14000572"
+    ]
+  },
+  {
+    "area_name": "Cheshire East UA",
+    "code": "E06000049",
+    "life_exp_birth_male_years": 80.4,
+    "life_exp_birth_male_rank": 99,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 167,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 108,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 182,
+    "area_id": 21069,
+    "area_mapit_name": "Cheshire East Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000653",
+      "E14000646",
+      "E14000802"
+    ],
+    "area_overlaps": [
+      "E14000686",
+      "E14000987"
+    ]
+  },
+  {
+    "area_name": "Cheshire West and Chester UA",
+    "code": "E06000050",
+    "life_exp_birth_male_years": 79.2,
+    "life_exp_birth_male_rank": 200,
+    "life_exp_birth_female_years": 82.8,
+    "life_exp_birth_female_rank": 215,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 198,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 240,
+    "area_id": 21068,
+    "area_mapit_name": "Cheshire West and Chester Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000640",
+      "E14000688"
+    ],
+    "area_overlaps": [
+      "E14000686",
+      "E14001024",
+      "E14000987"
+    ]
+  },
+  {
+    "area_name": "Halton UA",
+    "code": "E06000006",
+    "life_exp_birth_male_years": 77.1,
+    "life_exp_birth_male_rank": 321,
+    "life_exp_birth_female_years": 80.6,
+    "life_exp_birth_female_rank": 336,
+    "life_exp_65_male_years": 17,
+    "life_exp_65_male_rank": 335,
+    "life_exp_65_female_years": 19.3,
+    "life_exp_65_female_rank": 336,
+    "area_id": 2580,
+    "area_mapit_name": "Halton Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000725"
+    ],
+    "area_overlaps": [
+      "E14001024"
+    ]
+  },
+  {
+    "area_name": "Warrington UA",
+    "code": "E06000007",
+    "life_exp_birth_male_years": 78.2,
+    "life_exp_birth_male_rank": 265,
+    "life_exp_birth_female_years": 82,
+    "life_exp_birth_female_rank": 284,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 295,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 295,
+    "area_id": 2618,
+    "area_mapit_name": "Warrington Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14001017",
+      "E14001018"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Allerdale",
+    "code": "E07000026",
+    "life_exp_birth_male_years": 78.2,
+    "life_exp_birth_male_rank": 262,
+    "life_exp_birth_female_years": 81.9,
+    "life_exp_birth_female_rank": 287,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 267,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 284,
+    "area_id": 2274,
+    "area_mapit_name": "Allerdale Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001053"
+    ],
+    "area_overlaps": [
+      "E14000647",
+      "E14000877"
+    ]
+  },
+  {
+    "area_name": "Barrow-in-Furness",
+    "code": "E07000027",
+    "life_exp_birth_male_years": 77.1,
+    "life_exp_birth_male_rank": 323,
+    "life_exp_birth_female_years": 81.4,
+    "life_exp_birth_female_rank": 313,
+    "life_exp_65_male_years": 18.1,
+    "life_exp_65_male_rank": 241,
+    "life_exp_65_female_years": 20.1,
+    "life_exp_65_female_rank": 305,
+    "area_id": 2276,
+    "area_mapit_name": "Barrow-in-Furness Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Carlisle",
+    "code": "E07000028",
+    "life_exp_birth_male_years": 78.5,
+    "life_exp_birth_male_rank": 244,
+    "life_exp_birth_female_years": 82,
+    "life_exp_birth_female_rank": 281,
+    "life_exp_65_male_years": 18.4,
+    "life_exp_65_male_rank": 213,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 286,
+    "area_id": 2272,
+    "area_mapit_name": "Carlisle City Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000620"
+    ],
+    "area_overlaps": [
+      "E14000877"
+    ]
+  },
+  {
+    "area_name": "Copeland",
+    "code": "E07000029",
+    "life_exp_birth_male_years": 77.6,
+    "life_exp_birth_male_rank": 297,
+    "life_exp_birth_female_years": 81.4,
+    "life_exp_birth_female_rank": 312,
+    "life_exp_65_male_years": 17.8,
+    "life_exp_65_male_rank": 282,
+    "life_exp_65_female_years": 20,
+    "life_exp_65_female_rank": 309,
+    "area_id": 2271,
+    "area_mapit_name": "Copeland Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Eden",
+    "code": "E07000030",
+    "life_exp_birth_male_years": 80.3,
+    "life_exp_birth_male_rank": 106,
+    "life_exp_birth_female_years": 84.1,
+    "life_exp_birth_female_rank": 94,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 109,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 87,
+    "area_id": 2275,
+    "area_mapit_name": "Eden District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "South Lakeland",
+    "code": "E07000031",
+    "life_exp_birth_male_years": 80.9,
+    "life_exp_birth_male_rank": 63,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 156,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 53,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 148,
+    "area_id": 2273,
+    "area_mapit_name": "South Lakeland District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001037"
+    ],
+    "area_overlaps": [
+      "E14000543"
+    ]
+  },
+  {
+    "area_name": "Bolton",
+    "code": "E08000001",
+    "life_exp_birth_male_years": 77.4,
+    "life_exp_birth_male_rank": 313,
+    "life_exp_birth_female_years": 81.4,
+    "life_exp_birth_female_rank": 314,
+    "life_exp_65_male_years": 17.5,
+    "life_exp_65_male_rank": 313,
+    "life_exp_65_female_years": 20.1,
+    "life_exp_65_female_rank": 306,
+    "area_id": 2515,
+    "area_mapit_name": "Bolton Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000578",
+      "E14000579"
+    ],
+    "area_overlaps": [
+      "E14000580"
+    ]
+  },
+  {
+    "area_name": "Bury",
+    "code": "E08000002",
+    "life_exp_birth_male_years": 78,
+    "life_exp_birth_male_rank": 270,
+    "life_exp_birth_female_years": 81,
+    "life_exp_birth_female_rank": 326,
+    "life_exp_65_male_years": 17.8,
+    "life_exp_65_male_rank": 280,
+    "life_exp_65_female_years": 19.6,
+    "life_exp_65_female_rank": 325,
+    "area_id": 2517,
+    "area_mapit_name": "Bury Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000612",
+      "E14000611"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Manchester",
+    "code": "E08000003",
+    "life_exp_birth_male_years": 74.8,
+    "life_exp_birth_male_rank": 345,
+    "life_exp_birth_female_years": 79.5,
+    "life_exp_birth_female_rank": 346,
+    "life_exp_65_male_years": 15.8,
+    "life_exp_65_male_rank": 346,
+    "life_exp_65_female_years": 18.8,
+    "life_exp_65_female_rank": 344,
+    "area_id": 2528,
+    "area_mapit_name": "Manchester City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000809",
+      "E14000808",
+      "E14000807"
+    ],
+    "area_overlaps": [
+      "E14000571",
+      "E14001059"
+    ]
+  },
+  {
+    "area_name": "Oldham",
+    "code": "E08000004",
+    "life_exp_birth_male_years": 77.1,
+    "life_exp_birth_male_rank": 322,
+    "life_exp_birth_female_years": 81.1,
+    "life_exp_birth_female_rank": 323,
+    "life_exp_65_male_years": 17.1,
+    "life_exp_65_male_rank": 330,
+    "life_exp_65_female_years": 19.8,
+    "life_exp_65_female_rank": 320,
+    "area_id": 2531,
+    "area_mapit_name": "Oldham Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000870",
+      "E14000871"
+    ],
+    "area_overlaps": [
+      "E14000537"
+    ]
+  },
+  {
+    "area_name": "Rochdale",
+    "code": "E08000005",
+    "life_exp_birth_male_years": 76.8,
+    "life_exp_birth_male_rank": 329,
+    "life_exp_birth_female_years": 80.8,
+    "life_exp_birth_female_rank": 331,
+    "life_exp_65_male_years": 17.4,
+    "life_exp_65_male_rank": 315,
+    "life_exp_65_female_years": 19.8,
+    "life_exp_65_female_rank": 319,
+    "area_id": 2532,
+    "area_mapit_name": "Rochdale Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000747",
+      "E14000897"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Salford",
+    "code": "E08000006",
+    "life_exp_birth_male_years": 76.1,
+    "life_exp_birth_male_rank": 342,
+    "life_exp_birth_female_years": 80.5,
+    "life_exp_birth_female_rank": 340,
+    "life_exp_65_male_years": 16.7,
+    "life_exp_65_male_rank": 341,
+    "life_exp_65_female_years": 19.2,
+    "life_exp_65_female_rank": 340,
+    "area_id": 2534,
+    "area_mapit_name": "Salford City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000911",
+      "E14001054"
+    ],
+    "area_overlaps": [
+      "E14000571"
+    ]
+  },
+  {
+    "area_name": "Stockport",
+    "code": "E08000007",
+    "life_exp_birth_male_years": 79.8,
+    "life_exp_birth_male_rank": 154,
+    "life_exp_birth_female_years": 83.1,
+    "life_exp_birth_female_rank": 189,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 131,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 162,
+    "area_id": 2540,
+    "area_mapit_name": "Stockport Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000738",
+      "E14000969",
+      "E14000627"
+    ],
+    "area_overlaps": [
+      "E14000661"
+    ]
+  },
+  {
+    "area_name": "Tameside",
+    "code": "E08000008",
+    "life_exp_birth_male_years": 76.3,
+    "life_exp_birth_male_rank": 339,
+    "life_exp_birth_female_years": 80.6,
+    "life_exp_birth_female_rank": 334,
+    "life_exp_65_male_years": 17,
+    "life_exp_65_male_rank": 336,
+    "life_exp_65_female_years": 19.1,
+    "life_exp_65_female_rank": 342,
+    "area_id": 2543,
+    "area_mapit_name": "Tameside Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000967"
+    ],
+    "area_overlaps": [
+      "E14000661",
+      "E14000537"
+    ]
+  },
+  {
+    "area_name": "Trafford",
+    "code": "E08000009",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 163,
+    "life_exp_birth_female_years": 83.7,
+    "life_exp_birth_female_rank": 126,
+    "life_exp_65_male_years": 18.7,
+    "life_exp_65_male_rank": 181,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 114,
+    "area_id": 2544,
+    "area_mapit_name": "Trafford Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000532",
+      "E14000979"
+    ],
+    "area_overlaps": [
+      "E14001059"
+    ]
+  },
+  {
+    "area_name": "Wigan",
+    "code": "E08000010",
+    "life_exp_birth_male_years": 77.4,
+    "life_exp_birth_male_rank": 317,
+    "life_exp_birth_female_years": 80.8,
+    "life_exp_birth_female_rank": 330,
+    "life_exp_65_male_years": 17.2,
+    "life_exp_65_male_rank": 326,
+    "life_exp_65_female_years": 19.3,
+    "life_exp_65_female_rank": 334,
+    "area_id": 2547,
+    "area_mapit_name": "Wigan Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14001039",
+      "E14000805",
+      "E14000785"
+    ],
+    "area_overlaps": [
+      "E14000580"
+    ]
+  },
+  {
+    "area_name": "Burnley",
+    "code": "E07000117",
+    "life_exp_birth_male_years": 75.7,
+    "life_exp_birth_male_rank": 344,
+    "life_exp_birth_female_years": 80.5,
+    "life_exp_birth_female_rank": 337,
+    "life_exp_65_male_years": 16.8,
+    "life_exp_65_male_rank": 338,
+    "life_exp_65_female_years": 19.4,
+    "life_exp_65_female_rank": 330,
+    "area_id": 2371,
+    "area_mapit_name": "Burnley Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000609"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Chorley",
+    "code": "E07000118",
+    "life_exp_birth_male_years": 79,
+    "life_exp_birth_male_rank": 216,
+    "life_exp_birth_female_years": 81.9,
+    "life_exp_birth_female_rank": 290,
+    "life_exp_65_male_years": 18.3,
+    "life_exp_65_male_rank": 228,
+    "life_exp_65_female_years": 20.2,
+    "life_exp_65_female_rank": 304,
+    "area_id": 2362,
+    "area_mapit_name": "Chorley Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000637"
+    ],
+    "area_overlaps": [
+      "E14000943"
+    ]
+  },
+  {
+    "area_name": "Fylde",
+    "code": "E07000119",
+    "life_exp_birth_male_years": 79.1,
+    "life_exp_birth_male_rank": 212,
+    "life_exp_birth_female_years": 82.8,
+    "life_exp_birth_female_rank": 217,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 154,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 176,
+    "area_id": 2365,
+    "area_mapit_name": "Fylde Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Hyndburn",
+    "code": "E07000120",
+    "life_exp_birth_male_years": 76.5,
+    "life_exp_birth_male_rank": 336,
+    "life_exp_birth_female_years": 81,
+    "life_exp_birth_female_rank": 325,
+    "life_exp_65_male_years": 17.4,
+    "life_exp_65_male_rank": 316,
+    "life_exp_65_female_years": 19.3,
+    "life_exp_65_female_rank": 339,
+    "area_id": 2370,
+    "area_mapit_name": "Hyndburn Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Lancaster",
+    "code": "E07000121",
+    "life_exp_birth_male_years": 77.4,
+    "life_exp_birth_male_rank": 314,
+    "life_exp_birth_female_years": 82.2,
+    "life_exp_birth_female_rank": 264,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 300,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 234,
+    "area_id": 2361,
+    "area_mapit_name": "Lancaster City Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000825"
+    ],
+    "area_overlaps": [
+      "E14000776"
+    ]
+  },
+  {
+    "area_name": "Pendle",
+    "code": "E07000122",
+    "life_exp_birth_male_years": 77.9,
+    "life_exp_birth_male_rank": 282,
+    "life_exp_birth_female_years": 81.7,
+    "life_exp_birth_female_rank": 301,
+    "life_exp_65_male_years": 18.4,
+    "life_exp_65_male_rank": 208,
+    "life_exp_65_female_years": 20.6,
+    "life_exp_65_female_rank": 259,
+    "area_id": 2368,
+    "area_mapit_name": "Pendle Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000875"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Preston",
+    "code": "E07000123",
+    "life_exp_birth_male_years": 77.4,
+    "life_exp_birth_male_rank": 318,
+    "life_exp_birth_female_years": 81,
+    "life_exp_birth_female_rank": 328,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 305,
+    "life_exp_65_female_years": 20.1,
+    "life_exp_65_female_rank": 307,
+    "area_id": 2366,
+    "area_mapit_name": "Preston City Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000885"
+    ],
+    "area_overlaps": [
+      "E14001057",
+      "E14000706"
+    ]
+  },
+  {
+    "area_name": "Ribble Valley",
+    "code": "E07000124",
+    "life_exp_birth_male_years": 80.5,
+    "life_exp_birth_male_rank": 98,
+    "life_exp_birth_female_years": 84,
+    "life_exp_birth_female_rank": 105,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 169,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 174,
+    "area_id": 2369,
+    "area_mapit_name": "Ribble Valley Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Rossendale",
+    "code": "E07000125",
+    "life_exp_birth_male_years": 77.6,
+    "life_exp_birth_male_rank": 296,
+    "life_exp_birth_female_years": 81.6,
+    "life_exp_birth_female_rank": 303,
+    "life_exp_65_male_years": 17.2,
+    "life_exp_65_male_rank": 324,
+    "life_exp_65_female_years": 19.9,
+    "life_exp_65_female_rank": 313,
+    "area_id": 2364,
+    "area_mapit_name": "Rossendale Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000758",
+      "E14000902"
+    ]
+  },
+  {
+    "area_name": "South Ribble",
+    "code": "E07000126",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 126,
+    "life_exp_birth_female_years": 82.8,
+    "life_exp_birth_female_rank": 216,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 115,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 187,
+    "area_id": 2363,
+    "area_mapit_name": "South Ribble Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000894",
+      "E14000943"
+    ]
+  },
+  {
+    "area_name": "West Lancashire",
+    "code": "E07000127",
+    "life_exp_birth_male_years": 78.7,
+    "life_exp_birth_male_rank": 233,
+    "life_exp_birth_female_years": 82.5,
+    "life_exp_birth_female_rank": 245,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 250,
+    "life_exp_65_female_years": 20.4,
+    "life_exp_65_female_rank": 275,
+    "area_id": 2360,
+    "area_mapit_name": "West Lancashire Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001033"
+    ],
+    "area_overlaps": [
+      "E14000943"
+    ]
+  },
+  {
+    "area_name": "Wyre",
+    "code": "E07000128",
+    "life_exp_birth_male_years": 78.2,
+    "life_exp_birth_male_rank": 260,
+    "life_exp_birth_female_years": 81.8,
+    "life_exp_birth_female_rank": 294,
+    "life_exp_65_male_years": 18.4,
+    "life_exp_65_male_rank": 212,
+    "life_exp_65_female_years": 20.7,
+    "life_exp_65_female_rank": 246,
+    "area_id": 2367,
+    "area_mapit_name": "Wyre Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000776",
+      "E14001057",
+      "E14000572"
+    ]
+  },
+  {
+    "area_name": "Knowsley",
+    "code": "E08000011",
+    "life_exp_birth_male_years": 76.6,
+    "life_exp_birth_male_rank": 334,
+    "life_exp_birth_female_years": 80.7,
+    "life_exp_birth_female_rank": 333,
+    "life_exp_65_male_years": 17.2,
+    "life_exp_65_male_rank": 323,
+    "life_exp_65_female_years": 19.3,
+    "life_exp_65_female_rank": 333,
+    "area_id": 2525,
+    "area_mapit_name": "Knowsley Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000775"
+    ],
+    "area_overlaps": [
+      "E14000963",
+      "E14000708"
+    ]
+  },
+  {
+    "area_name": "Liverpool",
+    "code": "E08000012",
+    "life_exp_birth_male_years": 76.1,
+    "life_exp_birth_male_rank": 341,
+    "life_exp_birth_female_years": 80.2,
+    "life_exp_birth_female_rank": 341,
+    "life_exp_65_male_years": 16.6,
+    "life_exp_65_male_rank": 343,
+    "life_exp_65_female_years": 19.2,
+    "life_exp_65_female_rank": 341,
+    "area_id": 2527,
+    "area_mapit_name": "Liverpool City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000795",
+      "E14000796",
+      "E14000794",
+      "E14000793"
+    ],
+    "area_overlaps": [
+      "E14000708"
+    ]
+  },
+  {
+    "area_name": "Sefton",
+    "code": "E08000014",
+    "life_exp_birth_male_years": 77.5,
+    "life_exp_birth_male_rank": 306,
+    "life_exp_birth_female_years": 82.8,
+    "life_exp_birth_female_rank": 220,
+    "life_exp_65_male_years": 17.8,
+    "life_exp_65_male_rank": 277,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 178,
+    "area_id": 2536,
+    "area_mapit_name": "Sefton Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000916",
+      "E14000958",
+      "E14000581"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "St. Helens",
+    "code": "E08000013",
+    "life_exp_birth_male_years": 78,
+    "life_exp_birth_male_rank": 271,
+    "life_exp_birth_female_years": 81.6,
+    "life_exp_birth_female_rank": 304,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 271,
+    "life_exp_65_female_years": 19.9,
+    "life_exp_65_female_rank": 312,
+    "area_id": 2541,
+    "area_mapit_name": "St Helens Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000962"
+    ],
+    "area_overlaps": [
+      "E14000963"
+    ]
+  },
+  {
+    "area_name": "Wirral",
+    "code": "E08000015",
+    "life_exp_birth_male_years": 77.9,
+    "life_exp_birth_male_rank": 279,
+    "life_exp_birth_female_years": 81.9,
+    "life_exp_birth_female_rank": 288,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 253,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 296,
+    "area_id": 2548,
+    "area_mapit_name": "Wirral Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000559",
+      "E14001010",
+      "E14001043",
+      "E14001044"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "East Riding of Yorkshire UA",
+    "code": "E06000011",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 168,
+    "life_exp_birth_female_years": 82.9,
+    "life_exp_birth_female_rank": 210,
+    "life_exp_65_male_years": 18.7,
+    "life_exp_65_male_rank": 186,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 244,
+    "area_id": 2577,
+    "area_mapit_name": "East Riding of Yorkshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000724",
+      "E14000556",
+      "E14000683"
+    ],
+    "area_overlaps": [
+      "E14000773",
+      "E14000596"
+    ]
+  },
+  {
+    "area_name": "Kingston upon Hull, City of UA",
+    "code": "E06000010",
+    "life_exp_birth_male_years": 76.6,
+    "life_exp_birth_male_rank": 335,
+    "life_exp_birth_female_years": 80.5,
+    "life_exp_birth_female_rank": 339,
+    "life_exp_65_male_years": 16.8,
+    "life_exp_65_male_rank": 337,
+    "life_exp_65_female_years": 19.4,
+    "life_exp_65_female_rank": 331,
+    "area_id": 2563,
+    "area_mapit_name": "Hull City Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000772",
+      "E14000771"
+    ],
+    "area_overlaps": [
+      "E14000773"
+    ]
+  },
+  {
+    "area_name": "North East Lincolnshire UA",
+    "code": "E06000012",
+    "life_exp_birth_male_years": 77.9,
+    "life_exp_birth_male_rank": 284,
+    "life_exp_birth_female_years": 81.9,
+    "life_exp_birth_female_rank": 289,
+    "life_exp_65_male_years": 17.8,
+    "life_exp_65_male_rank": 281,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 288,
+    "area_id": 2589,
+    "area_mapit_name": "North East Lincolnshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000716"
+    ],
+    "area_overlaps": [
+      "E14000643"
+    ]
+  },
+  {
+    "area_name": "North Lincolnshire UA",
+    "code": "E06000013",
+    "life_exp_birth_male_years": 78.3,
+    "life_exp_birth_male_rank": 251,
+    "life_exp_birth_female_years": 82.8,
+    "life_exp_birth_female_rank": 224,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 260,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 206,
+    "area_id": 2591,
+    "area_mapit_name": "North Lincolnshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000914"
+    ],
+    "area_overlaps": [
+      "E14000596",
+      "E14000643"
+    ]
+  },
+  {
+    "area_name": "York UA",
+    "code": "E06000014",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 172,
+    "life_exp_birth_female_years": 83.2,
+    "life_exp_birth_female_rank": 181,
+    "life_exp_65_male_years": 18.5,
+    "life_exp_65_male_rank": 201,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 159,
+    "area_id": 2625,
+    "area_mapit_name": "City of York Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14001061",
+      "E14001062"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Craven",
+    "code": "E07000163",
+    "life_exp_birth_male_years": 80.6,
+    "life_exp_birth_male_rank": 82,
+    "life_exp_birth_female_years": 84.6,
+    "life_exp_birth_female_rank": 42,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 58,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 81,
+    "area_id": 2405,
+    "area_mapit_name": "Craven District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Hambleton",
+    "code": "E07000164",
+    "life_exp_birth_male_years": 81.3,
+    "life_exp_birth_male_rank": 41,
+    "life_exp_birth_female_years": 85.5,
+    "life_exp_birth_female_rank": 12,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 39,
+    "life_exp_65_female_years": 22.8,
+    "life_exp_65_female_rank": 19,
+    "area_id": 2409,
+    "area_mapit_name": "Hambleton District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000993",
+      "E14000895"
+    ]
+  },
+  {
+    "area_name": "Harrogate",
+    "code": "E07000165",
+    "life_exp_birth_male_years": 80.6,
+    "life_exp_birth_male_rank": 85,
+    "life_exp_birth_female_years": 83.8,
+    "life_exp_birth_female_rank": 121,
+    "life_exp_65_male_years": 19.3,
+    "life_exp_65_male_rank": 101,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 105,
+    "area_id": 2407,
+    "area_mapit_name": "Harrogate Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000730"
+    ],
+    "area_overlaps": [
+      "E14000917",
+      "E14000928"
+    ]
+  },
+  {
+    "area_name": "Richmondshire",
+    "code": "E07000166",
+    "life_exp_birth_male_years": 80.2,
+    "life_exp_birth_male_rank": 120,
+    "life_exp_birth_female_years": 83.1,
+    "life_exp_birth_female_rank": 192,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 142,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 215,
+    "area_id": 2406,
+    "area_mapit_name": "Richmondshire District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Ryedale",
+    "code": "E07000167",
+    "life_exp_birth_male_years": 80.7,
+    "life_exp_birth_male_rank": 74,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 201,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 144,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 185,
+    "area_id": 2408,
+    "area_mapit_name": "Ryedale District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Scarborough",
+    "code": "E07000168",
+    "life_exp_birth_male_years": 77.9,
+    "life_exp_birth_male_rank": 287,
+    "life_exp_birth_female_years": 82.2,
+    "life_exp_birth_female_rank": 263,
+    "life_exp_65_male_years": 18.5,
+    "life_exp_65_male_rank": 205,
+    "life_exp_65_female_years": 20.7,
+    "life_exp_65_female_rank": 252,
+    "area_id": 2403,
+    "area_mapit_name": "Scarborough Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000913"
+    ],
+    "area_overlaps": [
+      "E14000993"
+    ]
+  },
+  {
+    "area_name": "Selby",
+    "code": "E07000169",
+    "life_exp_birth_male_years": 79.4,
+    "life_exp_birth_male_rank": 180,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 145,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 195,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 192,
+    "area_id": 2404,
+    "area_mapit_name": "Selby District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Barnsley",
+    "code": "E08000016",
+    "life_exp_birth_male_years": 77.8,
+    "life_exp_birth_male_rank": 288,
+    "life_exp_birth_female_years": 81.5,
+    "life_exp_birth_female_rank": 311,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 298,
+    "life_exp_65_female_years": 19.9,
+    "life_exp_65_female_rank": 317,
+    "area_id": 2513,
+    "area_mapit_name": "Barnsley Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000541",
+      "E14000542"
+    ],
+    "area_overlaps": [
+      "E14001028",
+      "E14000876"
+    ]
+  },
+  {
+    "area_name": "Doncaster",
+    "code": "E08000017",
+    "life_exp_birth_male_years": 77.5,
+    "life_exp_birth_male_rank": 305,
+    "life_exp_birth_female_years": 81.7,
+    "life_exp_birth_female_rank": 297,
+    "life_exp_65_male_years": 17.5,
+    "life_exp_65_male_rank": 312,
+    "life_exp_65_female_years": 20.4,
+    "life_exp_65_female_rank": 281,
+    "area_id": 2521,
+    "area_mapit_name": "Doncaster Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000667",
+      "E14000668",
+      "E14000669"
+    ],
+    "area_overlaps": [
+      "E14001028"
+    ]
+  },
+  {
+    "area_name": "Rotherham",
+    "code": "E08000018",
+    "life_exp_birth_male_years": 78,
+    "life_exp_birth_male_rank": 277,
+    "life_exp_birth_female_years": 81.6,
+    "life_exp_birth_female_rank": 302,
+    "life_exp_65_male_years": 17.5,
+    "life_exp_65_male_rank": 310,
+    "life_exp_65_female_years": 20.2,
+    "life_exp_65_female_rank": 300,
+    "area_id": 2533,
+    "area_mapit_name": "Rotherham Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000903",
+      "E14000904"
+    ],
+    "area_overlaps": [
+      "E14001028"
+    ]
+  },
+  {
+    "area_name": "Sheffield",
+    "code": "E08000019",
+    "life_exp_birth_male_years": 78.7,
+    "life_exp_birth_male_rank": 231,
+    "life_exp_birth_female_years": 82.4,
+    "life_exp_birth_female_rank": 253,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 247,
+    "life_exp_65_female_years": 20.5,
+    "life_exp_65_female_rank": 263,
+    "area_id": 2537,
+    "area_mapit_name": "Sheffield City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000923",
+      "E14000921",
+      "E14000922",
+      "E14000920",
+      "E14000919"
+    ],
+    "area_overlaps": [
+      "E14000876"
+    ]
+  },
+  {
+    "area_name": "Bradford",
+    "code": "E08000032",
+    "life_exp_birth_male_years": 77.5,
+    "life_exp_birth_male_rank": 310,
+    "life_exp_birth_female_years": 81.5,
+    "life_exp_birth_female_rank": 310,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 301,
+    "life_exp_65_female_years": 20.2,
+    "life_exp_65_female_rank": 303,
+    "area_id": 2516,
+    "area_mapit_name": "Bradford City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000587",
+      "E14000766",
+      "E14000925",
+      "E14000588",
+      "E14000589"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Calderdale",
+    "code": "E08000033",
+    "life_exp_birth_male_years": 77.5,
+    "life_exp_birth_male_rank": 308,
+    "life_exp_birth_female_years": 82.2,
+    "life_exp_birth_female_rank": 267,
+    "life_exp_65_male_years": 17.5,
+    "life_exp_65_male_rank": 311,
+    "life_exp_65_female_years": 20.7,
+    "life_exp_65_female_rank": 253,
+    "area_id": 2518,
+    "area_mapit_name": "Calderdale Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000723",
+      "E14000614"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Kirklees",
+    "code": "E08000034",
+    "life_exp_birth_male_years": 78.2,
+    "life_exp_birth_male_rank": 261,
+    "life_exp_birth_female_years": 82,
+    "life_exp_birth_female_rank": 286,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 255,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 294,
+    "area_id": 2524,
+    "area_mapit_name": "Kirklees Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000756",
+      "E14000666",
+      "E14000548",
+      "E14000645"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Leeds",
+    "code": "E08000035",
+    "life_exp_birth_male_years": 78,
+    "life_exp_birth_male_rank": 272,
+    "life_exp_birth_female_years": 82.1,
+    "life_exp_birth_female_rank": 272,
+    "life_exp_65_male_years": 17.7,
+    "life_exp_65_male_rank": 292,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 291,
+    "area_id": 2526,
+    "area_mapit_name": "Leeds City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000886",
+      "E14000689",
+      "E14000777",
+      "E14000779",
+      "E14000778",
+      "E14000781",
+      "E14000780"
+    ],
+    "area_overlaps": [
+      "E14000826"
+    ]
+  },
+  {
+    "area_name": "Wakefield",
+    "code": "E08000036",
+    "life_exp_birth_male_years": 77.8,
+    "life_exp_birth_male_rank": 291,
+    "life_exp_birth_female_years": 81.3,
+    "life_exp_birth_female_rank": 317,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 303,
+    "life_exp_65_female_years": 19.9,
+    "life_exp_65_female_rank": 316,
+    "area_id": 2545,
+    "area_mapit_name": "Wakefield City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14001009",
+      "E14000836",
+      "E14000740"
+    ],
+    "area_overlaps": [
+      "E14000826"
+    ]
+  },
+  {
+    "area_name": "Derby UA",
+    "code": "E06000015",
+    "life_exp_birth_male_years": 78.6,
+    "life_exp_birth_male_rank": 238,
+    "life_exp_birth_female_years": 82.8,
+    "life_exp_birth_female_rank": 219,
+    "life_exp_65_male_years": 18.3,
+    "life_exp_65_male_rank": 222,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 170,
+    "area_id": 2562,
+    "area_mapit_name": "Derby City Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000663",
+      "E14000662"
+    ],
+    "area_overlaps": [
+      "E14000814"
+    ]
+  },
+  {
+    "area_name": "Leicester UA",
+    "code": "E06000016",
+    "life_exp_birth_male_years": 77,
+    "life_exp_birth_male_rank": 326,
+    "life_exp_birth_female_years": 81.8,
+    "life_exp_birth_female_rank": 293,
+    "life_exp_65_male_years": 17.3,
+    "life_exp_65_male_rank": 320,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 292,
+    "area_id": 2564,
+    "area_mapit_name": "Leicester City Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000784",
+      "E14000783",
+      "E14000782"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Nottingham UA",
+    "code": "E06000018",
+    "life_exp_birth_male_years": 76.9,
+    "life_exp_birth_male_rank": 328,
+    "life_exp_birth_female_years": 81.5,
+    "life_exp_birth_female_rank": 307,
+    "life_exp_65_male_years": 16.8,
+    "life_exp_65_male_rank": 340,
+    "life_exp_65_female_years": 20.5,
+    "life_exp_65_female_rank": 266,
+    "area_id": 2565,
+    "area_mapit_name": "Nottingham City Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000865",
+      "E14000866",
+      "E14000867"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Rutland UA",
+    "code": "E06000017",
+    "life_exp_birth_male_years": 81,
+    "life_exp_birth_male_rank": 54,
+    "life_exp_birth_female_years": 84.7,
+    "life_exp_birth_female_rank": 35,
+    "life_exp_65_male_years": 20.1,
+    "life_exp_65_male_rank": 17,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 71,
+    "area_id": 2600,
+    "area_mapit_name": "Rutland County Council",
+    "area_type": "UTA",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Amber Valley",
+    "code": "E07000032",
+    "life_exp_birth_male_years": 79.2,
+    "life_exp_birth_male_rank": 205,
+    "life_exp_birth_female_years": 83.3,
+    "life_exp_birth_female_rank": 176,
+    "life_exp_65_male_years": 18.3,
+    "life_exp_65_male_rank": 223,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 211,
+    "area_id": 2281,
+    "area_mapit_name": "Amber Valley Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000533"
+    ],
+    "area_overlaps": [
+      "E14000664",
+      "E14000814"
+    ]
+  },
+  {
+    "area_name": "Bolsover",
+    "code": "E07000033",
+    "life_exp_birth_male_years": 77.9,
+    "life_exp_birth_male_rank": 283,
+    "life_exp_birth_female_years": 82,
+    "life_exp_birth_female_rank": 282,
+    "life_exp_65_male_years": 17.1,
+    "life_exp_65_male_rank": 329,
+    "life_exp_65_female_years": 19.6,
+    "life_exp_65_female_rank": 326,
+    "area_id": 2282,
+    "area_mapit_name": "Bolsover District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Chesterfield",
+    "code": "E07000034",
+    "life_exp_birth_male_years": 77.7,
+    "life_exp_birth_male_rank": 293,
+    "life_exp_birth_female_years": 82.3,
+    "life_exp_birth_female_rank": 261,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 293,
+    "life_exp_65_female_years": 20.6,
+    "life_exp_65_female_rank": 260,
+    "area_id": 2284,
+    "area_mapit_name": "Chesterfield Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000632"
+    ],
+    "area_overlaps": [
+      "E14000843"
+    ]
+  },
+  {
+    "area_name": "Derbyshire Dales",
+    "code": "E07000035",
+    "life_exp_birth_male_years": 81.1,
+    "life_exp_birth_male_rank": 48,
+    "life_exp_birth_female_years": 84.3,
+    "life_exp_birth_female_rank": 79,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 79,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 103,
+    "area_id": 2283,
+    "area_mapit_name": "Derbyshire Dales District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Erewash",
+    "code": "E07000036",
+    "life_exp_birth_male_years": 79.8,
+    "life_exp_birth_male_rank": 153,
+    "life_exp_birth_female_years": 83.6,
+    "life_exp_birth_female_rank": 131,
+    "life_exp_65_male_years": 18.3,
+    "life_exp_65_male_rank": 221,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 115,
+    "area_id": 2279,
+    "area_mapit_name": "Erewash Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000695"
+    ],
+    "area_overlaps": [
+      "E14000814"
+    ]
+  },
+  {
+    "area_name": "High Peak",
+    "code": "E07000037",
+    "life_exp_birth_male_years": 80,
+    "life_exp_birth_male_rank": 137,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 157,
+    "life_exp_65_male_years": 18.7,
+    "life_exp_65_male_rank": 182,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 233,
+    "area_id": 2277,
+    "area_mapit_name": "High Peak Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000748"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "North East Derbyshire",
+    "code": "E07000038",
+    "life_exp_birth_male_years": 79.7,
+    "life_exp_birth_male_rank": 159,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 202,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 162,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 238,
+    "area_id": 2280,
+    "area_mapit_name": "North East Derbyshire District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000577",
+      "E14000843"
+    ]
+  },
+  {
+    "area_name": "South Derbyshire",
+    "code": "E07000039",
+    "life_exp_birth_male_years": 79.4,
+    "life_exp_birth_male_rank": 182,
+    "life_exp_birth_female_years": 83.3,
+    "life_exp_birth_female_rank": 173,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 258,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 224,
+    "area_id": 2278,
+    "area_mapit_name": "South Derbyshire District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000935"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Blaby",
+    "code": "E07000129",
+    "life_exp_birth_male_years": 80.7,
+    "life_exp_birth_male_rank": 73,
+    "life_exp_birth_female_years": 84.6,
+    "life_exp_birth_female_rank": 46,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 61,
+    "life_exp_65_female_years": 22.3,
+    "life_exp_65_female_rank": 45,
+    "area_id": 2376,
+    "area_mapit_name": "Blaby District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000625",
+      "E14000940"
+    ]
+  },
+  {
+    "area_name": "Charnwood",
+    "code": "E07000130",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 165,
+    "life_exp_birth_female_years": 83.6,
+    "life_exp_birth_female_rank": 136,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 188,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 139,
+    "area_id": 2377,
+    "area_mapit_name": "Charnwood Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000797"
+    ],
+    "area_overlaps": [
+      "E14000625"
+    ]
+  },
+  {
+    "area_name": "Harborough",
+    "code": "E07000131",
+    "life_exp_birth_male_years": 80.3,
+    "life_exp_birth_male_rank": 105,
+    "life_exp_birth_female_years": 84.8,
+    "life_exp_birth_female_rank": 31,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 86,
+    "life_exp_65_female_years": 22.4,
+    "life_exp_65_female_rank": 35,
+    "area_id": 2375,
+    "area_mapit_name": "Harborough District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000728",
+      "E14000909",
+      "E14000940"
+    ]
+  },
+  {
+    "area_name": "Hinckley and Bosworth",
+    "code": "E07000132",
+    "life_exp_birth_male_years": 80.2,
+    "life_exp_birth_male_rank": 115,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 60,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 189,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 62,
+    "area_id": 2372,
+    "area_mapit_name": "Hinckley and Bosworth Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000583"
+    ],
+    "area_overlaps": [
+      "E14000625"
+    ]
+  },
+  {
+    "area_name": "Melton",
+    "code": "E07000133",
+    "life_exp_birth_male_years": 80.2,
+    "life_exp_birth_male_rank": 119,
+    "life_exp_birth_female_years": 83.7,
+    "life_exp_birth_female_rank": 130,
+    "life_exp_65_male_years": 19.3,
+    "life_exp_65_male_rank": 96,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 69,
+    "area_id": 2374,
+    "area_mapit_name": "Melton Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "North West Leicestershire",
+    "code": "E07000134",
+    "life_exp_birth_male_years": 79.4,
+    "life_exp_birth_male_rank": 186,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 199,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 196,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 209,
+    "area_id": 2373,
+    "area_mapit_name": "North West Leicestershire District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000858"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Oadby and Wigston",
+    "code": "E07000135",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 123,
+    "life_exp_birth_female_years": 84.1,
+    "life_exp_birth_female_rank": 91,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 136,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 138,
+    "area_id": 2378,
+    "area_mapit_name": "Oadby and Wigston Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Boston",
+    "code": "E07000136",
+    "life_exp_birth_male_years": 78.8,
+    "life_exp_birth_male_rank": 226,
+    "life_exp_birth_female_years": 82.5,
+    "life_exp_birth_female_rank": 242,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 173,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 236,
+    "area_id": 2382,
+    "area_mapit_name": "Boston Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "East Lindsey",
+    "code": "E07000137",
+    "life_exp_birth_male_years": 77.8,
+    "life_exp_birth_male_rank": 290,
+    "life_exp_birth_female_years": 81.8,
+    "life_exp_birth_female_rank": 292,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 259,
+    "life_exp_65_female_years": 20.6,
+    "life_exp_65_female_rank": 254,
+    "area_id": 2384,
+    "area_mapit_name": "East Lindsey District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000798"
+    ],
+    "area_overlaps": [
+      "E14000707",
+      "E14000582"
+    ]
+  },
+  {
+    "area_name": "Lincoln",
+    "code": "E07000138",
+    "life_exp_birth_male_years": 77.7,
+    "life_exp_birth_male_rank": 295,
+    "life_exp_birth_female_years": 81.8,
+    "life_exp_birth_female_rank": 296,
+    "life_exp_65_male_years": 17.7,
+    "life_exp_65_male_rank": 287,
+    "life_exp_65_female_years": 20.4,
+    "life_exp_65_female_rank": 276,
+    "area_id": 2385,
+    "area_mapit_name": "Lincoln City Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000792",
+      "E14000929"
+    ]
+  },
+  {
+    "area_name": "North Kesteven",
+    "code": "E07000139",
+    "life_exp_birth_male_years": 80.7,
+    "life_exp_birth_male_rank": 80,
+    "life_exp_birth_female_years": 83.3,
+    "life_exp_birth_female_rank": 170,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 132,
+    "life_exp_65_female_years": 21.4,
+    "life_exp_65_female_rank": 155,
+    "area_id": 2383,
+    "area_mapit_name": "North Kesteven District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000792",
+      "E14000929"
+    ]
+  },
+  {
+    "area_name": "South Holland",
+    "code": "E07000140",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 171,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 163,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 119,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 147,
+    "area_id": 2381,
+    "area_mapit_name": "South Holland District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "South Kesteven",
+    "code": "E07000141",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 125,
+    "life_exp_birth_female_years": 84,
+    "life_exp_birth_female_rank": 100,
+    "life_exp_65_male_years": 18.7,
+    "life_exp_65_male_rank": 179,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 144,
+    "area_id": 2380,
+    "area_mapit_name": "South Kesteven District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000714"
+    ],
+    "area_overlaps": [
+      "E14000929",
+      "E14000939"
+    ]
+  },
+  {
+    "area_name": "West Lindsey",
+    "code": "E07000142",
+    "life_exp_birth_male_years": 79.4,
+    "life_exp_birth_male_rank": 188,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 205,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 176,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 191,
+    "area_id": 2379,
+    "area_mapit_name": "West Lindsey District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Corby",
+    "code": "E07000150",
+    "life_exp_birth_male_years": 77.3,
+    "life_exp_birth_male_rank": 319,
+    "life_exp_birth_female_years": 80.2,
+    "life_exp_birth_female_rank": 343,
+    "life_exp_65_male_years": 17.2,
+    "life_exp_65_male_rank": 325,
+    "life_exp_65_female_years": 18.7,
+    "life_exp_65_female_rank": 345,
+    "area_id": 2398,
+    "area_mapit_name": "Corby Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Daventry",
+    "code": "E07000151",
+    "life_exp_birth_male_years": 79.5,
+    "life_exp_birth_male_rank": 177,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 150,
+    "life_exp_65_male_years": 18.5,
+    "life_exp_65_male_rank": 200,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 198,
+    "area_id": 2394,
+    "area_mapit_name": "Daventry District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "East Northamptonshire",
+    "code": "E07000152",
+    "life_exp_birth_male_years": 80,
+    "life_exp_birth_male_rank": 135,
+    "life_exp_birth_female_years": 83.1,
+    "life_exp_birth_female_rank": 185,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 165,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 230,
+    "area_id": 2393,
+    "area_mapit_name": "East Northamptonshire District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000648",
+      "E14001025"
+    ]
+  },
+  {
+    "area_name": "Kettering",
+    "code": "E07000153",
+    "life_exp_birth_male_years": 79.2,
+    "life_exp_birth_male_rank": 202,
+    "life_exp_birth_female_years": 82.7,
+    "life_exp_birth_female_rank": 229,
+    "life_exp_65_male_years": 18.2,
+    "life_exp_65_male_rank": 233,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 210,
+    "area_id": 2396,
+    "area_mapit_name": "Kettering Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000769"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Northampton",
+    "code": "E07000154",
+    "life_exp_birth_male_years": 77.4,
+    "life_exp_birth_male_rank": 312,
+    "life_exp_birth_female_years": 81.8,
+    "life_exp_birth_female_rank": 295,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 294,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 289,
+    "area_id": 2397,
+    "area_mapit_name": "Northampton Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000862",
+      "E14000861"
+    ],
+    "area_overlaps": [
+      "E14000942"
+    ]
+  },
+  {
+    "area_name": "South Northamptonshire",
+    "code": "E07000155",
+    "life_exp_birth_male_years": 82.2,
+    "life_exp_birth_male_rank": 4,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 67,
+    "life_exp_65_male_years": 19.9,
+    "life_exp_65_male_rank": 23,
+    "life_exp_65_female_years": 22.2,
+    "life_exp_65_female_rank": 50,
+    "area_id": 2392,
+    "area_mapit_name": "South Northamptonshire District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000942",
+      "E14000660"
+    ]
+  },
+  {
+    "area_name": "Wellingborough",
+    "code": "E07000156",
+    "life_exp_birth_male_years": 80,
+    "life_exp_birth_male_rank": 134,
+    "life_exp_birth_female_years": 83.7,
+    "life_exp_birth_female_rank": 125,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 92,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 106,
+    "area_id": 2395,
+    "area_mapit_name": "Wellingborough Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14001025",
+      "E14000660"
+    ]
+  },
+  {
+    "area_name": "Ashfield",
+    "code": "E07000170",
+    "life_exp_birth_male_years": 77.6,
+    "life_exp_birth_male_rank": 301,
+    "life_exp_birth_female_years": 81.7,
+    "life_exp_birth_female_rank": 298,
+    "life_exp_65_male_years": 17.1,
+    "life_exp_65_male_rank": 331,
+    "life_exp_65_female_years": 19.9,
+    "life_exp_65_female_rank": 314,
+    "area_id": 2413,
+    "area_mapit_name": "Ashfield District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000924",
+      "E14000535"
+    ]
+  },
+  {
+    "area_name": "Bassetlaw",
+    "code": "E07000171",
+    "life_exp_birth_male_years": 78.6,
+    "life_exp_birth_male_rank": 240,
+    "life_exp_birth_female_years": 82.1,
+    "life_exp_birth_female_rank": 269,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 262,
+    "life_exp_65_female_years": 20.4,
+    "life_exp_65_female_rank": 278,
+    "area_id": 2410,
+    "area_mapit_name": "Bassetlaw District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000546"
+    ],
+    "area_overlaps": [
+      "E14000829"
+    ]
+  },
+  {
+    "area_name": "Broxtowe",
+    "code": "E07000172",
+    "life_exp_birth_male_years": 80,
+    "life_exp_birth_male_rank": 136,
+    "life_exp_birth_female_years": 83.6,
+    "life_exp_birth_female_rank": 135,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 194,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 213,
+    "area_id": 2415,
+    "area_mapit_name": "Broxtowe Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000607"
+    ],
+    "area_overlaps": [
+      "E14000535"
+    ]
+  },
+  {
+    "area_name": "Gedling",
+    "code": "E07000173",
+    "life_exp_birth_male_years": 80.5,
+    "life_exp_birth_male_rank": 93,
+    "life_exp_birth_female_years": 83.1,
+    "life_exp_birth_female_rank": 193,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 170,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 220,
+    "area_id": 2412,
+    "area_mapit_name": "Gedling Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000710"
+    ],
+    "area_overlaps": [
+      "E14000924"
+    ]
+  },
+  {
+    "area_name": "Mansfield",
+    "code": "E07000174",
+    "life_exp_birth_male_years": 78.3,
+    "life_exp_birth_male_rank": 255,
+    "life_exp_birth_female_years": 82.1,
+    "life_exp_birth_female_rank": 277,
+    "life_exp_65_male_years": 17.7,
+    "life_exp_65_male_rank": 286,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 282,
+    "area_id": 2416,
+    "area_mapit_name": "Mansfield District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000810"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Newark and Sherwood",
+    "code": "E07000175",
+    "life_exp_birth_male_years": 79.3,
+    "life_exp_birth_male_rank": 195,
+    "life_exp_birth_female_years": 82.7,
+    "life_exp_birth_female_rank": 232,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 251,
+    "life_exp_65_female_years": 20.7,
+    "life_exp_65_female_rank": 245,
+    "area_id": 2414,
+    "area_mapit_name": "Newark and Sherwood District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000924",
+      "E14000829"
+    ]
+  },
+  {
+    "area_name": "Rushcliffe",
+    "code": "E07000176",
+    "life_exp_birth_male_years": 80.9,
+    "life_exp_birth_male_rank": 59,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 70,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 89,
+    "life_exp_65_female_years": 22.1,
+    "life_exp_65_female_rank": 61,
+    "area_id": 2411,
+    "area_mapit_name": "Rushcliffe Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000908"
+    ],
+    "area_overlaps": [
+      "E14000829"
+    ]
+  },
+  {
+    "area_name": "Herefordshire, County of UA",
+    "code": "E06000019",
+    "life_exp_birth_male_years": 79.7,
+    "life_exp_birth_male_rank": 157,
+    "life_exp_birth_female_years": 83.7,
+    "life_exp_birth_female_rank": 124,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 155,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 70,
+    "area_id": 2571,
+    "area_mapit_name": "Herefordshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000743",
+      "E14000847"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Shropshire UA",
+    "code": "E06000051",
+    "life_exp_birth_male_years": 79.8,
+    "life_exp_birth_male_rank": 151,
+    "life_exp_birth_female_years": 83.8,
+    "life_exp_birth_female_rank": 117,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 135,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 127,
+    "area_id": 2238,
+    "area_mapit_name": "Shropshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000926",
+      "E14000799",
+      "E14000849"
+    ],
+    "area_overlaps": [
+      "E14000992"
+    ]
+  },
+  {
+    "area_name": "Stoke-on-Trent UA",
+    "code": "E06000021",
+    "life_exp_birth_male_years": 76.7,
+    "life_exp_birth_male_rank": 332,
+    "life_exp_birth_female_years": 80.5,
+    "life_exp_birth_female_rank": 338,
+    "life_exp_65_male_years": 17.2,
+    "life_exp_65_male_rank": 327,
+    "life_exp_65_female_years": 19.8,
+    "life_exp_65_female_rank": 322,
+    "area_id": 2568,
+    "area_mapit_name": "Stoke-on-Trent City Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000972",
+      "E14000974"
+    ],
+    "area_overlaps": [
+      "E14000973"
+    ]
+  },
+  {
+    "area_name": "Telford and Wrekin UA",
+    "code": "E06000020",
+    "life_exp_birth_male_years": 77.9,
+    "life_exp_birth_male_rank": 285,
+    "life_exp_birth_female_years": 81.6,
+    "life_exp_birth_female_rank": 305,
+    "life_exp_65_male_years": 17.7,
+    "life_exp_65_male_rank": 285,
+    "life_exp_65_female_years": 20.2,
+    "life_exp_65_female_rank": 302,
+    "area_id": 2613,
+    "area_mapit_name": "Telford and Wrekin Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000989"
+    ],
+    "area_overlaps": [
+      "E14000992"
+    ]
+  },
+  {
+    "area_name": "Cannock Chase",
+    "code": "E07000192",
+    "life_exp_birth_male_years": 78.7,
+    "life_exp_birth_male_rank": 230,
+    "life_exp_birth_female_years": 82.9,
+    "life_exp_birth_female_rank": 209,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 245,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 214,
+    "area_id": 2438,
+    "area_mapit_name": "Cannock Chase District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000618"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "East Staffordshire",
+    "code": "E07000193",
+    "life_exp_birth_male_years": 78.5,
+    "life_exp_birth_male_rank": 246,
+    "life_exp_birth_female_years": 82.9,
+    "life_exp_birth_female_rank": 211,
+    "life_exp_65_male_years": 18.3,
+    "life_exp_65_male_rank": 226,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 208,
+    "area_id": 2437,
+    "area_mapit_name": "East Staffordshire Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000610"
+    ],
+    "area_overlaps": [
+      "E14000791"
+    ]
+  },
+  {
+    "area_name": "Lichfield",
+    "code": "E07000194",
+    "life_exp_birth_male_years": 79.9,
+    "life_exp_birth_male_rank": 146,
+    "life_exp_birth_female_years": 82.9,
+    "life_exp_birth_female_rank": 212,
+    "life_exp_65_male_years": 18.5,
+    "life_exp_65_male_rank": 206,
+    "life_exp_65_female_years": 20.7,
+    "life_exp_65_female_rank": 247,
+    "area_id": 2434,
+    "area_mapit_name": "Lichfield District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000986",
+      "E14000791"
+    ]
+  },
+  {
+    "area_name": "Newcastle-under-Lyme",
+    "code": "E07000195",
+    "life_exp_birth_male_years": 78.9,
+    "life_exp_birth_male_rank": 221,
+    "life_exp_birth_female_years": 82.3,
+    "life_exp_birth_female_rank": 256,
+    "life_exp_65_male_years": 18.4,
+    "life_exp_65_male_rank": 211,
+    "life_exp_65_female_years": 20.5,
+    "life_exp_65_female_rank": 270,
+    "area_id": 2435,
+    "area_mapit_name": "Newcastle-under-Lyme Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000834"
+    ],
+    "area_overlaps": [
+      "E14000973",
+      "E14000966",
+      "E14000975"
+    ]
+  },
+  {
+    "area_name": "South Staffordshire",
+    "code": "E07000196",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 130,
+    "life_exp_birth_female_years": 83.2,
+    "life_exp_birth_female_rank": 182,
+    "life_exp_65_male_years": 18.7,
+    "life_exp_65_male_rank": 184,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 173,
+    "area_id": 2433,
+    "area_mapit_name": "South Staffordshire District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000945"
+    ],
+    "area_overlaps": [
+      "E14000965"
+    ]
+  },
+  {
+    "area_name": "Stafford",
+    "code": "E07000197",
+    "life_exp_birth_male_years": 80.3,
+    "life_exp_birth_male_rank": 104,
+    "life_exp_birth_female_years": 83.6,
+    "life_exp_birth_female_rank": 133,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 51,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 140,
+    "area_id": 2436,
+    "area_mapit_name": "Stafford Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000975",
+      "E14000965"
+    ]
+  },
+  {
+    "area_name": "Staffordshire Moorlands",
+    "code": "E07000198",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 175,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 151,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 167,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 175,
+    "area_id": 2432,
+    "area_mapit_name": "Staffordshire Moorlands District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000966",
+      "E14000975"
+    ]
+  },
+  {
+    "area_name": "Tamworth",
+    "code": "E07000199",
+    "life_exp_birth_male_years": 79.4,
+    "life_exp_birth_male_rank": 181,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 197,
+    "life_exp_65_male_years": 18.4,
+    "life_exp_65_male_rank": 216,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 179,
+    "area_id": 2439,
+    "area_mapit_name": "Tamworth Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "North Warwickshire",
+    "code": "E07000218",
+    "life_exp_birth_male_years": 78.7,
+    "life_exp_birth_male_rank": 232,
+    "life_exp_birth_female_years": 82.3,
+    "life_exp_birth_female_rank": 258,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 274,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 290,
+    "area_id": 2458,
+    "area_mapit_name": "North Warwickshire Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000868",
+      "E14000854"
+    ]
+  },
+  {
+    "area_name": "Nuneaton and Bedworth",
+    "code": "E07000219",
+    "life_exp_birth_male_years": 78.2,
+    "life_exp_birth_male_rank": 266,
+    "life_exp_birth_female_years": 82.6,
+    "life_exp_birth_female_rank": 237,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 302,
+    "life_exp_65_female_years": 20.5,
+    "life_exp_65_female_rank": 268,
+    "area_id": 2462,
+    "area_mapit_name": "Nuneaton and Bedworth Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000905",
+      "E14000868",
+      "E14000854"
+    ]
+  },
+  {
+    "area_name": "Rugby",
+    "code": "E07000220",
+    "life_exp_birth_male_years": 80.2,
+    "life_exp_birth_male_rank": 116,
+    "life_exp_birth_female_years": 83.7,
+    "life_exp_birth_female_rank": 129,
+    "life_exp_65_male_years": 19.3,
+    "life_exp_65_male_rank": 104,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 118,
+    "area_id": 2459,
+    "area_mapit_name": "Rugby Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000905",
+      "E14000767"
+    ]
+  },
+  {
+    "area_name": "Stratford-on-Avon",
+    "code": "E07000221",
+    "life_exp_birth_male_years": 81,
+    "life_exp_birth_male_rank": 57,
+    "life_exp_birth_female_years": 84.9,
+    "life_exp_birth_female_rank": 27,
+    "life_exp_65_male_years": 19.8,
+    "life_exp_65_male_rank": 36,
+    "life_exp_65_female_years": 22.6,
+    "life_exp_65_female_rank": 27,
+    "area_id": 2461,
+    "area_mapit_name": "Stratford-on-Avon District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000977"
+    ],
+    "area_overlaps": [
+      "E14000767"
+    ]
+  },
+  {
+    "area_name": "Warwick",
+    "code": "E07000222",
+    "life_exp_birth_male_years": 80.4,
+    "life_exp_birth_male_rank": 100,
+    "life_exp_birth_female_years": 84.7,
+    "life_exp_birth_female_rank": 36,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 88,
+    "life_exp_65_female_years": 22.7,
+    "life_exp_65_female_rank": 23,
+    "area_id": 2460,
+    "area_mapit_name": "Warwick District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001019"
+    ],
+    "area_overlaps": [
+      "E14000767"
+    ]
+  },
+  {
+    "area_name": "Birmingham",
+    "code": "E08000025",
+    "life_exp_birth_male_years": 77.6,
+    "life_exp_birth_male_rank": 303,
+    "life_exp_birth_female_years": 82.1,
+    "life_exp_birth_female_rank": 276,
+    "life_exp_65_male_years": 17.8,
+    "life_exp_65_male_rank": 275,
+    "life_exp_65_female_years": 20.6,
+    "life_exp_65_female_rank": 255,
+    "area_id": 2514,
+    "area_mapit_name": "Birmingham City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000562",
+      "E14000561",
+      "E14000985",
+      "E14000568",
+      "E14000567",
+      "E14000560",
+      "E14000565",
+      "E14000564",
+      "E14000566",
+      "E14000563"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Coventry",
+    "code": "E08000026",
+    "life_exp_birth_male_years": 78.1,
+    "life_exp_birth_male_rank": 268,
+    "life_exp_birth_female_years": 82.1,
+    "life_exp_birth_female_rank": 270,
+    "life_exp_65_male_years": 18.3,
+    "life_exp_65_male_rank": 225,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 232,
+    "area_id": 2520,
+    "area_mapit_name": "Coventry City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000650",
+      "E14000649",
+      "E14000651"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Dudley",
+    "code": "E08000027",
+    "life_exp_birth_male_years": 78.9,
+    "life_exp_birth_male_rank": 222,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 195,
+    "life_exp_65_male_years": 18.4,
+    "life_exp_65_male_rank": 215,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 180,
+    "area_id": 2522,
+    "area_mapit_name": "Dudley Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000976",
+      "E14000671",
+      "E14000672"
+    ],
+    "area_overlaps": [
+      "E14001050",
+      "E14000722",
+      "E14001016"
+    ]
+  },
+  {
+    "area_name": "Sandwell",
+    "code": "E08000028",
+    "life_exp_birth_male_years": 76.8,
+    "life_exp_birth_male_rank": 330,
+    "life_exp_birth_female_years": 81.3,
+    "life_exp_birth_female_rank": 318,
+    "life_exp_65_male_years": 17,
+    "life_exp_65_male_rank": 332,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 293,
+    "area_id": 2535,
+    "area_mapit_name": "Sandwell Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14001029",
+      "E14001030"
+    ],
+    "area_overlaps": [
+      "E14000722",
+      "E14001016"
+    ]
+  },
+  {
+    "area_name": "Solihull",
+    "code": "E08000029",
+    "life_exp_birth_male_years": 80.7,
+    "life_exp_birth_male_rank": 79,
+    "life_exp_birth_female_years": 84.6,
+    "life_exp_birth_female_rank": 41,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 85,
+    "life_exp_65_female_years": 22.5,
+    "life_exp_65_female_rank": 31,
+    "area_id": 2538,
+    "area_mapit_name": "Solihull Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000931",
+      "E14000812"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Walsall",
+    "code": "E08000030",
+    "life_exp_birth_male_years": 77.9,
+    "life_exp_birth_male_rank": 281,
+    "life_exp_birth_female_years": 82.3,
+    "life_exp_birth_female_rank": 255,
+    "life_exp_65_male_years": 18.1,
+    "life_exp_65_male_rank": 240,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 225,
+    "area_id": 2546,
+    "area_mapit_name": "Walsall Borough Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14000531",
+      "E14001012",
+      "E14001011"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Wolverhampton",
+    "code": "E08000031",
+    "life_exp_birth_male_years": 77.4,
+    "life_exp_birth_male_rank": 316,
+    "life_exp_birth_female_years": 81.7,
+    "life_exp_birth_female_rank": 299,
+    "life_exp_65_male_years": 17.7,
+    "life_exp_65_male_rank": 284,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 283,
+    "area_id": 2519,
+    "area_mapit_name": "Wolverhampton City Council",
+    "area_type": "MTD",
+    "area_covers": [
+      "E14001049",
+      "E14001051"
+    ],
+    "area_overlaps": [
+      "E14001050"
+    ]
+  },
+  {
+    "area_name": "Bromsgrove",
+    "code": "E07000234",
+    "life_exp_birth_male_years": 80.4,
+    "life_exp_birth_male_rank": 103,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 140,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 171,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 231,
+    "area_id": 2477,
+    "area_mapit_name": "Bromsgrove District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000605"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Malvern Hills",
+    "code": "E07000235",
+    "life_exp_birth_male_years": 80.4,
+    "life_exp_birth_male_rank": 102,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 159,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 114,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 199,
+    "area_id": 2474,
+    "area_mapit_name": "Malvern Hills District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Redditch",
+    "code": "E07000236",
+    "life_exp_birth_male_years": 78.9,
+    "life_exp_birth_male_rank": 218,
+    "life_exp_birth_female_years": 82.9,
+    "life_exp_birth_female_rank": 214,
+    "life_exp_65_male_years": 18.2,
+    "life_exp_65_male_rank": 235,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 237,
+    "area_id": 2479,
+    "area_mapit_name": "Redditch Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Worcester",
+    "code": "E07000237",
+    "life_exp_birth_male_years": 78.8,
+    "life_exp_birth_male_rank": 225,
+    "life_exp_birth_female_years": 83.3,
+    "life_exp_birth_female_rank": 177,
+    "life_exp_65_male_years": 18.2,
+    "life_exp_65_male_rank": 234,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 151,
+    "area_id": 2478,
+    "area_mapit_name": "Worcester City Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001052"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Wychavon",
+    "code": "E07000238",
+    "life_exp_birth_male_years": 80.7,
+    "life_exp_birth_male_rank": 75,
+    "life_exp_birth_female_years": 84.6,
+    "life_exp_birth_female_rank": 43,
+    "life_exp_65_male_years": 19.9,
+    "life_exp_65_male_rank": 31,
+    "life_exp_65_female_years": 22.4,
+    "life_exp_65_female_rank": 34,
+    "area_id": 2476,
+    "area_mapit_name": "Wychavon District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000818"
+    ],
+    "area_overlaps": [
+      "E14000892",
+      "E14001035"
+    ]
+  },
+  {
+    "area_name": "Wyre Forest",
+    "code": "E07000239",
+    "life_exp_birth_male_years": 79.2,
+    "life_exp_birth_male_rank": 206,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 196,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 172,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 186,
+    "area_id": 2475,
+    "area_mapit_name": "Wyre Forest District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001058"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Bedford UA",
+    "code": "E06000055",
+    "life_exp_birth_male_years": 79.3,
+    "life_exp_birth_male_rank": 190,
+    "life_exp_birth_female_years": 83.1,
+    "life_exp_birth_female_rank": 184,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 134,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 146,
+    "area_id": 2253,
+    "area_mapit_name": "Bedford Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000552"
+    ],
+    "area_overlaps": [
+      "E14000813",
+      "E14000841"
+    ]
+  },
+  {
+    "area_name": "Central Bedfordshire UA",
+    "code": "E06000056",
+    "life_exp_birth_male_years": 80.5,
+    "life_exp_birth_male_rank": 96,
+    "life_exp_birth_female_years": 84,
+    "life_exp_birth_female_rank": 101,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 106,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 125,
+    "area_id": 21070,
+    "area_mapit_name": "Central Bedfordshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000949"
+    ],
+    "area_overlaps": [
+      "E14000813",
+      "E14000841",
+      "E14000801"
+    ]
+  },
+  {
+    "area_name": "Luton UA",
+    "code": "E06000032",
+    "life_exp_birth_male_years": 78,
+    "life_exp_birth_male_rank": 276,
+    "life_exp_birth_female_years": 82.1,
+    "life_exp_birth_female_rank": 275,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 256,
+    "life_exp_65_female_years": 20.5,
+    "life_exp_65_female_rank": 271,
+    "area_id": 2583,
+    "area_mapit_name": "Luton Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000800"
+    ],
+    "area_overlaps": [
+      "E14000801"
+    ]
+  },
+  {
+    "area_name": "Peterborough UA",
+    "code": "E06000031",
+    "life_exp_birth_male_years": 77.9,
+    "life_exp_birth_male_rank": 278,
+    "life_exp_birth_female_years": 82.5,
+    "life_exp_birth_female_rank": 248,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 270,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 222,
+    "area_id": 2566,
+    "area_mapit_name": "Peterborough City Council",
+    "area_type": "UTA",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000855",
+      "E14000878",
+      "E14000842"
+    ]
+  },
+  {
+    "area_name": "Southend-on-Sea UA",
+    "code": "E06000033",
+    "life_exp_birth_male_years": 79.7,
+    "life_exp_birth_male_rank": 161,
+    "life_exp_birth_female_years": 82.6,
+    "life_exp_birth_female_rank": 238,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 193,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 223,
+    "area_id": 2607,
+    "area_mapit_name": "Southend-on-Sea Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000957"
+    ],
+    "area_overlaps": [
+      "E14000899"
+    ]
+  },
+  {
+    "area_name": "Thurrock UA",
+    "code": "E06000034",
+    "life_exp_birth_male_years": 79.2,
+    "life_exp_birth_male_rank": 203,
+    "life_exp_birth_female_years": 82.4,
+    "life_exp_birth_female_rank": 249,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 266,
+    "life_exp_65_female_years": 20.4,
+    "life_exp_65_female_rank": 280,
+    "area_id": 2615,
+    "area_mapit_name": "Thurrock Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000995"
+    ],
+    "area_overlaps": [
+      "E14000933",
+      "E14000751"
+    ]
+  },
+  {
+    "area_name": "Cambridge",
+    "code": "E07000008",
+    "life_exp_birth_male_years": 79.9,
+    "life_exp_birth_male_rank": 141,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 50,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 124,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 67,
+    "area_id": 2263,
+    "area_mapit_name": "Cambridge City Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000617"
+    ],
+    "area_overlaps": [
+      "E14000934"
+    ]
+  },
+  {
+    "area_name": "East Cambridgeshire",
+    "code": "E07000009",
+    "life_exp_birth_male_years": 81.5,
+    "life_exp_birth_male_rank": 25,
+    "life_exp_birth_female_years": 85.3,
+    "life_exp_birth_female_rank": 16,
+    "life_exp_65_male_years": 19.9,
+    "life_exp_65_male_rank": 25,
+    "life_exp_65_female_years": 22.8,
+    "life_exp_65_female_rank": 18,
+    "area_id": 2261,
+    "area_mapit_name": "East Cambridgeshire District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000937",
+      "E14000842"
+    ]
+  },
+  {
+    "area_name": "Fenland",
+    "code": "E07000010",
+    "life_exp_birth_male_years": 79.1,
+    "life_exp_birth_male_rank": 214,
+    "life_exp_birth_female_years": 82.8,
+    "life_exp_birth_female_rank": 218,
+    "life_exp_65_male_years": 18.7,
+    "life_exp_65_male_rank": 185,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 189,
+    "area_id": 2259,
+    "area_mapit_name": "Fenland District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000878",
+      "E14000842"
+    ]
+  },
+  {
+    "area_name": "Huntingdonshire",
+    "code": "E07000011",
+    "life_exp_birth_male_years": 80.9,
+    "life_exp_birth_male_rank": 60,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 71,
+    "life_exp_65_male_years": 19.5,
+    "life_exp_65_male_rank": 69,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 108,
+    "area_id": 2262,
+    "area_mapit_name": "Huntingdonshire District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000757"
+    ],
+    "area_overlaps": [
+      "E14000855"
+    ]
+  },
+  {
+    "area_name": "South Cambridgeshire",
+    "code": "E07000012",
+    "life_exp_birth_male_years": 82.8,
+    "life_exp_birth_male_rank": 3,
+    "life_exp_birth_female_years": 85.9,
+    "life_exp_birth_female_rank": 5,
+    "life_exp_65_male_years": 20.5,
+    "life_exp_65_male_rank": 8,
+    "life_exp_65_female_years": 23.3,
+    "life_exp_65_female_rank": 7,
+    "area_id": 2260,
+    "area_mapit_name": "South Cambridgeshire District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000934",
+      "E14000937"
+    ]
+  },
+  {
+    "area_name": "Basildon",
+    "code": "E07000066",
+    "life_exp_birth_male_years": 79.5,
+    "life_exp_birth_male_rank": 176,
+    "life_exp_birth_female_years": 82.9,
+    "life_exp_birth_female_rank": 213,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 175,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 228,
+    "area_id": 2319,
+    "area_mapit_name": "Basildon Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000544"
+    ],
+    "area_overlaps": [
+      "E14000888",
+      "E14000933"
+    ]
+  },
+  {
+    "area_name": "Braintree",
+    "code": "E07000067",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 167,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 203,
+    "life_exp_65_male_years": 18.2,
+    "life_exp_65_male_rank": 230,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 226,
+    "area_id": 2317,
+    "area_mapit_name": "Braintree District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000590"
+    ],
+    "area_overlaps": [
+      "E14001045"
+    ]
+  },
+  {
+    "area_name": "Brentwood",
+    "code": "E07000068",
+    "life_exp_birth_male_years": 81.4,
+    "life_exp_birth_male_rank": 33,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 64,
+    "life_exp_65_male_years": 20,
+    "life_exp_65_male_rank": 20,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 83,
+    "area_id": 2309,
+    "area_mapit_name": "Brentwood Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Castle Point",
+    "code": "E07000069",
+    "life_exp_birth_male_years": 79.9,
+    "life_exp_birth_male_rank": 147,
+    "life_exp_birth_female_years": 82.8,
+    "life_exp_birth_female_rank": 221,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 149,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 227,
+    "area_id": 2320,
+    "area_mapit_name": "Castle Point Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000622"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Chelmsford",
+    "code": "E07000070",
+    "life_exp_birth_male_years": 80.7,
+    "life_exp_birth_male_rank": 71,
+    "life_exp_birth_female_years": 84.3,
+    "life_exp_birth_female_rank": 80,
+    "life_exp_65_male_years": 19.5,
+    "life_exp_65_male_rank": 71,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 90,
+    "area_id": 2314,
+    "area_mapit_name": "Chelmsford Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000628"
+    ],
+    "area_overlaps": [
+      "E14000910",
+      "E14000806"
+    ]
+  },
+  {
+    "area_name": "Colchester",
+    "code": "E07000071",
+    "life_exp_birth_male_years": 79.7,
+    "life_exp_birth_male_rank": 156,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 153,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 146,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 164,
+    "area_id": 2315,
+    "area_mapit_name": "Colchester Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000644"
+    ],
+    "area_overlaps": [
+      "E14000734",
+      "E14001045"
+    ]
+  },
+  {
+    "area_name": "Epping Forest",
+    "code": "E07000072",
+    "life_exp_birth_male_years": 80.2,
+    "life_exp_birth_male_rank": 114,
+    "life_exp_birth_female_years": 83.8,
+    "life_exp_birth_female_rank": 123,
+    "life_exp_65_male_years": 19.3,
+    "life_exp_65_male_rank": 103,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 143,
+    "area_id": 2311,
+    "area_mapit_name": "Epping Forest District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000693"
+    ],
+    "area_overlaps": [
+      "E14000594",
+      "E14000729"
+    ]
+  },
+  {
+    "area_name": "Harlow",
+    "code": "E07000073",
+    "life_exp_birth_male_years": 78.2,
+    "life_exp_birth_male_rank": 263,
+    "life_exp_birth_female_years": 82.4,
+    "life_exp_birth_female_rank": 252,
+    "life_exp_65_male_years": 18.5,
+    "life_exp_65_male_rank": 207,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 229,
+    "area_id": 2318,
+    "area_mapit_name": "Harlow District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Maldon",
+    "code": "E07000074",
+    "life_exp_birth_male_years": 80.6,
+    "life_exp_birth_male_rank": 87,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 161,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 77,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 177,
+    "area_id": 2316,
+    "area_mapit_name": "Maldon District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000806",
+      "E14001045"
+    ]
+  },
+  {
+    "area_name": "Rochford",
+    "code": "E07000075",
+    "life_exp_birth_male_years": 81.2,
+    "life_exp_birth_male_rank": 42,
+    "life_exp_birth_female_years": 84.6,
+    "life_exp_birth_female_rank": 45,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 52,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 63,
+    "area_id": 2310,
+    "area_mapit_name": "Rochford District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000899",
+      "E14000888"
+    ]
+  },
+  {
+    "area_name": "Tendring",
+    "code": "E07000076",
+    "life_exp_birth_male_years": 78,
+    "life_exp_birth_male_rank": 275,
+    "life_exp_birth_female_years": 81.9,
+    "life_exp_birth_female_rank": 291,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 264,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 239,
+    "area_id": 2312,
+    "area_mapit_name": "Tendring District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000642"
+    ],
+    "area_overlaps": [
+      "E14000734"
+    ]
+  },
+  {
+    "area_name": "Uttlesford",
+    "code": "E07000077",
+    "life_exp_birth_male_years": 81.8,
+    "life_exp_birth_male_rank": 16,
+    "life_exp_birth_female_years": 85.1,
+    "life_exp_birth_female_rank": 21,
+    "life_exp_65_male_years": 20.2,
+    "life_exp_65_male_rank": 13,
+    "life_exp_65_female_years": 22.4,
+    "life_exp_65_female_rank": 40,
+    "area_id": 2313,
+    "area_mapit_name": "Uttlesford District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Broxbourne",
+    "code": "E07000095",
+    "life_exp_birth_male_years": 80.7,
+    "life_exp_birth_male_rank": 77,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 63,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 90,
+    "life_exp_65_female_years": 22.1,
+    "life_exp_65_female_rank": 55,
+    "area_id": 2340,
+    "area_mapit_name": "Broxbourne Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Dacorum",
+    "code": "E07000096",
+    "life_exp_birth_male_years": 80.3,
+    "life_exp_birth_male_rank": 111,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 62,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 122,
+    "life_exp_65_female_years": 22.1,
+    "life_exp_65_female_rank": 58,
+    "area_id": 2341,
+    "area_mapit_name": "Dacorum Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000739"
+    ],
+    "area_overlaps": [
+      "E14000951"
+    ]
+  },
+  {
+    "area_name": "East Hertfordshire",
+    "code": "E07000097",
+    "life_exp_birth_male_years": 81,
+    "life_exp_birth_male_rank": 53,
+    "life_exp_birth_female_years": 84.1,
+    "life_exp_birth_female_rank": 95,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 74,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 122,
+    "area_id": 144309,
+    "area_mapit_name": "East Hertfordshire District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000744"
+    ],
+    "area_overlaps": [
+      "E14000968",
+      "E14000845"
+    ]
+  },
+  {
+    "area_name": "Hertsmere",
+    "code": "E07000098",
+    "life_exp_birth_male_years": 80.7,
+    "life_exp_birth_male_rank": 78,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 144,
+    "life_exp_65_male_years": 19.8,
+    "life_exp_65_male_rank": 33,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 130,
+    "area_id": 2339,
+    "area_mapit_name": "Hertsmere Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000745"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "North Hertfordshire",
+    "code": "E07000099",
+    "life_exp_birth_male_years": 79.9,
+    "life_exp_birth_male_rank": 140,
+    "life_exp_birth_female_years": 82.8,
+    "life_exp_birth_female_rank": 222,
+    "life_exp_65_male_years": 18.5,
+    "life_exp_65_male_rank": 202,
+    "life_exp_65_female_years": 20.5,
+    "life_exp_65_female_rank": 269,
+    "area_id": 2345,
+    "area_mapit_name": "North Hertfordshire District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000968",
+      "E14000749",
+      "E14000845"
+    ]
+  },
+  {
+    "area_name": "St Albans",
+    "code": "E07000100",
+    "life_exp_birth_male_years": 81.7,
+    "life_exp_birth_male_rank": 17,
+    "life_exp_birth_female_years": 85.3,
+    "life_exp_birth_female_rank": 17,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 40,
+    "life_exp_65_female_years": 22.8,
+    "life_exp_65_female_rank": 17,
+    "area_id": 141648,
+    "area_mapit_name": "St Albans Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14001021",
+      "E14000960",
+      "E14000749",
+      "E14001027",
+      "E14000739"
+    ]
+  },
+  {
+    "area_name": "Stevenage",
+    "code": "E07000101",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 169,
+    "life_exp_birth_female_years": 82.6,
+    "life_exp_birth_female_rank": 240,
+    "life_exp_65_male_years": 18.1,
+    "life_exp_65_male_rank": 238,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 217,
+    "area_id": 144310,
+    "area_mapit_name": "Stevenage Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000968",
+      "E14000845"
+    ]
+  },
+  {
+    "area_name": "Three Rivers",
+    "code": "E07000102",
+    "life_exp_birth_male_years": 80.3,
+    "life_exp_birth_male_rank": 109,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 54,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 148,
+    "life_exp_65_female_years": 22.1,
+    "life_exp_65_female_rank": 57,
+    "area_id": 2338,
+    "area_mapit_name": "Three Rivers District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000951",
+      "E14001021",
+      "E14000960"
+    ]
+  },
+  {
+    "area_name": "Watford",
+    "code": "E07000103",
+    "life_exp_birth_male_years": 79.2,
+    "life_exp_birth_male_rank": 201,
+    "life_exp_birth_female_years": 82.3,
+    "life_exp_birth_female_rank": 259,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 272,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 287,
+    "area_id": 2346,
+    "area_mapit_name": "Watford Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Welwyn Hatfield",
+    "code": "E07000104",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 129,
+    "life_exp_birth_female_years": 83.6,
+    "life_exp_birth_female_rank": 134,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 152,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 119,
+    "area_id": 141649,
+    "area_mapit_name": "Welwyn Hatfield Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000968",
+      "E14000606",
+      "E14000960",
+      "E14001027",
+      "E14000845"
+    ]
+  },
+  {
+    "area_name": "Breckland",
+    "code": "E07000143",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 131,
+    "life_exp_birth_female_years": 83.3,
+    "life_exp_birth_female_rank": 175,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 138,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 194,
+    "area_id": 2390,
+    "area_mapit_name": "Breckland District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000952",
+      "E14000816"
+    ]
+  },
+  {
+    "area_name": "Broadland",
+    "code": "E07000144",
+    "life_exp_birth_male_years": 81.4,
+    "life_exp_birth_male_rank": 31,
+    "life_exp_birth_female_years": 84.1,
+    "life_exp_birth_female_rank": 93,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 67,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 135,
+    "area_id": 2626,
+    "area_mapit_name": "Broadland District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000863"
+    ],
+    "area_overlaps": [
+      "E14000863",
+      "E14000603"
+    ]
+  },
+  {
+    "area_name": "Great Yarmouth",
+    "code": "E07000145",
+    "life_exp_birth_male_years": 78,
+    "life_exp_birth_male_rank": 273,
+    "life_exp_birth_female_years": 82.2,
+    "life_exp_birth_female_rank": 265,
+    "life_exp_65_male_years": 18.2,
+    "life_exp_65_male_rank": 237,
+    "life_exp_65_female_years": 20.6,
+    "life_exp_65_female_rank": 258,
+    "area_id": 2387,
+    "area_mapit_name": "Great Yarmouth Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000717"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "King’s Lynn and West Norfolk",
+    "code": "E07000146",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 166,
+    "life_exp_birth_female_years": 84,
+    "life_exp_birth_female_rank": 106,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 121,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 98,
+    "area_id": 2389,
+    "area_mapit_name": "King's Lynn and West Norfolk Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000859"
+    ],
+    "area_overlaps": [
+      "E14000952"
+    ]
+  },
+  {
+    "area_name": "North Norfolk",
+    "code": "E07000147",
+    "life_exp_birth_male_years": 80.5,
+    "life_exp_birth_male_rank": 94,
+    "life_exp_birth_female_years": 85,
+    "life_exp_birth_female_rank": 25,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 66,
+    "life_exp_65_female_years": 22.5,
+    "life_exp_65_female_rank": 28,
+    "area_id": 2386,
+    "area_mapit_name": "North Norfolk District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000848"
+    ],
+    "area_overlaps": [
+      "E14000603"
+    ]
+  },
+  {
+    "area_name": "Norwich",
+    "code": "E07000148",
+    "life_exp_birth_male_years": 78.9,
+    "life_exp_birth_male_rank": 219,
+    "life_exp_birth_female_years": 83.9,
+    "life_exp_birth_female_rank": 115,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 126,
+    "life_exp_65_female_years": 22.4,
+    "life_exp_65_female_rank": 37,
+    "area_id": 2391,
+    "area_mapit_name": "Norwich City Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000864",
+      "E14000863"
+    ]
+  },
+  {
+    "area_name": "South Norfolk",
+    "code": "E07000149",
+    "life_exp_birth_male_years": 81.3,
+    "life_exp_birth_male_rank": 39,
+    "life_exp_birth_female_years": 84.3,
+    "life_exp_birth_female_rank": 78,
+    "life_exp_65_male_years": 20.2,
+    "life_exp_65_male_rank": 15,
+    "life_exp_65_female_years": 22.2,
+    "life_exp_65_female_rank": 47,
+    "area_id": 2388,
+    "area_mapit_name": "South Norfolk District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000941"
+    ],
+    "area_overlaps": [
+      "E14000864",
+      "E14000816"
+    ]
+  },
+  {
+    "area_name": "Babergh",
+    "code": "E07000200",
+    "life_exp_birth_male_years": 81.9,
+    "life_exp_birth_male_rank": 12,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 55,
+    "life_exp_65_male_years": 19.9,
+    "life_exp_65_male_rank": 27,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 68,
+    "area_id": 2441,
+    "area_mapit_name": "Babergh District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Forest Heath",
+    "code": "E07000201",
+    "life_exp_birth_male_years": 79.8,
+    "life_exp_birth_male_rank": 155,
+    "life_exp_birth_female_years": 84.8,
+    "life_exp_birth_female_rank": 34,
+    "life_exp_65_male_years": 19.3,
+    "life_exp_65_male_rank": 102,
+    "life_exp_65_female_years": 22.2,
+    "life_exp_65_female_rank": 49,
+    "area_id": 2444,
+    "area_mapit_name": "Forest Heath District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Ipswich",
+    "code": "E07000202",
+    "life_exp_birth_male_years": 79.3,
+    "life_exp_birth_male_rank": 194,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 169,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 191,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 134,
+    "area_id": 2446,
+    "area_mapit_name": "Ipswich Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000761"
+    ],
+    "area_overlaps": [
+      "E14000624"
+    ]
+  },
+  {
+    "area_name": "Mid Suffolk",
+    "code": "E07000203",
+    "life_exp_birth_male_years": 81.7,
+    "life_exp_birth_male_rank": 19,
+    "life_exp_birth_female_years": 84.9,
+    "life_exp_birth_female_rank": 29,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 46,
+    "life_exp_65_female_years": 22.5,
+    "life_exp_65_female_rank": 32,
+    "area_id": 2445,
+    "area_mapit_name": "Mid Suffolk District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000624",
+      "E14000613"
+    ]
+  },
+  {
+    "area_name": "St Edmundsbury",
+    "code": "E07000204",
+    "life_exp_birth_male_years": 81.5,
+    "life_exp_birth_male_rank": 24,
+    "life_exp_birth_female_years": 84.2,
+    "life_exp_birth_female_rank": 87,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 48,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 73,
+    "area_id": 2443,
+    "area_mapit_name": "St Edmundsbury Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000946",
+      "E14001034",
+      "E14000613"
+    ]
+  },
+  {
+    "area_name": "Suffolk Coastal",
+    "code": "E07000205",
+    "life_exp_birth_male_years": 80.6,
+    "life_exp_birth_male_rank": 81,
+    "life_exp_birth_female_years": 83.9,
+    "life_exp_birth_female_rank": 110,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 44,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 110,
+    "area_id": 2442,
+    "area_mapit_name": "Suffolk Coastal District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000981",
+      "E14000624"
+    ]
+  },
+  {
+    "area_name": "Waveney",
+    "code": "E07000206",
+    "life_exp_birth_male_years": 79.4,
+    "life_exp_birth_male_rank": 189,
+    "life_exp_birth_female_years": 83.6,
+    "life_exp_birth_female_rank": 137,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 137,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 161,
+    "area_id": 2440,
+    "area_mapit_name": "Waveney District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001022"
+    ],
+    "area_overlaps": [
+      "E14000981"
+    ]
+  },
+  {
+    "area_name": "Camden",
+    "code": "E09000007",
+    "life_exp_birth_male_years": 80.5,
+    "life_exp_birth_male_rank": 91,
+    "life_exp_birth_female_years": 85.4,
+    "life_exp_birth_female_rank": 14,
+    "life_exp_65_male_years": 20.2,
+    "life_exp_65_male_rank": 16,
+    "life_exp_65_female_years": 23.8,
+    "life_exp_65_female_rank": 1,
+    "area_id": 2505,
+    "area_mapit_name": "Camden Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000750"
+    ],
+    "area_overlaps": [
+      "E14000727"
+    ]
+  },
+  {
+    "area_name": "Hackney",
+    "code": "E09000012",
+    "life_exp_birth_male_years": 77.7,
+    "life_exp_birth_male_rank": 294,
+    "life_exp_birth_female_years": 82.8,
+    "life_exp_birth_female_rank": 223,
+    "life_exp_65_male_years": 18.1,
+    "life_exp_65_male_rank": 244,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 212,
+    "area_id": 2508,
+    "area_mapit_name": "Hackney Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000720",
+      "E14000721"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Hammersmith and Fulham",
+    "code": "E09000013",
+    "life_exp_birth_male_years": 79.1,
+    "life_exp_birth_male_rank": 213,
+    "life_exp_birth_female_years": 83.3,
+    "life_exp_birth_female_rank": 171,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 174,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 142,
+    "area_id": 2502,
+    "area_mapit_name": "Hammersmith and Fulham Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000726"
+    ],
+    "area_overlaps": [
+      "E14000629"
+    ]
+  },
+  {
+    "area_name": "Haringey",
+    "code": "E09000014",
+    "life_exp_birth_male_years": 79.4,
+    "life_exp_birth_male_rank": 185,
+    "life_exp_birth_female_years": 83.8,
+    "life_exp_birth_female_rank": 120,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 116,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 79,
+    "area_id": 2509,
+    "area_mapit_name": "Haringey Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000752",
+      "E14001002"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Islington",
+    "code": "E09000019",
+    "life_exp_birth_male_years": 77.8,
+    "life_exp_birth_male_rank": 289,
+    "life_exp_birth_female_years": 83.2,
+    "life_exp_birth_female_rank": 179,
+    "life_exp_65_male_years": 17.7,
+    "life_exp_65_male_rank": 290,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 171,
+    "area_id": 2507,
+    "area_mapit_name": "Islington Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000764",
+      "E14000763"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Kensington and Chelsea",
+    "code": "E09000020",
+    "life_exp_birth_male_years": 82.1,
+    "life_exp_birth_male_rank": 6,
+    "life_exp_birth_female_years": 85.8,
+    "life_exp_birth_female_rank": 8,
+    "life_exp_65_male_years": 20.8,
+    "life_exp_65_male_rank": 3,
+    "life_exp_65_female_years": 23.2,
+    "life_exp_65_female_rank": 10,
+    "area_id": 2503,
+    "area_mapit_name": "Kensington and Chelsea Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000768"
+    ],
+    "area_overlaps": [
+      "E14000629"
+    ]
+  },
+  {
+    "area_name": "Lambeth",
+    "code": "E09000022",
+    "life_exp_birth_male_years": 78.2,
+    "life_exp_birth_male_rank": 257,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 200,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 249,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 169,
+    "area_id": 2490,
+    "area_mapit_name": "Lambeth Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14001008",
+      "E14000978"
+    ],
+    "area_overlaps": [
+      "E14000673"
+    ]
+  },
+  {
+    "area_name": "Lewisham",
+    "code": "E09000023",
+    "life_exp_birth_male_years": 78.2,
+    "life_exp_birth_male_rank": 258,
+    "life_exp_birth_female_years": 82.6,
+    "life_exp_birth_female_rank": 241,
+    "life_exp_65_male_years": 17.8,
+    "life_exp_65_male_rank": 283,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 218,
+    "area_id": 2492,
+    "area_mapit_name": "Lewisham Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000787",
+      "E14000789"
+    ],
+    "area_overlaps": [
+      "E14000788"
+    ]
+  },
+  {
+    "area_name": "Newham",
+    "code": "E09000025",
+    "life_exp_birth_male_years": 77.7,
+    "life_exp_birth_male_rank": 292,
+    "life_exp_birth_female_years": 82.6,
+    "life_exp_birth_female_rank": 235,
+    "life_exp_65_male_years": 17.7,
+    "life_exp_65_male_rank": 288,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 235,
+    "area_id": 2510,
+    "area_mapit_name": "Newham Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000679",
+      "E14001032"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Southwark",
+    "code": "E09000028",
+    "life_exp_birth_male_years": 78,
+    "life_exp_birth_male_rank": 269,
+    "life_exp_birth_female_years": 83.1,
+    "life_exp_birth_female_rank": 187,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 265,
+    "life_exp_65_female_years": 21.4,
+    "life_exp_65_female_rank": 153,
+    "area_id": 2491,
+    "area_mapit_name": "Southwark Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000553",
+      "E14000615"
+    ],
+    "area_overlaps": [
+      "E14000673"
+    ]
+  },
+  {
+    "area_name": "Tower Hamlets",
+    "code": "E09000030",
+    "life_exp_birth_male_years": 77.1,
+    "life_exp_birth_male_rank": 324,
+    "life_exp_birth_female_years": 82,
+    "life_exp_birth_female_rank": 283,
+    "life_exp_65_male_years": 17,
+    "life_exp_65_male_rank": 333,
+    "life_exp_65_female_years": 20.2,
+    "life_exp_65_female_rank": 299,
+    "area_id": 2506,
+    "area_mapit_name": "Tower Hamlets Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000555",
+      "E14000882"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Wandsworth",
+    "code": "E09000032",
+    "life_exp_birth_male_years": 79.1,
+    "life_exp_birth_male_rank": 210,
+    "life_exp_birth_female_years": 83.2,
+    "life_exp_birth_female_rank": 180,
+    "life_exp_65_male_years": 18.1,
+    "life_exp_65_male_rank": 243,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 219,
+    "area_id": 2501,
+    "area_mapit_name": "Wandsworth Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000998",
+      "E14000549",
+      "E14000887"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Westminster",
+    "code": "E09000033",
+    "life_exp_birth_male_years": 81.1,
+    "life_exp_birth_male_rank": 45,
+    "life_exp_birth_female_years": 85.1,
+    "life_exp_birth_female_rank": 23,
+    "life_exp_65_male_years": 20.6,
+    "life_exp_65_male_rank": 7,
+    "life_exp_65_female_years": 23,
+    "life_exp_65_female_rank": 13,
+    "area_id": 2504,
+    "area_mapit_name": "Westminster City Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14001036"
+    ],
+    "area_overlaps": [
+      "E14000639"
+    ]
+  },
+  {
+    "area_name": "Barking and Dagenham",
+    "code": "E09000002",
+    "life_exp_birth_male_years": 77.6,
+    "life_exp_birth_male_rank": 298,
+    "life_exp_birth_female_years": 82,
+    "life_exp_birth_female_rank": 285,
+    "life_exp_65_male_years": 17.5,
+    "life_exp_65_male_rank": 309,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 297,
+    "area_id": 2511,
+    "area_mapit_name": "Barking and Dagenham Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000540"
+    ],
+    "area_overlaps": [
+      "E14000657"
+    ]
+  },
+  {
+    "area_name": "Barnet",
+    "code": "E09000003",
+    "life_exp_birth_male_years": 81.4,
+    "life_exp_birth_male_rank": 32,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 53,
+    "life_exp_65_male_years": 19.9,
+    "life_exp_65_male_rank": 22,
+    "life_exp_65_female_years": 22.3,
+    "life_exp_65_female_rank": 44,
+    "area_id": 2489,
+    "area_mapit_name": "Barnet Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000741",
+      "E14000636",
+      "E14000703"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Bexley",
+    "code": "E09000004",
+    "life_exp_birth_male_years": 80.3,
+    "life_exp_birth_male_rank": 110,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 75,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 140,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 94,
+    "area_id": 2494,
+    "area_mapit_name": "Bexley Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000558",
+      "E14000869"
+    ],
+    "area_overlaps": [
+      "E14000696"
+    ]
+  },
+  {
+    "area_name": "Brent",
+    "code": "E09000005",
+    "life_exp_birth_male_years": 79.9,
+    "life_exp_birth_male_rank": 145,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 59,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 105,
+    "life_exp_65_female_years": 22.4,
+    "life_exp_65_female_rank": 36,
+    "area_id": 2488,
+    "area_mapit_name": "Brent Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000592",
+      "E14000591"
+    ],
+    "area_overlaps": [
+      "E14000727"
+    ]
+  },
+  {
+    "area_name": "Bromley",
+    "code": "E09000006",
+    "life_exp_birth_male_years": 81,
+    "life_exp_birth_male_rank": 51,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 51,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 62,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 84,
+    "area_id": 2482,
+    "area_mapit_name": "Bromley Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000872",
+      "E14000551",
+      "E14000604"
+    ],
+    "area_overlaps": [
+      "E14000788"
+    ]
+  },
+  {
+    "area_name": "Croydon",
+    "code": "E09000008",
+    "life_exp_birth_male_years": 79.2,
+    "life_exp_birth_male_rank": 197,
+    "life_exp_birth_female_years": 83.2,
+    "life_exp_birth_female_rank": 183,
+    "life_exp_65_male_years": 18.5,
+    "life_exp_65_male_rank": 203,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 172,
+    "area_id": 2481,
+    "area_mapit_name": "Croydon Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000654",
+      "E14000655",
+      "E14000656"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Ealing",
+    "code": "E09000009",
+    "life_exp_birth_male_years": 79.2,
+    "life_exp_birth_male_rank": 204,
+    "life_exp_birth_female_years": 84.2,
+    "life_exp_birth_female_rank": 88,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 153,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 111,
+    "area_id": 2484,
+    "area_mapit_name": "Ealing Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000675",
+      "E14000674",
+      "E14000676"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Enfield",
+    "code": "E09000010",
+    "life_exp_birth_male_years": 80.5,
+    "life_exp_birth_male_rank": 89,
+    "life_exp_birth_female_years": 84,
+    "life_exp_birth_female_rank": 102,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 80,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 97,
+    "area_id": 2495,
+    "area_mapit_name": "Enfield Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000692",
+      "E14000687",
+      "E14000691"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Greenwich",
+    "code": "E09000011",
+    "life_exp_birth_male_years": 78.5,
+    "life_exp_birth_male_rank": 247,
+    "life_exp_birth_female_years": 82.2,
+    "life_exp_birth_female_rank": 266,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 304,
+    "life_exp_65_female_years": 20.5,
+    "life_exp_65_female_rank": 267,
+    "area_id": 2493,
+    "area_mapit_name": "Greenwich Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000690",
+      "E14000718"
+    ],
+    "area_overlaps": [
+      "E14000696"
+    ]
+  },
+  {
+    "area_name": "Harrow",
+    "code": "E09000015",
+    "life_exp_birth_male_years": 82,
+    "life_exp_birth_male_rank": 8,
+    "life_exp_birth_female_years": 85.6,
+    "life_exp_birth_female_rank": 10,
+    "life_exp_65_male_years": 20.9,
+    "life_exp_65_male_rank": 1,
+    "life_exp_65_female_years": 23.4,
+    "life_exp_65_female_rank": 4,
+    "area_id": 2487,
+    "area_mapit_name": "Harrow Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000731",
+      "E14000732"
+    ],
+    "area_overlaps": [
+      "E14000906"
+    ]
+  },
+  {
+    "area_name": "Havering",
+    "code": "E09000016",
+    "life_exp_birth_male_years": 79.3,
+    "life_exp_birth_male_rank": 191,
+    "life_exp_birth_female_years": 83.8,
+    "life_exp_birth_female_rank": 118,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 197,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 92,
+    "area_id": 2485,
+    "area_mapit_name": "Havering Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000900"
+    ],
+    "area_overlaps": [
+      "E14000657",
+      "E14000751"
+    ]
+  },
+  {
+    "area_name": "Hillingdon",
+    "code": "E09000017",
+    "life_exp_birth_male_years": 79.9,
+    "life_exp_birth_male_rank": 142,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 149,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 161,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 145,
+    "area_id": 2486,
+    "area_mapit_name": "Hillingdon Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14001007",
+      "E14000737"
+    ],
+    "area_overlaps": [
+      "E14000906"
+    ]
+  },
+  {
+    "area_name": "Hounslow",
+    "code": "E09000018",
+    "life_exp_birth_male_years": 79.5,
+    "life_exp_birth_male_rank": 178,
+    "life_exp_birth_female_years": 83.3,
+    "life_exp_birth_female_rank": 172,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 199,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 136,
+    "area_id": 2483,
+    "area_mapit_name": "Hounslow Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000701",
+      "E14000593"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Kingston upon Thames",
+    "code": "E09000021",
+    "life_exp_birth_male_years": 81.4,
+    "life_exp_birth_male_rank": 36,
+    "life_exp_birth_female_years": 84.8,
+    "life_exp_birth_female_rank": 33,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 56,
+    "life_exp_65_female_years": 22.1,
+    "life_exp_65_female_rank": 60,
+    "area_id": 2480,
+    "area_mapit_name": "Kingston upon Thames Borough Council",
+    "area_type": "LBO",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000896",
+      "E14000770"
+    ]
+  },
+  {
+    "area_name": "Merton",
+    "code": "E09000024",
+    "life_exp_birth_male_years": 80.2,
+    "life_exp_birth_male_rank": 113,
+    "life_exp_birth_female_years": 84.2,
+    "life_exp_birth_female_rank": 86,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 117,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 66,
+    "area_id": 2500,
+    "area_mapit_name": "Merton Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14001040",
+      "E14000823"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Redbridge",
+    "code": "E09000026",
+    "life_exp_birth_male_years": 80.3,
+    "life_exp_birth_male_rank": 107,
+    "life_exp_birth_female_years": 84,
+    "life_exp_birth_female_rank": 97,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 113,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 109,
+    "area_id": 2497,
+    "area_mapit_name": "Redbridge Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000760",
+      "E14000759"
+    ],
+    "area_overlaps": [
+      "E14000634",
+      "E14000790"
+    ]
+  },
+  {
+    "area_name": "Richmond upon Thames",
+    "code": "E09000027",
+    "life_exp_birth_male_years": 81.7,
+    "life_exp_birth_male_rank": 20,
+    "life_exp_birth_female_years": 85.9,
+    "life_exp_birth_female_rank": 3,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 49,
+    "life_exp_65_female_years": 23.4,
+    "life_exp_65_female_rank": 6,
+    "area_id": 2499,
+    "area_mapit_name": "Richmond upon Thames Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14001005"
+    ],
+    "area_overlaps": [
+      "E14000896"
+    ]
+  },
+  {
+    "area_name": "Sutton",
+    "code": "E09000029",
+    "life_exp_birth_male_years": 80.5,
+    "life_exp_birth_male_rank": 95,
+    "life_exp_birth_female_years": 84,
+    "life_exp_birth_female_rank": 103,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 120,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 126,
+    "area_id": 2498,
+    "area_mapit_name": "Sutton Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14000621",
+      "E14000984"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Waltham Forest",
+    "code": "E09000031",
+    "life_exp_birth_male_years": 79.2,
+    "life_exp_birth_male_rank": 199,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 158,
+    "life_exp_65_male_years": 18.7,
+    "life_exp_65_male_rank": 180,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 137,
+    "area_id": 2496,
+    "area_mapit_name": "Waltham Forest Borough Council",
+    "area_type": "LBO",
+    "area_covers": [
+      "E14001013"
+    ],
+    "area_overlaps": [
+      "E14000634",
+      "E14000790"
+    ]
+  },
+  {
+    "area_name": "Bracknell Forest UA",
+    "code": "E06000036",
+    "life_exp_birth_male_years": 80.8,
+    "life_exp_birth_male_rank": 68,
+    "life_exp_birth_female_years": 84,
+    "life_exp_birth_female_rank": 104,
+    "life_exp_65_male_years": 19.5,
+    "life_exp_65_male_rank": 73,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 124,
+    "area_id": 2556,
+    "area_mapit_name": "Bracknell Forest Council",
+    "area_type": "UTA",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14001042",
+      "E14000586"
+    ]
+  },
+  {
+    "area_name": "Brighton and Hove UA",
+    "code": "E06000043",
+    "life_exp_birth_male_years": 78.7,
+    "life_exp_birth_male_rank": 235,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 194,
+    "life_exp_65_male_years": 18.3,
+    "life_exp_65_male_rank": 218,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 168,
+    "area_id": 2614,
+    "area_mapit_name": "Brighton and Hove City Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000755",
+      "E14000598"
+    ],
+    "area_overlaps": [
+      "E14000597"
+    ]
+  },
+  {
+    "area_name": "Isle of Wight UA",
+    "code": "E06000046",
+    "life_exp_birth_male_years": 80,
+    "life_exp_birth_male_rank": 139,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 141,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 156,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 149,
+    "area_id": 2636,
+    "area_mapit_name": "Isle of Wight Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000762"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Medway UA",
+    "code": "E06000035",
+    "life_exp_birth_male_years": 78.5,
+    "life_exp_birth_male_rank": 243,
+    "life_exp_birth_female_years": 82.2,
+    "life_exp_birth_female_rank": 268,
+    "life_exp_65_male_years": 17.7,
+    "life_exp_65_male_rank": 291,
+    "life_exp_65_female_years": 20.4,
+    "life_exp_65_female_rank": 277,
+    "area_id": 2584,
+    "area_mapit_name": "Medway Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000711",
+      "E14000898"
+    ],
+    "area_overlaps": [
+      "E14000626"
+    ]
+  },
+  {
+    "area_name": "Milton Keynes UA",
+    "code": "E06000042",
+    "life_exp_birth_male_years": 78.7,
+    "life_exp_birth_male_rank": 229,
+    "life_exp_birth_female_years": 82.5,
+    "life_exp_birth_female_rank": 244,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 263,
+    "life_exp_65_female_years": 20.6,
+    "life_exp_65_female_rank": 261,
+    "area_id": 2588,
+    "area_mapit_name": "Milton Keynes Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000821",
+      "E14000822"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Portsmouth UA",
+    "code": "E06000044",
+    "life_exp_birth_male_years": 78.2,
+    "life_exp_birth_male_rank": 264,
+    "life_exp_birth_female_years": 82.6,
+    "life_exp_birth_female_rank": 234,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 297,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 241,
+    "area_id": 2657,
+    "area_mapit_name": "Portsmouth City Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000883",
+      "E14000884"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Reading UA",
+    "code": "E06000038",
+    "life_exp_birth_male_years": 78.4,
+    "life_exp_birth_male_rank": 249,
+    "life_exp_birth_female_years": 82.7,
+    "life_exp_birth_female_rank": 228,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 252,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 221,
+    "area_id": 2596,
+    "area_mapit_name": "Reading Borough Council",
+    "area_type": "UTA",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000889",
+      "E14000890"
+    ]
+  },
+  {
+    "area_name": "Slough UA",
+    "code": "E06000039",
+    "life_exp_birth_male_years": 78.5,
+    "life_exp_birth_male_rank": 248,
+    "life_exp_birth_female_years": 82.7,
+    "life_exp_birth_female_rank": 230,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 261,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 196,
+    "area_id": 2606,
+    "area_mapit_name": "Slough Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000930"
+    ],
+    "area_overlaps": [
+      "E14001042"
+    ]
+  },
+  {
+    "area_name": "Southampton UA",
+    "code": "E06000045",
+    "life_exp_birth_male_years": 78.5,
+    "life_exp_birth_male_rank": 242,
+    "life_exp_birth_female_years": 82.7,
+    "life_exp_birth_female_rank": 225,
+    "life_exp_65_male_years": 18.3,
+    "life_exp_65_male_rank": 227,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 200,
+    "area_id": 2567,
+    "area_mapit_name": "Southampton City Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000956",
+      "E14000955"
+    ],
+    "area_overlaps": [
+      "E14000901"
+    ]
+  },
+  {
+    "area_name": "West Berkshire UA",
+    "code": "E06000037",
+    "life_exp_birth_male_years": 80.8,
+    "life_exp_birth_male_rank": 67,
+    "life_exp_birth_female_years": 84.6,
+    "life_exp_birth_female_rank": 44,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 81,
+    "life_exp_65_female_years": 22.5,
+    "life_exp_65_female_rank": 30,
+    "area_id": 2619,
+    "area_mapit_name": "West Berkshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000830"
+    ],
+    "area_overlaps": [
+      "E14001048",
+      "E14000890"
+    ]
+  },
+  {
+    "area_name": "Windsor and Maidenhead UA",
+    "code": "E06000040",
+    "life_exp_birth_male_years": 81.1,
+    "life_exp_birth_male_rank": 47,
+    "life_exp_birth_female_years": 84.6,
+    "life_exp_birth_female_rank": 47,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 65,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 74,
+    "area_id": 2622,
+    "area_mapit_name": "Windsor and Maidenhead Council",
+    "area_type": "UTA",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14001042",
+      "E14000803"
+    ]
+  },
+  {
+    "area_name": "Wokingham UA",
+    "code": "E06000041",
+    "life_exp_birth_male_years": 81.6,
+    "life_exp_birth_male_rank": 23,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 52,
+    "life_exp_65_male_years": 19.8,
+    "life_exp_65_male_rank": 34,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 96,
+    "area_id": 2623,
+    "area_mapit_name": "Wokingham Borough Council",
+    "area_type": "UTA",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000586",
+      "E14001048",
+      "E14000803",
+      "E14000889"
+    ]
+  },
+  {
+    "area_name": "Aylesbury Vale",
+    "code": "E07000004",
+    "life_exp_birth_male_years": 79.9,
+    "life_exp_birth_male_rank": 149,
+    "life_exp_birth_female_years": 83.9,
+    "life_exp_birth_female_rank": 109,
+    "life_exp_65_male_years": 18.7,
+    "life_exp_65_male_rank": 177,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 117,
+    "area_id": 2258,
+    "area_mapit_name": "Aylesbury Vale District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000538",
+      "E14000608"
+    ]
+  },
+  {
+    "area_name": "Chiltern",
+    "code": "E07000005",
+    "life_exp_birth_male_years": 82.1,
+    "life_exp_birth_male_rank": 7,
+    "life_exp_birth_female_years": 85.8,
+    "life_exp_birth_female_rank": 6,
+    "life_exp_65_male_years": 20.7,
+    "life_exp_65_male_rank": 4,
+    "life_exp_65_female_years": 23.4,
+    "life_exp_65_female_rank": 5,
+    "area_id": 2257,
+    "area_mapit_name": "Chiltern District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "South Bucks",
+    "code": "E07000006",
+    "life_exp_birth_male_years": 81.5,
+    "life_exp_birth_male_rank": 29,
+    "life_exp_birth_female_years": 84.7,
+    "life_exp_birth_female_rank": 37,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 78,
+    "life_exp_65_female_years": 22.5,
+    "life_exp_65_female_rank": 29,
+    "area_id": 2256,
+    "area_mapit_name": "South Bucks District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Wycombe",
+    "code": "E07000007",
+    "life_exp_birth_male_years": 81.3,
+    "life_exp_birth_male_rank": 37,
+    "life_exp_birth_female_years": 84.2,
+    "life_exp_birth_female_rank": 83,
+    "life_exp_65_male_years": 19.9,
+    "life_exp_65_male_rank": 26,
+    "life_exp_65_female_years": 22.1,
+    "life_exp_65_female_rank": 53,
+    "area_id": 2255,
+    "area_mapit_name": "Wycombe District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001056"
+    ],
+    "area_overlaps": [
+      "E14000550",
+      "E14000538",
+      "E14000631",
+      "E14000608"
+    ]
+  },
+  {
+    "area_name": "Eastbourne",
+    "code": "E07000061",
+    "life_exp_birth_male_years": 78.7,
+    "life_exp_birth_male_rank": 228,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 148,
+    "life_exp_65_male_years": 18.7,
+    "life_exp_65_male_rank": 178,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 152,
+    "area_id": 2307,
+    "area_mapit_name": "Eastbourne Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Hastings",
+    "code": "E07000062",
+    "life_exp_birth_male_years": 77.5,
+    "life_exp_birth_male_rank": 309,
+    "life_exp_birth_female_years": 81.2,
+    "life_exp_birth_female_rank": 322,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 246,
+    "life_exp_65_female_years": 20.2,
+    "life_exp_65_female_rank": 298,
+    "area_id": 2308,
+    "area_mapit_name": "Hastings Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Lewes",
+    "code": "E07000063",
+    "life_exp_birth_male_years": 80.9,
+    "life_exp_birth_male_rank": 62,
+    "life_exp_birth_female_years": 84.8,
+    "life_exp_birth_female_rank": 32,
+    "life_exp_65_male_years": 19.8,
+    "life_exp_65_male_rank": 32,
+    "life_exp_65_female_years": 22.6,
+    "life_exp_65_female_rank": 25,
+    "area_id": 2304,
+    "area_mapit_name": "Lewes District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000597",
+      "E14000786"
+    ]
+  },
+  {
+    "area_name": "Rother",
+    "code": "E07000064",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 124,
+    "life_exp_birth_female_years": 83.9,
+    "life_exp_birth_female_rank": 112,
+    "life_exp_65_male_years": 19.3,
+    "life_exp_65_male_rank": 97,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 76,
+    "area_id": 2305,
+    "area_mapit_name": "Rother District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000735",
+      "E14000557"
+    ]
+  },
+  {
+    "area_name": "Wealden",
+    "code": "E07000065",
+    "life_exp_birth_male_years": 81,
+    "life_exp_birth_male_rank": 58,
+    "life_exp_birth_female_years": 84.2,
+    "life_exp_birth_female_rank": 81,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 63,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 86,
+    "area_id": 2306,
+    "area_mapit_name": "Wealden District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001023"
+    ],
+    "area_overlaps": [
+      "E14000684",
+      "E14000557",
+      "E14000786"
+    ]
+  },
+  {
+    "area_name": "Basingstoke and Deane",
+    "code": "E07000084",
+    "life_exp_birth_male_years": 80.8,
+    "life_exp_birth_male_rank": 66,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 198,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 57,
+    "life_exp_65_female_years": 20.6,
+    "life_exp_65_female_rank": 257,
+    "area_id": 2327,
+    "area_mapit_name": "Basingstoke and Deane Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000545"
+    ],
+    "area_overlaps": [
+      "E14000844",
+      "E14000857"
+    ]
+  },
+  {
+    "area_name": "East Hampshire",
+    "code": "E07000085",
+    "life_exp_birth_male_years": 81.2,
+    "life_exp_birth_male_rank": 43,
+    "life_exp_birth_female_years": 84.2,
+    "life_exp_birth_female_rank": 85,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 54,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 133,
+    "area_id": 2330,
+    "area_mapit_name": "East Hampshire District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000680"
+    ],
+    "area_overlaps": [
+      "E14000811"
+    ]
+  },
+  {
+    "area_name": "Eastleigh",
+    "code": "E07000086",
+    "life_exp_birth_male_years": 81.6,
+    "life_exp_birth_male_rank": 22,
+    "life_exp_birth_female_years": 84.9,
+    "life_exp_birth_female_rank": 30,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 41,
+    "life_exp_65_female_years": 22.3,
+    "life_exp_65_female_rank": 41,
+    "area_id": 2329,
+    "area_mapit_name": "Eastleigh Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000685"
+    ],
+    "area_overlaps": [
+      "E14001041"
+    ]
+  },
+  {
+    "area_name": "Fareham",
+    "code": "E07000087",
+    "life_exp_birth_male_years": 80.9,
+    "life_exp_birth_male_rank": 61,
+    "life_exp_birth_female_years": 83.9,
+    "life_exp_birth_female_rank": 111,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 112,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 116,
+    "area_id": 2335,
+    "area_mapit_name": "Fareham Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000699"
+    ],
+    "area_overlaps": [
+      "E14000713"
+    ]
+  },
+  {
+    "area_name": "Gosport",
+    "code": "E07000088",
+    "life_exp_birth_male_years": 79.1,
+    "life_exp_birth_male_rank": 211,
+    "life_exp_birth_female_years": 82.3,
+    "life_exp_birth_female_rank": 257,
+    "life_exp_65_male_years": 18.2,
+    "life_exp_65_male_rank": 231,
+    "life_exp_65_female_years": 20.4,
+    "life_exp_65_female_rank": 274,
+    "area_id": 2334,
+    "area_mapit_name": "Gosport Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Hart",
+    "code": "E07000089",
+    "life_exp_birth_male_years": 82.9,
+    "life_exp_birth_male_rank": 2,
+    "life_exp_birth_female_years": 85.6,
+    "life_exp_birth_female_rank": 9,
+    "life_exp_65_male_years": 20.6,
+    "life_exp_65_male_rank": 5,
+    "life_exp_65_female_years": 22.9,
+    "life_exp_65_female_rank": 14,
+    "area_id": 2333,
+    "area_mapit_name": "Hart District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000844",
+      "E14000530"
+    ]
+  },
+  {
+    "area_name": "Havant",
+    "code": "E07000090",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 170,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 152,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 133,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 112,
+    "area_id": 2336,
+    "area_mapit_name": "Havant Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000736"
+    ],
+    "area_overlaps": [
+      "E14000811"
+    ]
+  },
+  {
+    "area_name": "New Forest",
+    "code": "E07000091",
+    "life_exp_birth_male_years": 81.9,
+    "life_exp_birth_male_rank": 15,
+    "life_exp_birth_female_years": 85.2,
+    "life_exp_birth_female_rank": 20,
+    "life_exp_65_male_years": 20.3,
+    "life_exp_65_male_rank": 11,
+    "life_exp_65_female_years": 22.8,
+    "life_exp_65_female_rank": 16,
+    "area_id": 2328,
+    "area_mapit_name": "New Forest District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000827",
+      "E14000828"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Rushmoor",
+    "code": "E07000092",
+    "life_exp_birth_male_years": 79.1,
+    "life_exp_birth_male_rank": 209,
+    "life_exp_birth_female_years": 82.9,
+    "life_exp_birth_female_rank": 208,
+    "life_exp_65_male_years": 18.3,
+    "life_exp_65_male_rank": 220,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 203,
+    "area_id": 2337,
+    "area_mapit_name": "Rushmoor Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Test Valley",
+    "code": "E07000093",
+    "life_exp_birth_male_years": 80.8,
+    "life_exp_birth_male_rank": 70,
+    "life_exp_birth_female_years": 84.6,
+    "life_exp_birth_female_rank": 40,
+    "life_exp_65_male_years": 19.3,
+    "life_exp_65_male_rank": 99,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 72,
+    "area_id": 2332,
+    "area_mapit_name": "Test Valley Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000901",
+      "E14000857"
+    ]
+  },
+  {
+    "area_name": "Winchester",
+    "code": "E07000094",
+    "life_exp_birth_male_years": 82,
+    "life_exp_birth_male_rank": 11,
+    "life_exp_birth_female_years": 85.9,
+    "life_exp_birth_female_rank": 4,
+    "life_exp_65_male_years": 19.9,
+    "life_exp_65_male_rank": 29,
+    "life_exp_65_female_years": 23.2,
+    "life_exp_65_female_rank": 9,
+    "area_id": 2331,
+    "area_mapit_name": "Winchester City Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000811",
+      "E14001041"
+    ]
+  },
+  {
+    "area_name": "Ashford",
+    "code": "E07000105",
+    "life_exp_birth_male_years": 81.3,
+    "life_exp_birth_male_rank": 40,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 73,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 42,
+    "life_exp_65_female_years": 22.1,
+    "life_exp_65_female_rank": 56,
+    "area_id": 2353,
+    "area_mapit_name": "Ashford Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000536"
+    ],
+    "area_overlaps": [
+      "E14000704"
+    ]
+  },
+  {
+    "area_name": "Canterbury",
+    "code": "E07000106",
+    "life_exp_birth_male_years": 80.2,
+    "life_exp_birth_male_rank": 118,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 162,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 145,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 163,
+    "area_id": 2354,
+    "area_mapit_name": "Canterbury City Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000619"
+    ],
+    "area_overlaps": [
+      "E14000852"
+    ]
+  },
+  {
+    "area_name": "Dartford",
+    "code": "E07000107",
+    "life_exp_birth_male_years": 79.1,
+    "life_exp_birth_male_rank": 208,
+    "life_exp_birth_female_years": 81.7,
+    "life_exp_birth_female_rank": 300,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 269,
+    "life_exp_65_female_years": 19.7,
+    "life_exp_65_female_rank": 323,
+    "area_id": 2358,
+    "area_mapit_name": "Dartford Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Dover",
+    "code": "E07000108",
+    "life_exp_birth_male_years": 79.2,
+    "life_exp_birth_male_rank": 198,
+    "life_exp_birth_female_years": 82.3,
+    "life_exp_birth_female_rank": 260,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 164,
+    "life_exp_65_female_years": 20.7,
+    "life_exp_65_female_rank": 250,
+    "area_id": 2355,
+    "area_mapit_name": "Dover District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000670"
+    ],
+    "area_overlaps": [
+      "E14000948"
+    ]
+  },
+  {
+    "area_name": "Gravesham",
+    "code": "E07000109",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 174,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 160,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 160,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 197,
+    "area_id": 2359,
+    "area_mapit_name": "Gravesham Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000715"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Maidstone",
+    "code": "E07000110",
+    "life_exp_birth_male_years": 79.9,
+    "life_exp_birth_male_rank": 143,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 154,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 192,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 188,
+    "area_id": 2356,
+    "area_mapit_name": "Maidstone Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000700",
+      "E14000804"
+    ]
+  },
+  {
+    "area_name": "Sevenoaks",
+    "code": "E07000111",
+    "life_exp_birth_male_years": 81.5,
+    "life_exp_birth_male_rank": 26,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 74,
+    "life_exp_65_male_years": 20,
+    "life_exp_65_male_rank": 19,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 88,
+    "area_id": 2350,
+    "area_mapit_name": "Sevenoaks District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000918"
+    ],
+    "area_overlaps": [
+      "E14000997",
+      "E14000659"
+    ]
+  },
+  {
+    "area_name": "Shepway",
+    "code": "E07000112",
+    "life_exp_birth_male_years": 79.3,
+    "life_exp_birth_male_rank": 192,
+    "life_exp_birth_female_years": 83.6,
+    "life_exp_birth_female_rank": 132,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 163,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 120,
+    "area_id": 2349,
+    "area_mapit_name": "Shepway District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Swale",
+    "code": "E07000113",
+    "life_exp_birth_male_years": 79.3,
+    "life_exp_birth_male_rank": 193,
+    "life_exp_birth_female_years": 82.7,
+    "life_exp_birth_female_rank": 226,
+    "life_exp_65_male_years": 18.4,
+    "life_exp_65_male_rank": 217,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 243,
+    "area_id": 2357,
+    "area_mapit_name": "Swale Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000927"
+    ],
+    "area_overlaps": [
+      "E14000700"
+    ]
+  },
+  {
+    "area_name": "Thanet",
+    "code": "E07000114",
+    "life_exp_birth_male_years": 77.6,
+    "life_exp_birth_male_rank": 302,
+    "life_exp_birth_female_years": 82.5,
+    "life_exp_birth_female_rank": 247,
+    "life_exp_65_male_years": 17.8,
+    "life_exp_65_male_rank": 279,
+    "life_exp_65_female_years": 20.8,
+    "life_exp_65_female_rank": 242,
+    "area_id": 2352,
+    "area_mapit_name": "Thanet District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000852",
+      "E14000948"
+    ]
+  },
+  {
+    "area_name": "Tonbridge and Malling",
+    "code": "E07000115",
+    "life_exp_birth_male_years": 80.6,
+    "life_exp_birth_male_rank": 86,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 76,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 123,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 64,
+    "area_id": 2351,
+    "area_mapit_name": "Tonbridge and Malling Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000997",
+      "E14000626"
+    ]
+  },
+  {
+    "area_name": "Tunbridge Wells",
+    "code": "E07000116",
+    "life_exp_birth_male_years": 81.4,
+    "life_exp_birth_male_rank": 30,
+    "life_exp_birth_female_years": 85.1,
+    "life_exp_birth_female_rank": 24,
+    "life_exp_65_male_years": 19.8,
+    "life_exp_65_male_rank": 38,
+    "life_exp_65_female_years": 22.5,
+    "life_exp_65_female_rank": 33,
+    "area_id": 2348,
+    "area_mapit_name": "Tunbridge Wells Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001004"
+    ],
+    "area_overlaps": [
+      "E14000804"
+    ]
+  },
+  {
+    "area_name": "Cherwell",
+    "code": "E07000177",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 122,
+    "life_exp_birth_female_years": 83.7,
+    "life_exp_birth_female_rank": 127,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 125,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 113,
+    "area_id": 2419,
+    "area_mapit_name": "Cherwell District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000539"
+    ],
+    "area_overlaps": [
+      "E14000874",
+      "E14000742"
+    ]
+  },
+  {
+    "area_name": "Oxford",
+    "code": "E07000178",
+    "life_exp_birth_male_years": 78.9,
+    "life_exp_birth_male_rank": 220,
+    "life_exp_birth_female_years": 83.1,
+    "life_exp_birth_female_rank": 186,
+    "life_exp_65_male_years": 18.7,
+    "life_exp_65_male_rank": 183,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 101,
+    "area_id": 2421,
+    "area_mapit_name": "Oxford City Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000873"
+    ],
+    "area_overlaps": [
+      "E14000874"
+    ]
+  },
+  {
+    "area_name": "South Oxfordshire",
+    "code": "E07000179",
+    "life_exp_birth_male_years": 81.1,
+    "life_exp_birth_male_rank": 49,
+    "life_exp_birth_female_years": 84.6,
+    "life_exp_birth_female_rank": 49,
+    "life_exp_65_male_years": 19.5,
+    "life_exp_65_male_rank": 70,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 75,
+    "area_id": 2418,
+    "area_mapit_name": "South Oxfordshire District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14001015",
+      "E14000742"
+    ]
+  },
+  {
+    "area_name": "Vale of White Horse",
+    "code": "E07000180",
+    "life_exp_birth_male_years": 81.4,
+    "life_exp_birth_male_rank": 34,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 56,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 45,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 77,
+    "area_id": 2417,
+    "area_mapit_name": "Vale of White Horse District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000874",
+      "E14001015"
+    ]
+  },
+  {
+    "area_name": "West Oxfordshire",
+    "code": "E07000181",
+    "life_exp_birth_male_years": 80.7,
+    "life_exp_birth_male_rank": 72,
+    "life_exp_birth_female_years": 83.7,
+    "life_exp_birth_female_rank": 128,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 94,
+    "life_exp_65_female_years": 21.4,
+    "life_exp_65_female_rank": 157,
+    "area_id": 2420,
+    "area_mapit_name": "West Oxfordshire District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001046"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Elmbridge",
+    "code": "E07000207",
+    "life_exp_birth_male_years": 81.6,
+    "life_exp_birth_male_rank": 21,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 61,
+    "life_exp_65_male_years": 19.8,
+    "life_exp_65_male_rank": 37,
+    "life_exp_65_female_years": 22.2,
+    "life_exp_65_female_rank": 48,
+    "area_id": 2455,
+    "area_mapit_name": "Elmbridge Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000697"
+    ],
+    "area_overlaps": [
+      "E14000907",
+      "E14001047"
+    ]
+  },
+  {
+    "area_name": "Epsom and Ewell",
+    "code": "E07000208",
+    "life_exp_birth_male_years": 82,
+    "life_exp_birth_male_rank": 10,
+    "life_exp_birth_female_years": 85.5,
+    "life_exp_birth_female_rank": 11,
+    "life_exp_65_male_years": 20.4,
+    "life_exp_65_male_rank": 9,
+    "life_exp_65_female_years": 22.7,
+    "life_exp_65_female_rank": 20,
+    "area_id": 2457,
+    "area_mapit_name": "Epsom and Ewell Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000770",
+      "E14000694"
+    ]
+  },
+  {
+    "area_name": "Guildford",
+    "code": "E07000209",
+    "life_exp_birth_male_years": 82.1,
+    "life_exp_birth_male_rank": 5,
+    "life_exp_birth_female_years": 85.3,
+    "life_exp_birth_female_rank": 18,
+    "life_exp_65_male_years": 20.2,
+    "life_exp_65_male_rank": 14,
+    "life_exp_65_female_years": 22.6,
+    "life_exp_65_female_rank": 26,
+    "area_id": 2452,
+    "area_mapit_name": "Guildford Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000824",
+      "E14000983",
+      "E14000719",
+      "E14001047"
+    ]
+  },
+  {
+    "area_name": "Mole Valley",
+    "code": "E07000210",
+    "life_exp_birth_male_years": 81.7,
+    "life_exp_birth_male_rank": 18,
+    "life_exp_birth_female_years": 85.2,
+    "life_exp_birth_female_rank": 19,
+    "life_exp_65_male_years": 20,
+    "life_exp_65_male_rank": 21,
+    "life_exp_65_female_years": 22.6,
+    "life_exp_65_female_rank": 24,
+    "area_id": 2454,
+    "area_mapit_name": "Mole Valley District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000824",
+      "E14000694"
+    ]
+  },
+  {
+    "area_name": "Reigate and Banstead",
+    "code": "E07000211",
+    "life_exp_birth_male_years": 80.8,
+    "life_exp_birth_male_rank": 65,
+    "life_exp_birth_female_years": 84,
+    "life_exp_birth_female_rank": 98,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 87,
+    "life_exp_65_female_years": 21.4,
+    "life_exp_65_female_rank": 156,
+    "area_id": 2453,
+    "area_mapit_name": "Reigate and Banstead Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000893"
+    ],
+    "area_overlaps": [
+      "E14000694",
+      "E14000681"
+    ]
+  },
+  {
+    "area_name": "Runnymede",
+    "code": "E07000212",
+    "life_exp_birth_male_years": 81,
+    "life_exp_birth_male_rank": 55,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 66,
+    "life_exp_65_male_years": 19.5,
+    "life_exp_65_male_rank": 72,
+    "life_exp_65_female_years": 22,
+    "life_exp_65_female_rank": 65,
+    "area_id": 2451,
+    "area_mapit_name": "Runnymede Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Spelthorne",
+    "code": "E07000213",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 127,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 164,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 139,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 181,
+    "area_id": 2456,
+    "area_mapit_name": "Spelthorne Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000959"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Surrey Heath",
+    "code": "E07000214",
+    "life_exp_birth_male_years": 81.1,
+    "life_exp_birth_male_rank": 46,
+    "life_exp_birth_female_years": 84.1,
+    "life_exp_birth_female_rank": 90,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 83,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 195,
+    "area_id": 2450,
+    "area_mapit_name": "Surrey Heath Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Tandridge",
+    "code": "E07000215",
+    "life_exp_birth_male_years": 80.7,
+    "life_exp_birth_male_rank": 76,
+    "life_exp_birth_female_years": 84,
+    "life_exp_birth_female_rank": 99,
+    "life_exp_65_male_years": 19.3,
+    "life_exp_65_male_rank": 95,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 165,
+    "area_id": 2448,
+    "area_mapit_name": "Tandridge District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Waverley",
+    "code": "E07000216",
+    "life_exp_birth_male_years": 81.9,
+    "life_exp_birth_male_rank": 13,
+    "life_exp_birth_female_years": 85.1,
+    "life_exp_birth_female_rank": 22,
+    "life_exp_65_male_years": 20.3,
+    "life_exp_65_male_rank": 10,
+    "life_exp_65_female_years": 22.9,
+    "life_exp_65_female_rank": 15,
+    "area_id": 2447,
+    "area_mapit_name": "Waverley Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000953"
+    ],
+    "area_overlaps": [
+      "E14000719"
+    ]
+  },
+  {
+    "area_name": "Woking",
+    "code": "E07000217",
+    "life_exp_birth_male_years": 80.5,
+    "life_exp_birth_male_rank": 97,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 68,
+    "life_exp_65_male_years": 19.5,
+    "life_exp_65_male_rank": 68,
+    "life_exp_65_female_years": 22.1,
+    "life_exp_65_female_rank": 59,
+    "area_id": 2449,
+    "area_mapit_name": "Woking Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Adur",
+    "code": "E07000223",
+    "life_exp_birth_male_years": 80.3,
+    "life_exp_birth_male_rank": 108,
+    "life_exp_birth_female_years": 83.3,
+    "life_exp_birth_female_rank": 174,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 84,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 201,
+    "area_id": 2464,
+    "area_mapit_name": "Adur District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Arun",
+    "code": "E07000224",
+    "life_exp_birth_male_years": 79.7,
+    "life_exp_birth_male_rank": 160,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 142,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 130,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 121,
+    "area_id": 2463,
+    "area_mapit_name": "Arun District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000576"
+    ],
+    "area_overlaps": [
+      "E14001055",
+      "E14000534"
+    ]
+  },
+  {
+    "area_name": "Chichester",
+    "code": "E07000225",
+    "life_exp_birth_male_years": 81,
+    "life_exp_birth_male_rank": 50,
+    "life_exp_birth_female_years": 84.6,
+    "life_exp_birth_female_rank": 39,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 47,
+    "life_exp_65_female_years": 22.4,
+    "life_exp_65_female_rank": 39,
+    "area_id": 2465,
+    "area_mapit_name": "Chichester District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000633"
+    ],
+    "area_overlaps": [
+      "E14000534"
+    ]
+  },
+  {
+    "area_name": "Crawley",
+    "code": "E07000226",
+    "life_exp_birth_male_years": 79.4,
+    "life_exp_birth_male_rank": 183,
+    "life_exp_birth_female_years": 83.6,
+    "life_exp_birth_female_rank": 138,
+    "life_exp_65_male_years": 18.7,
+    "life_exp_65_male_rank": 187,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 95,
+    "area_id": 2469,
+    "area_mapit_name": "Crawley Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000652"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Horsham",
+    "code": "E07000227",
+    "life_exp_birth_male_years": 81.5,
+    "life_exp_birth_male_rank": 27,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 69,
+    "life_exp_65_male_years": 19.9,
+    "life_exp_65_male_rank": 28,
+    "life_exp_65_female_years": 22.3,
+    "life_exp_65_female_rank": 42,
+    "area_id": 2467,
+    "area_mapit_name": "Horsham District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000753",
+      "E14000534"
+    ]
+  },
+  {
+    "area_name": "Mid Sussex",
+    "code": "E07000228",
+    "life_exp_birth_male_years": 81.9,
+    "life_exp_birth_male_rank": 14,
+    "life_exp_birth_female_years": 84.2,
+    "life_exp_birth_female_rank": 84,
+    "life_exp_65_male_years": 19.8,
+    "life_exp_65_male_rank": 35,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 132,
+    "area_id": 2466,
+    "area_mapit_name": "Mid Sussex District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000817"
+    ],
+    "area_overlaps": [
+      "E14000753",
+      "E14000534"
+    ]
+  },
+  {
+    "area_name": "Worthing",
+    "code": "E07000229",
+    "life_exp_birth_male_years": 78.8,
+    "life_exp_birth_male_rank": 227,
+    "life_exp_birth_female_years": 82.9,
+    "life_exp_birth_female_rank": 207,
+    "life_exp_65_male_years": 18.3,
+    "life_exp_65_male_rank": 219,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 184,
+    "area_id": 2468,
+    "area_mapit_name": "Worthing Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14001055",
+      "E14000682"
+    ]
+  },
+  {
+    "area_name": "Bath and North East Somerset UA",
+    "code": "E06000022",
+    "life_exp_birth_male_years": 80.6,
+    "life_exp_birth_male_rank": 84,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 65,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 91,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 89,
+    "area_id": 2551,
+    "area_mapit_name": "Bath and North East Somerset Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000846",
+      "E14000547"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Bournemouth UA",
+    "code": "E06000028",
+    "life_exp_birth_male_years": 78.6,
+    "life_exp_birth_male_rank": 237,
+    "life_exp_birth_female_years": 83.1,
+    "life_exp_birth_female_rank": 190,
+    "life_exp_65_male_years": 18.4,
+    "life_exp_65_male_rank": 209,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 207,
+    "area_id": 2555,
+    "area_mapit_name": "Bournemouth Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000584"
+    ],
+    "area_overlaps": [
+      "E14000585"
+    ]
+  },
+  {
+    "area_name": "Bristol, City of UA",
+    "code": "E06000023",
+    "life_exp_birth_male_years": 78.3,
+    "life_exp_birth_male_rank": 253,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 206,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 268,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 193,
+    "area_id": 2561,
+    "area_mapit_name": "Bristol City Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000602",
+      "E14000599",
+      "E14000600",
+      "E14000601"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Cornwall UA",
+    "code": "E06000052",
+    "life_exp_birth_male_years": 79.5,
+    "life_exp_birth_male_rank": 179,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 146,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 143,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 160,
+    "area_id": 2250,
+    "area_mapit_name": "Cornwall Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000961",
+      "E14000837",
+      "E14001003",
+      "E14000938",
+      "E14000616",
+      "E14000964"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "North Somerset UA",
+    "code": "E06000024",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 173,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 147,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 129,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 131,
+    "area_id": 2642,
+    "area_mapit_name": "North Somerset Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14001038",
+      "E14000850"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Plymouth UA",
+    "code": "E06000026",
+    "life_exp_birth_male_years": 78.3,
+    "life_exp_birth_male_rank": 252,
+    "life_exp_birth_female_years": 82.1,
+    "life_exp_birth_female_rank": 271,
+    "life_exp_65_male_years": 18.1,
+    "life_exp_65_male_rank": 242,
+    "life_exp_65_female_years": 20.5,
+    "life_exp_65_female_rank": 264,
+    "area_id": 2658,
+    "area_mapit_name": "Plymouth City Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000880",
+      "E14000879"
+    ],
+    "area_overlaps": [
+      "E14000950"
+    ]
+  },
+  {
+    "area_name": "Poole UA",
+    "code": "E06000029",
+    "life_exp_birth_male_years": 80.2,
+    "life_exp_birth_male_rank": 117,
+    "life_exp_birth_female_years": 84.1,
+    "life_exp_birth_female_rank": 92,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 64,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 99,
+    "area_id": 2594,
+    "area_mapit_name": "Poole Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000881"
+    ],
+    "area_overlaps": [
+      "E14000585",
+      "E14000815"
+    ]
+  },
+  {
+    "area_name": "South Gloucestershire UA",
+    "code": "E06000025",
+    "life_exp_birth_male_years": 81,
+    "life_exp_birth_male_rank": 52,
+    "life_exp_birth_female_years": 84.6,
+    "life_exp_birth_female_rank": 48,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 60,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 93,
+    "area_id": 2608,
+    "area_mapit_name": "South Gloucestershire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000702",
+      "E14000994",
+      "E14000774"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Swindon UA",
+    "code": "E06000030",
+    "life_exp_birth_male_years": 79.3,
+    "life_exp_birth_male_rank": 196,
+    "life_exp_birth_female_years": 82.7,
+    "life_exp_birth_female_rank": 227,
+    "life_exp_65_male_years": 18.5,
+    "life_exp_65_male_rank": 204,
+    "life_exp_65_female_years": 20.9,
+    "life_exp_65_female_rank": 216,
+    "area_id": 2612,
+    "area_mapit_name": "Swindon Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000851",
+      "E14000947"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Torbay UA",
+    "code": "E06000027",
+    "life_exp_birth_male_years": 79.1,
+    "life_exp_birth_male_rank": 207,
+    "life_exp_birth_female_years": 82.4,
+    "life_exp_birth_female_rank": 250,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 127,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 202,
+    "area_id": 2617,
+    "area_mapit_name": "Torbay Borough Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000999"
+    ],
+    "area_overlaps": [
+      "E14001001"
+    ]
+  },
+  {
+    "area_name": "Wiltshire UA",
+    "code": "E06000054",
+    "life_exp_birth_male_years": 80.4,
+    "life_exp_birth_male_rank": 101,
+    "life_exp_birth_female_years": 83.9,
+    "life_exp_birth_female_rank": 108,
+    "life_exp_65_male_years": 19.3,
+    "life_exp_65_male_rank": 98,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 104,
+    "area_id": 2245,
+    "area_mapit_name": "Wiltshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "E14000665",
+      "E14000860",
+      "E14000912",
+      "E14000635",
+      "E14000954"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "East Devon",
+    "code": "E07000040",
+    "life_exp_birth_male_years": 81.4,
+    "life_exp_birth_male_rank": 35,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 57,
+    "life_exp_65_male_years": 19.9,
+    "life_exp_65_male_rank": 30,
+    "life_exp_65_female_years": 22.3,
+    "life_exp_65_female_rank": 43,
+    "area_id": 2286,
+    "area_mapit_name": "East Devon District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000623",
+      "E14000996",
+      "E14000678"
+    ]
+  },
+  {
+    "area_name": "Exeter",
+    "code": "E07000041",
+    "life_exp_birth_male_years": 79.9,
+    "life_exp_birth_male_rank": 148,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 168,
+    "life_exp_65_male_years": 19,
+    "life_exp_65_male_rank": 141,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 80,
+    "area_id": 2290,
+    "area_mapit_name": "Exeter City Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000698"
+    ],
+    "area_overlaps": [
+      "E14000678"
+    ]
+  },
+  {
+    "area_name": "Mid Devon",
+    "code": "E07000042",
+    "life_exp_birth_male_years": 80.3,
+    "life_exp_birth_male_rank": 112,
+    "life_exp_birth_female_years": 84.9,
+    "life_exp_birth_female_rank": 28,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 93,
+    "life_exp_65_female_years": 22.7,
+    "life_exp_65_female_rank": 21,
+    "area_id": 2289,
+    "area_mapit_name": "Mid Devon District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000623",
+      "E14000996"
+    ]
+  },
+  {
+    "area_name": "North Devon",
+    "code": "E07000043",
+    "life_exp_birth_male_years": 79.7,
+    "life_exp_birth_male_rank": 162,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 166,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 151,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 150,
+    "area_id": 2285,
+    "area_mapit_name": "North Devon Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000838"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "South Hams",
+    "code": "E07000044",
+    "life_exp_birth_male_years": 81.3,
+    "life_exp_birth_male_rank": 38,
+    "life_exp_birth_female_years": 84.7,
+    "life_exp_birth_female_rank": 38,
+    "life_exp_65_male_years": 19.9,
+    "life_exp_65_male_rank": 24,
+    "life_exp_65_female_years": 22.2,
+    "life_exp_65_female_rank": 51,
+    "area_id": 2629,
+    "area_mapit_name": "South Hams District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000950"
+    ],
+    "area_overlaps": [
+      "E14000950",
+      "E14001001"
+    ]
+  },
+  {
+    "area_name": "Teignbridge",
+    "code": "E07000045",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 133,
+    "life_exp_birth_female_years": 84,
+    "life_exp_birth_female_rank": 107,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 157,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 85,
+    "area_id": 2287,
+    "area_mapit_name": "Teignbridge District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000835"
+    ],
+    "area_overlaps": [
+      "E14000623"
+    ]
+  },
+  {
+    "area_name": "Torridge",
+    "code": "E07000046",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 132,
+    "life_exp_birth_female_years": 83.2,
+    "life_exp_birth_female_rank": 178,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 166,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 129,
+    "area_id": 2630,
+    "area_mapit_name": "Torridge District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001000"
+    ],
+    "area_overlaps": [
+      "E14001000"
+    ]
+  },
+  {
+    "area_name": "West Devon",
+    "code": "E07000047",
+    "life_exp_birth_male_years": 79.9,
+    "life_exp_birth_male_rank": 150,
+    "life_exp_birth_female_years": 84.5,
+    "life_exp_birth_female_rank": 58,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 110,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 128,
+    "area_id": 2288,
+    "area_mapit_name": "West Devon Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000623",
+      "E14001000"
+    ]
+  },
+  {
+    "area_name": "Christchurch",
+    "code": "E07000048",
+    "life_exp_birth_male_years": 82,
+    "life_exp_birth_male_rank": 9,
+    "life_exp_birth_female_years": 85.3,
+    "life_exp_birth_female_rank": 15,
+    "life_exp_65_male_years": 20.6,
+    "life_exp_65_male_rank": 6,
+    "life_exp_65_female_years": 23.2,
+    "life_exp_65_female_rank": 8,
+    "area_id": 2292,
+    "area_mapit_name": "Christchurch Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "East Dorset",
+    "code": "E07000049",
+    "life_exp_birth_male_years": 82.9,
+    "life_exp_birth_male_rank": 1,
+    "life_exp_birth_female_years": 86.5,
+    "life_exp_birth_female_rank": 2,
+    "life_exp_65_male_years": 20.8,
+    "life_exp_65_male_rank": 2,
+    "life_exp_65_female_years": 23.6,
+    "life_exp_65_female_rank": 3,
+    "area_id": 2294,
+    "area_mapit_name": "East Dorset District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000839",
+      "E14000638",
+      "E14000815"
+    ]
+  },
+  {
+    "area_name": "North Dorset",
+    "code": "E07000050",
+    "life_exp_birth_male_years": 81.5,
+    "life_exp_birth_male_rank": 28,
+    "life_exp_birth_female_years": 85.5,
+    "life_exp_birth_female_rank": 13,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 43,
+    "life_exp_65_female_years": 23,
+    "life_exp_65_female_rank": 12,
+    "area_id": 2295,
+    "area_mapit_name": "North Dorset District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Purbeck",
+    "code": "E07000051",
+    "life_exp_birth_male_years": 80.8,
+    "life_exp_birth_male_rank": 69,
+    "life_exp_birth_female_years": 86.6,
+    "life_exp_birth_female_rank": 1,
+    "life_exp_65_male_years": 20.3,
+    "life_exp_65_male_rank": 12,
+    "life_exp_65_female_years": 23.6,
+    "life_exp_65_female_rank": 2,
+    "area_id": 2291,
+    "area_mapit_name": "Purbeck District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000936",
+      "E14000815"
+    ]
+  },
+  {
+    "area_name": "West Dorset",
+    "code": "E07000052",
+    "life_exp_birth_male_years": 81,
+    "life_exp_birth_male_rank": 56,
+    "life_exp_birth_female_years": 85,
+    "life_exp_birth_female_rank": 26,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 55,
+    "life_exp_65_female_years": 22.4,
+    "life_exp_65_female_rank": 38,
+    "area_id": 2293,
+    "area_mapit_name": "West Dorset District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001031"
+    ],
+    "area_overlaps": [
+      "E14000936"
+    ]
+  },
+  {
+    "area_name": "Weymouth and Portland",
+    "code": "E07000053",
+    "life_exp_birth_male_years": 78.6,
+    "life_exp_birth_male_rank": 239,
+    "life_exp_birth_female_years": 83.1,
+    "life_exp_birth_female_rank": 188,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 111,
+    "life_exp_65_female_years": 21.2,
+    "life_exp_65_female_rank": 183,
+    "area_id": 2296,
+    "area_mapit_name": "Weymouth and Portland Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Cheltenham",
+    "code": "E07000078",
+    "life_exp_birth_male_years": 80.6,
+    "life_exp_birth_male_rank": 83,
+    "life_exp_birth_female_years": 84.3,
+    "life_exp_birth_female_rank": 77,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 82,
+    "life_exp_65_female_years": 22.2,
+    "life_exp_65_female_rank": 46,
+    "area_id": 2326,
+    "area_mapit_name": "Cheltenham Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000630"
+    ],
+    "area_overlaps": [
+      "E14000990"
+    ]
+  },
+  {
+    "area_name": "Cotswold",
+    "code": "E07000079",
+    "life_exp_birth_male_years": 81.2,
+    "life_exp_birth_male_rank": 44,
+    "life_exp_birth_female_years": 85.8,
+    "life_exp_birth_female_rank": 7,
+    "life_exp_65_male_years": 20.1,
+    "life_exp_65_male_rank": 18,
+    "life_exp_65_female_years": 23.1,
+    "life_exp_65_female_rank": 11,
+    "area_id": 2322,
+    "area_mapit_name": "Cotswold District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Forest of Dean",
+    "code": "E07000080",
+    "life_exp_birth_male_years": 79.7,
+    "life_exp_birth_male_rank": 158,
+    "life_exp_birth_female_years": 83.8,
+    "life_exp_birth_female_rank": 122,
+    "life_exp_65_male_years": 18.8,
+    "life_exp_65_male_rank": 168,
+    "life_exp_65_female_years": 21.6,
+    "life_exp_65_female_rank": 123,
+    "area_id": 2321,
+    "area_mapit_name": "Forest of Dean District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Gloucester",
+    "code": "E07000081",
+    "life_exp_birth_male_years": 78,
+    "life_exp_birth_male_rank": 274,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 155,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 254,
+    "life_exp_65_female_years": 21.5,
+    "life_exp_65_female_rank": 141,
+    "area_id": 2325,
+    "area_mapit_name": "Gloucester City Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000712"
+    ],
+    "area_overlaps": [
+      "E14000990"
+    ]
+  },
+  {
+    "area_name": "Stroud",
+    "code": "E07000082",
+    "life_exp_birth_male_years": 80.5,
+    "life_exp_birth_male_rank": 92,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 143,
+    "life_exp_65_male_years": 19.3,
+    "life_exp_65_male_rank": 100,
+    "life_exp_65_female_years": 21.1,
+    "life_exp_65_female_rank": 190,
+    "area_id": 2323,
+    "area_mapit_name": "Stroud District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000980"
+    ],
+    "area_overlaps": [
+      "E14000991"
+    ]
+  },
+  {
+    "area_name": "Tewkesbury",
+    "code": "E07000083",
+    "life_exp_birth_male_years": 80.2,
+    "life_exp_birth_male_rank": 121,
+    "life_exp_birth_female_years": 84.1,
+    "life_exp_birth_female_rank": 89,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 147,
+    "life_exp_65_female_years": 22.1,
+    "life_exp_65_female_rank": 52,
+    "area_id": 2324,
+    "area_mapit_name": "Tewkesbury Borough Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14000990",
+      "E14000705"
+    ]
+  },
+  {
+    "area_name": "Mendip",
+    "code": "E07000187",
+    "life_exp_birth_male_years": 80.5,
+    "life_exp_birth_male_rank": 90,
+    "life_exp_birth_female_years": 84.2,
+    "life_exp_birth_female_rank": 82,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 75,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 91,
+    "area_id": 2428,
+    "area_mapit_name": "Mendip District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14001026",
+      "E14000932"
+    ]
+  },
+  {
+    "area_name": "Sedgemoor",
+    "code": "E07000188",
+    "life_exp_birth_male_years": 80.6,
+    "life_exp_birth_male_rank": 88,
+    "life_exp_birth_female_years": 84.1,
+    "life_exp_birth_female_rank": 96,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 118,
+    "life_exp_65_female_years": 21.7,
+    "life_exp_65_female_rank": 107,
+    "area_id": 2431,
+    "area_mapit_name": "Sedgemoor District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": [
+      "E14001026",
+      "E14000595"
+    ]
+  },
+  {
+    "area_name": "South Somerset",
+    "code": "E07000189",
+    "life_exp_birth_male_years": 80.9,
+    "life_exp_birth_male_rank": 64,
+    "life_exp_birth_female_years": 84.4,
+    "life_exp_birth_female_rank": 72,
+    "life_exp_65_male_years": 19.6,
+    "life_exp_65_male_rank": 59,
+    "life_exp_65_female_years": 22.1,
+    "life_exp_65_female_rank": 54,
+    "area_id": 2430,
+    "area_mapit_name": "South Somerset District Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14001060"
+    ],
+    "area_overlaps": [
+      "E14000932"
+    ]
+  },
+  {
+    "area_name": "Taunton Deane",
+    "code": "E07000190",
+    "life_exp_birth_male_years": 79.8,
+    "life_exp_birth_male_rank": 152,
+    "life_exp_birth_female_years": 83.8,
+    "life_exp_birth_female_rank": 119,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 158,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 166,
+    "area_id": 2429,
+    "area_mapit_name": "Taunton Deane Borough Council",
+    "area_type": "DIS",
+    "area_covers": [
+      "E14000988"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "West Somerset",
+    "code": "E07000191",
+    "life_exp_birth_male_years": 79.4,
+    "life_exp_birth_male_rank": 187,
+    "life_exp_birth_female_years": 83.8,
+    "life_exp_birth_female_rank": 116,
+    "life_exp_65_male_years": 19.7,
+    "life_exp_65_male_rank": 50,
+    "life_exp_65_female_years": 22.7,
+    "life_exp_65_female_rank": 22,
+    "area_id": 2427,
+    "area_mapit_name": "West Somerset District Council",
+    "area_type": "DIS",
+    "area_covers": [],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Isle of Anglesey / Ynys Môn",
+    "code": "W06000001",
+    "life_exp_birth_male_years": 78.5,
+    "life_exp_birth_male_rank": 245,
+    "life_exp_birth_female_years": 83,
+    "life_exp_birth_female_rank": 204,
+    "life_exp_65_male_years": 18.2,
+    "life_exp_65_male_rank": 236,
+    "life_exp_65_female_years": 21.4,
+    "life_exp_65_female_rank": 158,
+    "area_id": 2637,
+    "area_mapit_name": "Isle of Anglesey Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000041"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Gwynedd / Gwynedd",
+    "code": "W06000002",
+    "life_exp_birth_male_years": 78.8,
+    "life_exp_birth_male_rank": 223,
+    "life_exp_birth_female_years": 83.1,
+    "life_exp_birth_female_rank": 191,
+    "life_exp_65_male_years": 18.3,
+    "life_exp_65_male_rank": 224,
+    "life_exp_65_female_years": 21.4,
+    "life_exp_65_female_rank": 154,
+    "area_id": 2638,
+    "area_mapit_name": "Gwynedd Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000061",
+      "W07000057"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Conwy / Conwy",
+    "code": "W06000003",
+    "life_exp_birth_male_years": 79,
+    "life_exp_birth_male_rank": 217,
+    "life_exp_birth_female_years": 82.6,
+    "life_exp_birth_female_rank": 239,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 159,
+    "life_exp_65_female_years": 21.3,
+    "life_exp_65_female_rank": 167,
+    "area_id": 2570,
+    "area_mapit_name": "Conwy Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000058"
+    ],
+    "area_overlaps": [
+      "W07000059"
+    ]
+  },
+  {
+    "area_name": "Denbighshire / Sir Ddinbych",
+    "code": "W06000004",
+    "life_exp_birth_male_years": 78.3,
+    "life_exp_birth_male_rank": 250,
+    "life_exp_birth_female_years": 81.2,
+    "life_exp_birth_female_rank": 321,
+    "life_exp_65_male_years": 18.1,
+    "life_exp_65_male_rank": 239,
+    "life_exp_65_female_years": 20,
+    "life_exp_65_female_rank": 308,
+    "area_id": 2602,
+    "area_mapit_name": "Denbighshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000060"
+    ],
+    "area_overlaps": [
+      "W07000059",
+      "W07000062"
+    ]
+  },
+  {
+    "area_name": "Flintshire / Sir y Fflint",
+    "code": "W06000005",
+    "life_exp_birth_male_years": 79,
+    "life_exp_birth_male_rank": 215,
+    "life_exp_birth_female_years": 82.4,
+    "life_exp_birth_female_rank": 251,
+    "life_exp_65_male_years": 18.4,
+    "life_exp_65_male_rank": 214,
+    "life_exp_65_female_years": 20.6,
+    "life_exp_65_female_rank": 256,
+    "area_id": 2605,
+    "area_mapit_name": "Flintshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000043",
+      "W07000042"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Wrexham / Wrecsam",
+    "code": "W06000006",
+    "life_exp_birth_male_years": 78.2,
+    "life_exp_birth_male_rank": 256,
+    "life_exp_birth_female_years": 82,
+    "life_exp_birth_female_rank": 280,
+    "life_exp_65_male_years": 18,
+    "life_exp_65_male_rank": 248,
+    "life_exp_65_female_years": 20.3,
+    "life_exp_65_female_rank": 285,
+    "area_id": 2624,
+    "area_mapit_name": "Wrexham Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000044"
+    ],
+    "area_overlaps": [
+      "W07000062"
+    ]
+  },
+  {
+    "area_name": "Powys / Powys",
+    "code": "W06000023",
+    "life_exp_birth_male_years": 80,
+    "life_exp_birth_male_rank": 138,
+    "life_exp_birth_female_years": 83.5,
+    "life_exp_birth_female_rank": 139,
+    "life_exp_65_male_years": 19.1,
+    "life_exp_65_male_rank": 128,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 102,
+    "area_id": 2595,
+    "area_mapit_name": "Powys Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000063"
+    ],
+    "area_overlaps": [
+      "W07000068"
+    ]
+  },
+  {
+    "area_name": "Ceredigion / Ceredigion",
+    "code": "W06000008",
+    "life_exp_birth_male_years": 79.9,
+    "life_exp_birth_male_rank": 144,
+    "life_exp_birth_female_years": 83.9,
+    "life_exp_birth_female_rank": 114,
+    "life_exp_65_male_years": 19.4,
+    "life_exp_65_male_rank": 76,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 82,
+    "area_id": 2640,
+    "area_mapit_name": "Ceredigion Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000064"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Pembrokeshire / Sir Benfro",
+    "code": "W06000009",
+    "life_exp_birth_male_years": 79.4,
+    "life_exp_birth_male_rank": 184,
+    "life_exp_birth_female_years": 82.5,
+    "life_exp_birth_female_rank": 243,
+    "life_exp_65_male_years": 18.9,
+    "life_exp_65_male_rank": 150,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 205,
+    "area_id": 2641,
+    "area_mapit_name": "Pembrokeshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000065",
+      "W07000066"
+    ],
+    "area_overlaps": [
+      "W07000066"
+    ]
+  },
+  {
+    "area_name": "Carmarthenshire / Sir Gaerfyrddin",
+    "code": "W06000010",
+    "life_exp_birth_male_years": 78.5,
+    "life_exp_birth_male_rank": 241,
+    "life_exp_birth_female_years": 82.6,
+    "life_exp_birth_female_rank": 236,
+    "life_exp_65_male_years": 18.2,
+    "life_exp_65_male_rank": 232,
+    "life_exp_65_female_years": 20.4,
+    "life_exp_65_female_rank": 279,
+    "area_id": 2604,
+    "area_mapit_name": "Carmarthenshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000067",
+      "W07000045"
+    ],
+    "area_overlaps": [
+      "W07000066"
+    ]
+  },
+  {
+    "area_name": "Swansea / Abertawe",
+    "code": "W06000011",
+    "life_exp_birth_male_years": 77.6,
+    "life_exp_birth_male_rank": 300,
+    "life_exp_birth_female_years": 82.2,
+    "life_exp_birth_female_rank": 262,
+    "life_exp_65_male_years": 17.9,
+    "life_exp_65_male_rank": 273,
+    "life_exp_65_female_years": 20.7,
+    "life_exp_65_female_rank": 249,
+    "area_id": 2549,
+    "area_mapit_name": "Swansea Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000048",
+      "W07000047"
+    ],
+    "area_overlaps": [
+      "W07000069",
+      "W07000046"
+    ]
+  },
+  {
+    "area_name": "Neath Port Talbot / Castell-nedd Port Talbot",
+    "code": "W06000012",
+    "life_exp_birth_male_years": 76.6,
+    "life_exp_birth_male_rank": 333,
+    "life_exp_birth_female_years": 81.2,
+    "life_exp_birth_female_rank": 319,
+    "life_exp_65_male_years": 17.1,
+    "life_exp_65_male_rank": 328,
+    "life_exp_65_female_years": 19.8,
+    "life_exp_65_female_rank": 321,
+    "area_id": 2560,
+    "area_mapit_name": "Neath Port Talbot Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000049"
+    ],
+    "area_overlaps": [
+      "W07000069",
+      "W07000046",
+      "W07000073",
+      "W07000070",
+      "W07000074"
+    ]
+  },
+  {
+    "area_name": "Bridgend / Pen-y-bont ar Ogwr",
+    "code": "W06000013",
+    "life_exp_birth_male_years": 77,
+    "life_exp_birth_male_rank": 327,
+    "life_exp_birth_female_years": 80.6,
+    "life_exp_birth_female_rank": 335,
+    "life_exp_65_male_years": 17.5,
+    "life_exp_65_male_rank": 308,
+    "life_exp_65_female_years": 19.6,
+    "life_exp_65_female_rank": 328,
+    "area_id": 2592,
+    "area_mapit_name": "Bridgend Council",
+    "area_type": "UTA",
+    "area_covers": [],
+    "area_overlaps": [
+      "W07000073",
+      "W07000078",
+      "W07000074"
+    ]
+  },
+  {
+    "area_name": "The Vale of Glamorgan / Bro Morgannwg",
+    "code": "W06000014",
+    "life_exp_birth_male_years": 79.6,
+    "life_exp_birth_male_rank": 164,
+    "life_exp_birth_female_years": 83.4,
+    "life_exp_birth_female_rank": 165,
+    "life_exp_65_male_years": 18.6,
+    "life_exp_65_male_rank": 190,
+    "life_exp_65_female_years": 21.8,
+    "life_exp_65_female_rank": 100,
+    "area_id": 2557,
+    "area_mapit_name": "Vale of Glamorgan Council",
+    "area_type": "UTA",
+    "area_covers": [],
+    "area_overlaps": [
+      "W07000075",
+      "W07000073",
+      "W07000078",
+      "W07000079",
+      "W07000080"
+    ]
+  },
+  {
+    "area_name": "Cardiff / Caerdydd",
+    "code": "W06000015",
+    "life_exp_birth_male_years": 78.2,
+    "life_exp_birth_male_rank": 259,
+    "life_exp_birth_female_years": 82.7,
+    "life_exp_birth_female_rank": 233,
+    "life_exp_65_male_years": 17.8,
+    "life_exp_65_male_rank": 276,
+    "life_exp_65_female_years": 21,
+    "life_exp_65_female_rank": 204,
+    "area_id": 2639,
+    "area_mapit_name": "Cardiff Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000050",
+      "W07000080",
+      "W07000051"
+    ],
+    "area_overlaps": [
+      "W07000075",
+      "W07000078",
+      "W07000079",
+      "W07000080"
+    ]
+  },
+  {
+    "area_name": "Rhondda Cynon Taf / Rhondda Cynon Taf",
+    "code": "W06000016",
+    "life_exp_birth_male_years": 76.4,
+    "life_exp_birth_male_rank": 338,
+    "life_exp_birth_female_years": 81,
+    "life_exp_birth_female_rank": 327,
+    "life_exp_65_male_years": 17,
+    "life_exp_65_male_rank": 334,
+    "life_exp_65_female_years": 19.6,
+    "life_exp_65_female_rank": 327,
+    "area_id": 2599,
+    "area_mapit_name": "Rhondda Cynon Taf Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000052"
+    ],
+    "area_overlaps": [
+      "W07000075",
+      "W07000078",
+      "W07000070",
+      "W07000074"
+    ]
+  },
+  {
+    "area_name": "Merthyr Tydfil / Merthyr Tudful",
+    "code": "W06000024",
+    "life_exp_birth_male_years": 77.4,
+    "life_exp_birth_male_rank": 311,
+    "life_exp_birth_female_years": 81.1,
+    "life_exp_birth_female_rank": 324,
+    "life_exp_65_male_years": 17.5,
+    "life_exp_65_male_rank": 307,
+    "life_exp_65_female_years": 19.3,
+    "life_exp_65_female_rank": 337,
+    "area_id": 2585,
+    "area_mapit_name": "Merthyr Tydfil Council",
+    "area_type": "UTA",
+    "area_covers": [],
+    "area_overlaps": [
+      "W07000071",
+      "W07000068"
+    ]
+  },
+  {
+    "area_name": "Caerphilly / Caerffili",
+    "code": "W06000018",
+    "life_exp_birth_male_years": 77.6,
+    "life_exp_birth_male_rank": 299,
+    "life_exp_birth_female_years": 81.5,
+    "life_exp_birth_female_rank": 309,
+    "life_exp_65_male_years": 17.3,
+    "life_exp_65_male_rank": 319,
+    "life_exp_65_female_years": 19.6,
+    "life_exp_65_female_rank": 324,
+    "area_id": 2558,
+    "area_mapit_name": "Caerphilly Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000077",
+      "W07000076"
+    ],
+    "area_overlaps": [
+      "W07000071"
+    ]
+  },
+  {
+    "area_name": "Blaenau Gwent / Blaenau Gwent",
+    "code": "W06000019",
+    "life_exp_birth_male_years": 75.7,
+    "life_exp_birth_male_rank": 343,
+    "life_exp_birth_female_years": 79.9,
+    "life_exp_birth_female_rank": 345,
+    "life_exp_65_male_years": 16.5,
+    "life_exp_65_male_rank": 345,
+    "life_exp_65_female_years": 18.7,
+    "life_exp_65_female_rank": 346,
+    "area_id": 2554,
+    "area_mapit_name": "Blaenau Gwent Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000072"
+    ],
+    "area_overlaps": []
+  },
+  {
+    "area_name": "Torfaen / Tor-faen",
+    "code": "W06000020",
+    "life_exp_birth_male_years": 77.6,
+    "life_exp_birth_male_rank": 304,
+    "life_exp_birth_female_years": 82.1,
+    "life_exp_birth_female_rank": 273,
+    "life_exp_65_male_years": 17.4,
+    "life_exp_65_male_rank": 314,
+    "life_exp_65_female_years": 20.2,
+    "life_exp_65_female_rank": 301,
+    "area_id": 2616,
+    "area_mapit_name": "Torfaen Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000053"
+    ],
+    "area_overlaps": [
+      "W07000054",
+      "W07000056"
+    ]
+  },
+  {
+    "area_name": "Monmouthshire / Sir Fynwy",
+    "code": "W06000021",
+    "life_exp_birth_male_years": 80.1,
+    "life_exp_birth_male_rank": 128,
+    "life_exp_birth_female_years": 83.9,
+    "life_exp_birth_female_rank": 113,
+    "life_exp_65_male_years": 19.2,
+    "life_exp_65_male_rank": 107,
+    "life_exp_65_female_years": 21.9,
+    "life_exp_65_female_rank": 78,
+    "area_id": 2603,
+    "area_mapit_name": "Monmouthshire Council",
+    "area_type": "UTA",
+    "area_covers": [
+      "W07000055"
+    ],
+    "area_overlaps": [
+      "W07000054",
+      "W07000055"
+    ]
+  },
+  {
+    "area_name": "Newport / Casnewydd",
+    "code": "W06000022",
+    "life_exp_birth_male_years": 77.9,
+    "life_exp_birth_male_rank": 286,
+    "life_exp_birth_female_years": 82.1,
+    "life_exp_birth_female_rank": 274,
+    "life_exp_65_male_years": 17.6,
+    "life_exp_65_male_rank": 299,
+    "life_exp_65_female_years": 20.4,
+    "life_exp_65_female_rank": 272,
+    "area_id": 2559,
+    "area_mapit_name": "Newport Council",
+    "area_type": "UTA",
+    "area_covers": [],
+    "area_overlaps": [
+      "W07000055",
+      "W07000056"
+    ]
+  }
+]

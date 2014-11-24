@@ -100,3 +100,62 @@ confint(lm_life3, )
 lm_SRH2 <- lm(Score ~ SRH_score + party.x + gender.x, data = data_merged[data_merged$SRH_score < mean(data_merged$SRH_score) - sd(data_merged$SRH_score), ])
 summary(lm_SRH2)
 confint(lm_SRH2, )
+
+
+# Check variance of observed infant mortality data vs. predicted if there were no effect
+# We do this because a reviewer raised the question
+
+# First, calculate the number of births in each area
+data_merged$births <- round((data_merged$deaths_num_infant/data_merged$deaths_rate_infant)*1000, 0) 
+
+# Next, calculate the mean infant mortality rate
+# This will deviate from the figure for the whole of the United Kingdom because it isn't weighted, buthopefully not by very much since the parliamentary constituencies are reasonably evenly sized
+meanInfMortRate <- mean(data_merged$deaths_rate_infant)/1000
+
+# We start by comparing variances for only one year, later we do it for a 3-year average
+# Write a function to simulate data for one year
+fun_simDeaths <- function(x){
+  deaths <- rbinom(1000, x, meanInfMortRate)
+  deathRate <- deaths/x
+  return(deathRate)
+}
+
+# Perform simulation
+DeathRatesOneYear <- lapply(data_merged$births, fun_simDeaths)
+
+# Plot results
+par(mar=c(5.1, 4.1, 4.1, 2.1))
+plot(density(unlist(DeathRatesOneYear), na.rm = T, bw = 0.0005), frame.plot = F, xlab = "Infant mortality", xlim = c(0, 0.012), main = "Data from one year (2011)")
+legend("topright", lty = 1, legend = c("Simulated", "Observed"), col = c("black", "red"), bty = "n")
+lines(density(data_merged$deaths_rate_infant[data_merged$deaths_rate_infant != 0]/1000, na.rm = T), col = "red")
+
+# Calculate variances
+var(unlist(DeathRatesOneYear)*1000, na.rm = T)
+var(data_merged$deaths_rate_infant[data_merged$deaths_rate_infant != 0])
+var(data_merged$deaths_rate_infant[data_merged$deaths_rate_infant != 0]/1000)/var(unlist(DeathRatesOneYear), na.rm = T)
+
+# Now we do it for a 3-year average
+# Write a function to simulate data for 3 years
+fun_simDeaths3 <- function(x){
+  deaths1 <- rbinom(1000, x, meanInfMortRate)
+  deaths2 <- rbinom(1000, x, meanInfMortRate)
+  deaths3 <- rbinom(1000, x, meanInfMortRate)
+  deaths <- data.frame(deaths1, deaths2, deaths3)
+  deaths$meanDeaths <- round(rowMeans(deaths, na.rm = T), 0)
+  deathRate <- deaths$meanDeaths/x
+  return(deathRate)
+}
+
+# Perform simulation
+DeathRates3Years <- lapply(data_merged$births, fun_simDeaths3)
+
+# Plot results
+plot(density(unlist(DeathRates3Years), na.rm = T, bw = 0.0005), frame.plot = F, xlab = "Infant mortality", xlim = c(0, 0.012), main = "Data from 3 years (2010-2012)")
+legend("topright", lty = 1, legend = c("Simulated", "Observed"), col = c("black", "red"), bty = "n")
+lines(density(data_merged$InfMort[data_merged$InfMort != 0]/1000, na.rm = T), col = "red")
+
+# Calculate variances and the
+var(unlist(DeathRates3Years)*1000, na.rm = T)
+var(data_merged$InfMort, na.rm = T)
+var(data_merged$InfMort/1000, na.rm = T)/var(unlist(DeathRates3Years), na.rm = T)
+
