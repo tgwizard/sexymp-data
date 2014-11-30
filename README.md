@@ -43,4 +43,4 @@ For analysis.
 The health data is from the ONS and licenced under the [Open Government
 Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/).
 
-The code is free.
+The code is [free](LICENSE.md).
