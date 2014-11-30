@@ -1,6 +1,6 @@
 # Sexy MP data and scripts
 
-**TODO:** Describe in a few sentences what this is.
+![DOI](https://zenodo.org/badge/7471/tgwizard/sexymp-data.svg)
 
 
 # Process data
