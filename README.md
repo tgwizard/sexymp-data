@@ -1,6 +1,6 @@
 # Sexy MP data and scripts
 
-![DOI](https://zenodo.org/badge/7471/tgwizard/sexymp-data.svg)
+[![DOI](https://zenodo.org/badge/7471/tgwizard/sexymp-data.svg)](http://dx.doi.org/10.5281/zenodo.12984)
 
 
 # Process data
